@@ -314,8 +314,30 @@
         });
       </script>
 
+      <div class="qcontainer" id="quiz-container" data-start-id="24" data-end-id="38">
+        <h1>LET'S PRACTICE!</h1>
+        <div id="start-container">
+          <button id="start-button">Start</button>
+        </div>
+        <div class="sentence" id="sentence" style="display: none;"></div>
+        <div class="options" id="options" style="display: none;"></div>
+        <div class="result" style="display: none;"></div>
+        <div id="buttons" style="display: none;"></div>
+        
+      </div>
       
-      
+      <script src="js/quiz.js"></script>
+      <script>
+        document.addEventListener('DOMContentLoaded', () => {
+          const urlParams = new URLSearchParams(window.location.search);
+          const quizStartId = urlParams.get('quizStartId') || 1;
+          const quizEndId = urlParams.get('quizEndId') || 10;
+        
+          console.log('Quiz Start ID:', quizStartId);
+          console.log('Quiz End ID:', quizEndId);
+        });
+      </script>
+    </div>
 
     <!-- Thumbnails -->
     <div class="thumbnails-section">
