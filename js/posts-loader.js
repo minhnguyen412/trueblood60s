@@ -11,8 +11,8 @@ function showImageCard(imageData) {
         <span class="close" onclick="this.parentElement.style.display='none'">&times;</span>
         const imageHTML = imageData.imageSrc ? `<img src="${imageData.imageSrc}" alt="${imageData.character}">` : '';
         <h3>${imageData.character}</h3>
-        <p>Meaning: ${imageData.meaning}</p>
-        <p>Pinyin: ${imageData.pinyin}</p>
+        <p>${imageData.meaning}</p>
+        <p>${imageData.pinyin}</p>
         
     `;
     document.body.appendChild(card);
