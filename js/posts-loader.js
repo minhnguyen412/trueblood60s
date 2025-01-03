@@ -13,11 +13,7 @@ function showImageCard(imageData) {
         <h3>${imageData.character}</h3>
         <p>Meaning: ${imageData.meaning}</p>
         <p>Pinyin: ${imageData.pinyin}</p>
-        <audio controls>
-            <source src="${imageData.audioSrc}" type="audio/mpeg">
-            Your browser does not support the audio tag.
-        </audio>
-        <div id="writer-container" style="display: flex; gap: 10px;"></div>
+        
     `;
     document.body.appendChild(card);
 
