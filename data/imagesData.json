@@ -1,16 +1,16 @@
 [
     {
         "id": "1",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672810/%E4%BD%A0_xmccfa.png",
-        "character": "你",
-        "meaning": "You",
-        "pinyin": "nǐ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673172/%E4%BD%A0_ll3o9t.mp3"
+        "imageSrc": "",
+        "character": "Welcome to",
+        "meaning": "Chào mừng đến với",
+        "pinyin": "ˈwɛlkəm tu",
+        "audioSrc": ""
     },
     {
         "id": "2",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672816/%E5%A5%BD_cktmxb.png",
-        "character": "好",
+        "imageSrc": "",
+        "character": "I'm looking for",
         "meaning": "Good",
         "pinyin": "hǎo",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673266/%E5%A5%BD_lge2io.mp3"
