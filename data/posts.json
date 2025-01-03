@@ -11,8 +11,8 @@
     {
         "id": 2, 
         "user": "Woman", 
-        "title": "Hi. I'm looking for that thick,translucent plastic sheeting ... the kind they hang in front of the doors of walk-in refrigerators.", 
-        "segments": ["Hi.", "I'm looking for", "that thick,translucent plastic sheeting ...", "the kind they hang", "in front of the doors of", "walk-in refrigerators."],
+        "title": "Hi. I'm looking for that thick, translucent plastic sheeting ... the kind they hang in front of the doors of walk-in refrigerators.", 
+        "segments": ["Hi.", "I'm looking for", "that thick, translucent plastic sheeting ...", "the kind they hang", "in front of the doors of", "walk-in refrigerators."],
         "description": "haɪ. aɪm ˈlʊkɪŋ fɔr ðæt θɪk,trænˈslusənt ˈplæstɪk ˈʃitɪŋ ... ðə kaɪnd ðeɪ hæŋ ɪn frʌnt ʌv ðə dɔrz ʌv wɔk-ɪn rɪˈfrɪʤəˌreɪtərz.", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673115/%E7%8E%8B%E8%80%81%E5%B8%88%E6%82%A8%E5%A5%BD_gmcnzg.mp3"
@@ -137,8 +137,8 @@
     {
         "id": 16, 
         "user": "Tara", 
-        "title": "Fine. Waylon! Trust me, you are not gettin' me fired! I am quittin'! You were just the <snip> catalyst! ... and for that, I ought to thank you!", 
-        "segments": ["Fine. Waylon!", "Trust me,", "you are not", "gettin' me fired!", "I am quittin'!", "You were just", "the <snip> catalyst! ...", "and for that,", "I ought to thank you!"],
+        "title": "Fine. Waylon! Trust me, you are not gettin' me fired! I am quittin'! You were just the catalyst! ... and for that, I ought to thank you!", 
+        "segments": ["Fine. Waylon!", "Trust me,", "you are not", "gettin' me fired!", "I am quittin'!", "You were just", "the catalyst! ...", "and for that,", "I ought to thank you!"],
         "description": "faɪn. ˈweɪˌlɑn! trʌst mi, ju ɑr nɑt ˈɡɪtən mi ˈfaɪərd! aɪ æm ˈkwɪtɪn! ju wɜr ʤʌst ði <snɪp> ˈkætələst! ... ænd fɔr ðæt, aɪ ɔt tu θæŋk ju!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673108/%E6%88%91%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA_tcpxrs.mp3"
@@ -168,7 +168,7 @@
         "segments": ["That's for", "pattin' my ass too much!", "I'm goin'", "get my baby daddy,", "who just got out of prison,", "to come and kick your teef in!"],
         "description": "ðæts fɔr ˈpætɪn maɪ æs tu mʌʧ! aɪm ˈɡoʊən ɡɛt maɪ ˈbeɪbi ˈdædi, hu ʤʌst ɡɑt aʊt ʌv ˈprɪzən, tu kʌm ænd kɪk jʊər teef ɪn!", 
         "avatar": "", 
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673112/%E6%B1%89%E8%AF%AD%E9%9A%BE%E5%90%97_m1wdjy.mp3"
+        "audioSrc": ""
     },
     {
         "id": 20, 
