@@ -6,13 +6,13 @@
         "segments": ["Welcome", "to", "Super Save-A-Bunch", "."],
         "description": "ˈwɛlkəm tu ˈsupər seɪv-ə-bʌnʧ.", 
         "avatar": "", 
-        "audioSrc": "https://mega.nz/embed/WFMlRaRI#BSwTQHkRXTgL4Se3Bd3HctcxdJnouZFTYy5tUCJrMyg!1v1c"
+        "audioSrc": ""
     },
     {
         "id": 2, 
         "user": "Woman", 
         "title": "Hi. I'm looking for that thick,translucent plastic sheeting ... the kind they hang in front of the doors of walk-in refrigerators.", 
-        "segments": [],
+        "segments": ["Hi.", "I'm looking for", "that thick,translucent plastic sheeting ...", "the kind they hang", "in front of the doors of", "walk-in refrigerators."],
         "description": "haɪ. aɪm ˈlʊkɪŋ fɔr ðæt θɪk,trænˈslusənt ˈplæstɪk ˈʃitɪŋ ... ðə kaɪnd ðeɪ hæŋ ɪn frʌnt ʌv ðə dɔrz ʌv wɔk-ɪn rɪˈfrɪʤəˌreɪtərz.", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673115/%E7%8E%8B%E8%80%81%E5%B8%88%E6%82%A8%E5%A5%BD_gmcnzg.mp3"
@@ -21,7 +21,7 @@
         "id": 3, 
         "user": "Tara", 
         "title": "Uh ... we don't sell that here. You could try Home Depot.", 
-        "segments": [],
+        "segments": ["Uh ...", "we don't sell that here.", "You could try Home Depot."],
         "description": "ʌ ... wi doʊnt sɛl ðæt hir. ju kʊd traɪ hoʊm ˈdipoʊ.", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673099/%E6%82%A8%E5%A5%BD%E8%AF%B7%E8%BF%9B%E8%AF%B7%E5%9D%90%E8%AF%B7%E5%96%9D%E8%8C%B6_tx8mtv.mp3"
@@ -30,7 +30,7 @@
         "id": 4, 
         "user": "Woman", 
         "title": "I tried them already. They sent me here.", 
-        "segments": [],
+        "segments": ["I tried them already.", "They sent me here."],
         "description": "aɪ traɪd ðɛm ɔlˈrɛdi. ðeɪ sɛnt mi hir.", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673119/%E8%B0%A2%E8%B0%A2_onqpdc.mp3"
@@ -39,7 +39,7 @@
         "id": 5, 
         "user": "Woman", 
         "title": "Now, I cannot believe you don't have that stuff. Oh, I don't even know what it's called!",
-        "segments": [],
+        "segments": ["Now,", "I cannot believe", "you don't have that stuff.", "Oh, I don't even know", "what it's called!"],
         "description": "naʊ, aɪ ˈkænɑt bɪˈliv ju doʊnt hæv ðæt stʌf. oʊ, aɪ doʊnt ˈivɪn noʊ wɑt ɪts kɔld!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673084/%E4%B8%8D%E5%AE%A2%E6%B0%94_yyqayx.mp3"
@@ -48,7 +48,7 @@
         "id": 6, 
         "user": "Tara", 
         "title": "Sorry.", 
-        "segments": [],
+        "segments": ["Sorry."],
         "description": "ˈsɑri.", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673096/%E5%B7%A5%E4%BD%9C%E5%BF%99%E5%90%97_ff0umi.mp3"
@@ -57,7 +57,7 @@
         "id": 7, 
         "user": "Woman", 
         "title": "Well, you're supposed to have everything!",
-        "segments": [],
+        "segments": ["Well,", "you're supposed to", "have everything!"],
         "description": "wɛl, jʊr səˈpoʊzd tu hæv ˈɛvriˌθɪŋ!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673083/%E4%B8%8D%E5%A4%AA%E5%BF%99_u5zgbz.mp3"
@@ -66,7 +66,7 @@
         "id": 8, 
         "user": "Tara", 
         "title": "Well, we don't have that stuff ... that you don't even know what it's called!", 
-        "segments": [],
+        "segments": ["Well,", "we don't have that stuff ...", "that you don't even know", "what it's called!"],
         "description": "wɛl, wi doʊnt hæv ðæt stʌf ... ðæt ju doʊnt ˈivɪn noʊ wɑt ɪts kɔld!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673122/%E8%BA%AB%E4%BD%93%E5%A5%BD%E5%90%97_j1pg0s.mp3"
@@ -75,7 +75,7 @@
         "id": 9, 
         "user": "Woman", 
         "title": "Your website says that this is the most well-stocked store in five parishes! Now, I just drove over an hour from Marthaville ...", 
-        "segments": [],
+        "segments": ["Your website says that", "this is the most well-stocked store", "in five parishes!", "Now,", "I just drove", "over an hour", "from Marthaville ..."],
         "description": "jʊər ˈwɛbˌsaɪt sɛz ðæt ðɪs ɪz ðə moʊst wɛl-stɑkt stɔr ɪn faɪv ˈpærɪʃɪz! naʊ, aɪ ʤʌst droʊv ˈoʊvər ən ˈaʊər frʌm Marthaville ...", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673097/%E5%BE%88%E5%A5%BD_iefyxe.mp3"
@@ -84,7 +84,7 @@
         "id": 10, 
         "user": "Tara", 
         "title": "Does our website have a phone number?", 
-        "segments": [],
+        "segments": ["Does our website", "have a phone number?"],
         "description": "dʌz ˈaʊər ˈwɛbˌsaɪt hæv ə foʊn ˈnʌmbər?", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673118/%E8%AF%B7%E9%97%AE%E4%BD%A0%E8%B4%B5%E5%A7%93_e22nk8.mp3"
@@ -93,7 +93,7 @@
         "id": 11, 
         "user": "Woman", 
         "title": "Well, I suppose it does, but...", 
-        "segments": [],
+        "segments": ["Well,", "I suppose", "it does,", "but..."],
         "description": "wɛl, aɪ səˈpoʊz ɪt dʌz, bʌt...", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673104/%E6%88%91%E5%A7%93%E5%BC%A0_o7ewjh.mp3"
@@ -102,7 +102,7 @@
         "id": 12, 
         "user": "Tara", 
         "title": "So ... it never occurred to you, before you drove an hour, to pick up the phone and call us, to see if we stocked whatever the hell it is that you're looking for?", 
-        "segments": [],
+        "segments": ["So ...", "it never occurred to you,", "before you drove an hour,", "to pick up the phone and call us,", "to see if", "we stocked whatever the hell it is", "that you're looking for?"],
         "description": "soʊ ... ɪt ˈnɛvər əˈkɜrd tu ju, bɪˈfɔr ju droʊv ən ˈaʊər, tu pɪk ʌp ðə foʊn ænd kɔl ʌs, tu si ɪf wi stɑkt ˌwʌˈtɛvər ðə hɛl ɪt ɪz ðæt jʊr ˈlʊkɪŋ fɔr?", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673086/%E4%BD%A0%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97_gq6ngu.mp3"
@@ -111,7 +111,7 @@
         "id": 13, 
         "user": "Woman", 
         "title": "Well, I think that if a business chooses to classify itself as ...", 
-        "segments": [],
+        "segments": ["Well,", "I think that", "if a business", "chooses to classify", "itself as ..."],
         "description": "wɛl, aɪ θɪŋk ðæt ɪf ə ˈbɪznəs ˈʧuzəz tu ˈklæsəˌfaɪ ɪtˈsɛlf æz ...", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673102/%E6%88%91%E5%8F%AB%E5%BC%A0%E4%B8%9C_bqs2hg.mp3"
@@ -120,7 +120,7 @@
         "id": 14, 
         "user": "Tara", 
         "title": "Why didn't you just find it on-line and have it delivered to your house? Or were you just looking for an excuse to wear them ugly-ass clothes?", 
-        "segments": [],
+        "segments": ["Why didn't you", "just find it on-line", "and have it delivered to", "your house?", "Or", "were you just", "looking for an excuse", "to wear them ugly-ass clothes?"],
         "description": "waɪ ˈdɪdənt ju ʤʌst faɪnd ɪt ˈɔnˌlaɪn ænd hæv ɪt dɪˈlɪvərd tu jʊər haʊs? ɔr wɜr ju ʤʌst ˈlʊkɪŋ fɔr ən ɪkˈskjus tu wɛr ðɛm ˈʌɡli-æs kloʊðz?", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673093/%E4%BD%A0%E6%98%AF%E5%93%AA%E5%9B%BD%E4%BA%BA_ob0jxo.mp3"
@@ -129,7 +129,7 @@
         "id": 15, 
         "user": "Woman", 
         "title": "I would like to speak to your manager.", 
-        "segments": [],
+        "segments": ["I would like", "to speak to your manager."],
         "description": "aɪ wʊd laɪk tu spik tu jʊər ˈmænəʤər.", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673106/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BD%A0%E6%98%AF%E5%93%AA%E5%9B%BD%E4%BA%BA_v28mm0.mp3"
@@ -138,7 +138,7 @@
         "id": 16, 
         "user": "Tara", 
         "title": "Fine. Waylon! Trust me, you are not gettin' me fired! I am quittin'! You were just the <snip> catalyst! ... and for that, I ought to thank you!", 
-        "segments": [],
+        "segments": ["Fine. Waylon!", "Trust me,", "you are not", "gettin' me fired!", "I am quittin'!", "You were just", "the <snip> catalyst! ...", "and for that,", "I ought to thank you!"],
         "description": "faɪn. ˈweɪˌlɑn! trʌst mi, ju ɑr nɑt ˈɡɪtən mi ˈfaɪərd! aɪ æm ˈkwɪtɪn! ju wɜr ʤʌst ði <snɪp> ˈkætələst! ... ænd fɔr ðæt, aɪ ɔt tu θæŋk ju!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673108/%E6%88%91%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BA%BA_tcpxrs.mp3"
@@ -147,7 +147,7 @@
         "id": 17, 
         "user": "Woman", 
         "title": "You are a very rude young woman!", 
-        "segments": [],
+        "segments": ["You are", "a very rude young woman!"],
         "description": "ju ɑr ə ˈvɛri rud jʌŋ ˈwʊmən!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673091/%E4%BD%A0%E5%AD%A6%E4%B9%A0%E4%BB%80%E4%B9%88_gfsrgk.mp3"
@@ -156,7 +156,7 @@
         "id": 18, 
         "user": "Tara", 
         "title": "Oh, this ain't rude. This is uppity!", 
-        "segments": ["uppity"],
+        "segments": ["Oh,", "this ain't rude.", "This is", "uppity!"],
         "description": "oʊ, ðɪs eɪnt rud. ðɪs ɪz ˈʌpəti!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673105/%E6%88%91%E5%AD%A6%E4%B9%A0%E6%B1%89%E8%AF%AD_jhzfom.mp3"
@@ -165,7 +165,7 @@
         "id": 19, 
         "user": "Tara", 
         "title": "That's for pattin' my ass too much! I'm goin' get my baby daddy, who just got out of prison, to come and kick your teef in!", 
-        "segments": [],
+        "segments": ["That's for", "pattin' my ass too much!", "I'm goin'", "get my baby daddy,", "who just got out of prison,", "to come and kick your teef in!"],
         "description": "ðæts fɔr ˈpætɪn maɪ æs tu mʌʧ! aɪm ˈɡoʊən ɡɛt maɪ ˈbeɪbi ˈdædi, hu ʤʌst ɡɑt aʊt ʌv ˈprɪzən, tu kʌm ænd kɪk jʊər teef ɪn!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673112/%E6%B1%89%E8%AF%AD%E9%9A%BE%E5%90%97_m1wdjy.mp3"
@@ -174,7 +174,7 @@
         "id": 20, 
         "user": "Waylon", 
         "title": "Jesus, Tara. Please don't do any...", 
-        "segments": [],
+        "segments": ["Jesus, Tara.", "Please don't do any..."],
         "description": "ˈʤizəs, ˈtɛrə. pliz doʊnt du ˈɛni...", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673110/%E6%B1%89%E5%AD%97%E5%BE%88%E9%9A%BE%E5%8F%91%E9%9F%B3%E4%B8%8D%E5%A4%AA%E9%9A%BE_ro8hyr.mp3"
@@ -182,9 +182,9 @@
     {
         "id": 21, 
         "user": "Tara", 
-        "title": "Oh, my God! I'm not serious, you pathetic r*cist! I don't have a baby! Damn! I know y'all have to be stupid, but do you have to be that stupid?! F***! F*** this job!", 
-        "segments": [],
-        "description": "oʊ, maɪ ɡɑd! aɪm nɑt ˈsɪriəs, ju pəˈθɛtɪk ɑr*sɪst! aɪ doʊnt hæv ə ˈbeɪbi! dæm! aɪ noʊ jɔl hæv tu bi ˈstupɪd, bʌt du ju hæv tu bi ðæt ˈstupɪd?! f***! f*** ðɪs ʤɑb!", 
+        "title": "Oh, my God! I'm not serious, you pathetic racist! I don't have a baby! Damn! I know y'all have to be stupid, but do you have to be that stupid?! F***! F*** this job!", 
+        "segments": ["Oh, my God!", "I'm not serious,", "you pathetic racist!", "I don't have a baby!", "Damn!", "I know y'all", "have to be stupid,", "but", "do you have to", "be that stupid?!", "F***! F*** this job!"],
+        "description": "oʊ, maɪ ɡɑd! aɪm nɑt ˈsɪriəs, ju pəˈθɛtɪk ˈreɪsɪst! aɪ doʊnt hæv ə ˈbeɪbi! dæm! aɪ noʊ jɔl hæv tu bi ˈstupɪd, bʌt du ju hæv tu bi ðæt ˈstupɪd?! f***! f*** ðɪs ʤɑb!", 
         "avatar": "", 
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673133/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88_lho2uy.mp3"
     },
