@@ -9,7 +9,7 @@ function showImageCard(imageData) {
     card.className = 'image-card';
     card.innerHTML = `
         <span class="close" onclick="this.parentElement.style.display='none'">&times;</span>
-        <img src="${imageData.imageSrc}" alt="${imageData.character}">
+        const imageHTML = imageData.imageSrc ? `<img src="${imageData.imageSrc}" alt="${imageData.character}">
         <h3>${imageData.character}</h3>
         <p>Meaning: ${imageData.meaning}</p>
         <p>Pinyin: ${imageData.pinyin}</p>
@@ -21,62 +21,11 @@ function showImageCard(imageData) {
     `;
     document.body.appendChild(card);
 
-    // Lấy container để chứa các writer
-    const writerContainer = card.querySelector('#writer-container');
-
-    // Biến để giữ danh sách writers
-    let writers = [];
-
-    // Hàm khởi tạo writer
-    function initializeWriters(characters) {
-        // Xóa tất cả writer cũ nếu có
-        writers.forEach(writer => {
-            try {
-                writer.destroy();
-            } catch (error) {
-                console.error("Error destroying writer:", error);
-            }
-        });
-        writers = []; // Reset danh sách writer
-
-        // Tạo writer cho từng ký tự
-        characters.forEach(char => {
-            const writerDiv = document.createElement('div');
-            writerDiv.style.width = '100px';
-            writerDiv.style.height = '100px';
-            writerDiv.style.border = '1px solid #ccc';
-            writerDiv.style.borderRadius = '5px';
-            writerDiv.style.cursor = 'pointer';
-
-            writerContainer.appendChild(writerDiv);
-
-            try {
-                const writer = HanziWriter.create(writerDiv, char, {
-                    width: 100,
-                    height: 100,
-                    padding: 5,
-                    showOutline: true,
-                    strokeAnimationSpeed: 1,
-                    delayBetweenStrokes: 300,
-                });
-
-                writers.push({ writer, writerDiv });
-
-                // Thêm sự kiện click vào writerDiv
-                writerDiv.addEventListener('click', () => {
-                    writer.animateCharacter();
-                });
-            } catch (error) {
-                console.error(`Error creating HanziWriter for character "${char}":`, error);
-            }
-        });
-    }
-
+    
     // Tách các ký tự từ chuỗi character
     const characters = imageData.character.split('');
 
-    // Khởi tạo writer cho từng ký tự
-    initializeWriters(characters);
+    
 }
 
 // Hàm chính để load posts với các tham số có thể thay đổi
