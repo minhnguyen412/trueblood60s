@@ -9,7 +9,7 @@ function showImageCard(imageData) {
     card.className = 'image-card';
     card.innerHTML = `
         <span class="close" onclick="this.parentElement.style.display='none'">&times;</span>
-        const imageHTML = imageData.imageSrc ? `<img src="${imageData.imageSrc}" alt="${imageData.character}">` : '';
+        
         <h3>${imageData.character}</h3>
         <p>${imageData.meaning}</p>
         <p>${imageData.pinyin}</p>
