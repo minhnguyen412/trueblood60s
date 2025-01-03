@@ -17,8 +17,7 @@ function showImageCard(imageData) {
     `;
     document.body.appendChild(card);
 
-    // Tách các ký tự từ chuỗi character
-    const characters = imageData.character.split('');    
+    
 }
 
 // Hàm chính để load posts với các tham số có thể thay đổi
