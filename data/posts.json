@@ -3,7 +3,7 @@
         "id": 1, 
         "user": "Tara", 
         "title": "Welcome to Super Save-A-Bunch.",
-        "segments": ["Welcome", "to", "Super Save-A-Bunch", "."],
+        "segments": ["Welcome to", "Super Save-A-Bunch."],
         "description": "ˈwɛlkəm tu ˈsupər seɪv-ə-bʌnʧ.", 
         "avatar": "", 
         "audioSrc": ""
