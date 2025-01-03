@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "True Blood: Season 1, Episode 1",
-        "description": "Tara talks to a customer at Super Save A Bunch",
+        "title": "Tara talks to a customer at Super Save A Bunch",
+        "description": "Season 1, Episode 1",
         "thumbnail": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/THUMBNAIL/S1E1.jpeg",
         "videoLink": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/THUMBNAIL/S1E1.jpeg",
         "htmlLink": "posts.html?postStartId=1&postEndId=21&quizStartId=39&quizEndId=59&id=1"
