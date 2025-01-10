@@ -4,30 +4,42 @@ function isInViewport(element) {
     return rect.top < window.innerHeight && rect.bottom >= 0;
 }
 let activeImageCard = null; // Biến để theo dõi image card đang mở
+
 function showImageCard(imageData) {
+    // Nếu đã có một card đang mở, đóng nó lại
     if (activeImageCard) {
         closeImageCard(); // Gọi hàm để đóng card hiện tại
     }
+
+    // Tạo mới card
     const card = document.createElement('div');
     card.className = 'image-card';
     card.innerHTML = `
-        <span class="close" onclick="this.parentElement.style.display='none'">&times;</span>
-        
+        <span class="close" onclick="closeImageCard()">&times;</span>
         <h3>${imageData.character}</h3>
         <p>${imageData.meaning}</p>
         <p>${imageData.pinyin}</p>
-        
     `;
-    document.body.appendChild(card);
-    activeImageCard = card;
     
+    document.body.appendChild(card);
+    activeImageCard = card; // Cập nhật activeImageCard với card mới
 }
+
+// Hàm để đóng image card
 function closeImageCard() {
     if (activeImageCard) {
         activeImageCard.style.display = 'none'; // Đóng card
         activeImageCard = null; // Reset activeImageCard
     }
 }
+
+// Thêm sự kiện click cho toàn bộ tài liệu
+document.addEventListener('click', (event) => {
+    // Kiểm tra xem click có xảy ra bên trong card không
+    if (activeImageCard && !activeImageCard.contains(event.target)) {
+        closeImageCard(); // Đóng card nếu click bên ngoài
+    }
+});
 // Hàm chính để load posts với các tham số có thể thay đổi
 function loadPosts(startpId, endpId, listId) {
     const itemList = document.getElementById(listId);
@@ -120,13 +132,12 @@ function loadPosts(startpId, endpId, listId) {
                             
 
                             // Thêm sự kiện click vào từng cụm từ
-                            span.addEventListener('click', () => {
+                            span.addEventListener('click', (event) => {
+                                event.stopPropagation(); // Ngăn chặn sự kiện click đi lên document
                                 const imageData = imagesData.find(image => image.character === segment);
                                 // Kiểm tra nếu image card đang mở và click vào cùng một cụm
                                 if (activeImageCard && activeImageCard.querySelector('h3').textContent === segment) {
-                                    // Đóng image card
                                     closeImageCard(); // Đóng card nếu đã mở
-                                    
                                 } else {
                                     // Nếu không, mở image card mới
                                     if (imageData) {
