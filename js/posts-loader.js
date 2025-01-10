@@ -99,7 +99,7 @@ function loadPosts(startpId, endpId, listId) {
 
                         const h2 = document.createElement('h2');
                         h2.itemProp = 'name';
-                        h2.innerHTML = item.title; // Sử dụng innerHTML để hiển thị thẻ span đã chèn trong title
+                        
 
                         // Tạo các phần tử từ segments
                         item.segments.forEach(segment => {
