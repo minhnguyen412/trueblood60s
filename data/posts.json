@@ -4,6 +4,7 @@
         "user": "Tara", 
         "title": "Welcome to Super Save-A-Bunch.",
         "segments": ["Welcome to", " ", "Super Save-A-Bunch."],
+        "highlight": ["Welcome to"],
         "description": "ˈwɛlkəm tu ˈsupər seɪv-ə-bʌnʧ.", 
         "avatar": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/AVATAR/Tara.0001.png", 
         "audioSrc": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/SOUND/SEASON%201/1-1-tara-1.mp3"
