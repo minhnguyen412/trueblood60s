@@ -123,28 +123,24 @@ function loadPosts(startpId, endpId, listId) {
                         // Tạo các phần tử từ segments
                         item.segments.forEach(segment => {
                             const span = document.createElement('span');
+                            span.textContent = segment;
+                            span.style.cursor = 'pointer';
                             // Kiểm tra xem segment có nằm trong danh sách highlight không
                             if (item.highlight.includes(segment.trim())) {
                                 span.classList.add('highlight'); // Thêm class highlight
-                            }
-                            span.textContent = segment;
-                            span.style.cursor = 'pointer';
-                            
-
                             // Thêm sự kiện click vào từng cụm từ
-                            span.addEventListener('click', (event) => {
-                                event.stopPropagation(); // Ngăn chặn sự kiện click đi lên document
-                                const imageData = imagesData.find(image => image.character === segment);
-                                
-                                // Nếu không, mở image card mới
-                                if (imageData) {
-                                    showImageCard(imageData);
+                                span.addEventListener('click', (event) => {
+                                    event.stopPropagation(); // Ngăn chặn sự kiện click đi lên document
+                                    const imageData = imagesData.find(image => image.character === segment);
+                                    // Nếu không, mở image card mới
+                                    if (imageData) {
+                                        showImageCard(imageData);
                                         
-                                    
-                                }
+                                    }
                                 
-                            });
-
+                                
+                                });
+                            }
                             h2.appendChild(span); // Thêm ký tự vào h2
                         });
 
