@@ -135,15 +135,12 @@ function loadPosts(startpId, endpId, listId) {
                             span.addEventListener('click', (event) => {
                                 event.stopPropagation(); // Ngăn chặn sự kiện click đi lên document
                                 const imageData = imagesData.find(image => image.character === segment);
-                                // Kiểm tra nếu image card đang mở và click vào cùng một cụm
-                                if (activeImageCard && activeImageCard.querySelector('h3').textContent === segment) {
-                                    closeImageCard(); // Đóng card nếu đã mở
-                                } else {
-                                    // Nếu không, mở image card mới
-                                    if (imageData) {
-                                        showImageCard(imageData);
+                                
+                                // Nếu không, mở image card mới
+                                if (imageData) {
+                                    showImageCard(imageData);
                                         
-                                    }
+                                    
                                 }
                                 
                             });
