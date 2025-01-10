@@ -26,8 +26,18 @@ function showImageCard(imageData) {
         document.body.appendChild(card);
         activeImageCard = card; // Cập nhật activeImageCard với card mới
     } else {
-        // Không làm gì nếu không có imageSrc
-        console.log("No image available."); // Có thể ghi log để kiểm tra
+        // Tạo mới card
+        const card = document.createElement('div');
+        card.className = 'image-card';
+        card.innerHTML = `
+            
+            <h3>${imageData.character}</h3>
+            <p>${imageData.meaning}</p>
+            <p>${imageData.pinyin}</p>
+        `;
+        
+        document.body.appendChild(card);
+        activeImageCard = card; // Cập nhật activeImageCard với card mới
     }
 }
 
