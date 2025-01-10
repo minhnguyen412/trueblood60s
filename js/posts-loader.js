@@ -3,8 +3,11 @@ function isInViewport(element) {
     const rect = element.getBoundingClientRect();
     return rect.top < window.innerHeight && rect.bottom >= 0;
 }
-
+let activeImageCard = null; // Biến để theo dõi image card đang mở
 function showImageCard(imageData) {
+    if (activeImageCard) {
+        closeImageCard(); // Gọi hàm để đóng card hiện tại
+    }
     const card = document.createElement('div');
     card.className = 'image-card';
     card.innerHTML = `
@@ -16,10 +19,15 @@ function showImageCard(imageData) {
         
     `;
     document.body.appendChild(card);
-
+    activeImageCard = card;
     
 }
-
+function closeImageCard() {
+    if (activeImageCard) {
+        activeImageCard.style.display = 'none'; // Đóng card
+        activeImageCard = null; // Reset activeImageCard
+    }
+}
 // Hàm chính để load posts với các tham số có thể thay đổi
 function loadPosts(startpId, endpId, listId) {
     const itemList = document.getElementById(listId);
@@ -99,7 +107,7 @@ function loadPosts(startpId, endpId, listId) {
 
                         const h2 = document.createElement('h2');
                         h2.itemProp = 'name';
-                        let activeImageCard = null; // Biến để theo dõi image card đang mở
+                        
                         // Tạo các phần tử từ segments
                         item.segments.forEach(segment => {
                             const span = document.createElement('span');
@@ -115,15 +123,15 @@ function loadPosts(startpId, endpId, listId) {
                             span.addEventListener('click', () => {
                                 const imageData = imagesData.find(image => image.character === segment);
                                 // Kiểm tra nếu image card đang mở và click vào cùng một cụm
-                                if (activeImageCard && activeImageCard.character === segment) {
+                                if (activeImageCard && activeImageCard.querySelector('h3').textContent === segment) {
                                     // Đóng image card
-                                    closeImageCard(); // Gọi hàm để đóng image card
-                                    activeImageCard = null; // Reset activeImageCard
+                                    closeImageCard(); // Đóng card nếu đã mở
+                                    
                                 } else {
                                     // Nếu không, mở image card mới
                                     if (imageData) {
                                         showImageCard(imageData);
-                                        activeImageCard = imageData; // Cập nhật activeImageCard
+                                        
                                     }
                                 }
                                 
