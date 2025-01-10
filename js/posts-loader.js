@@ -11,18 +11,24 @@ function showImageCard(imageData) {
         closeImageCard(); // Gọi hàm để đóng card hiện tại
     }
 
-    // Tạo mới card
-    const card = document.createElement('div');
-    card.className = 'image-card';
-    card.innerHTML = `
-        <img src="${imageData.imageSrc}" alt="${imageData.character}">
-        <h3>${imageData.character}</h3>
-        <p>${imageData.meaning}</p>
-        <p>${imageData.pinyin}</p>
-    `;
-    
-    document.body.appendChild(card);
-    activeImageCard = card; // Cập nhật activeImageCard với card mới
+    // Kiểm tra xem imageSrc có tồn tại không
+    if (imageData.imageSrc) {
+        // Tạo mới card
+        const card = document.createElement('div');
+        card.className = 'image-card';
+        card.innerHTML = `
+            <img src="${imageData.imageSrc}" alt="${imageData.character}">
+            <h3>${imageData.character}</h3>
+            <p>${imageData.meaning}</p>
+            <p>${imageData.pinyin}</p>
+        `;
+        
+        document.body.appendChild(card);
+        activeImageCard = card; // Cập nhật activeImageCard với card mới
+    } else {
+        // Không làm gì nếu không có imageSrc
+        console.log("No image available."); // Có thể ghi log để kiểm tra
+    }
 }
 
 // Hàm để đóng image card
