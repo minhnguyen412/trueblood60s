@@ -15,7 +15,7 @@ function showImageCard(imageData) {
     const card = document.createElement('div');
     card.className = 'image-card';
     card.innerHTML = `
-        <span class="close" onclick="closeImageCard()">&times;</span>
+        
         <h3>${imageData.character}</h3>
         <p>${imageData.meaning}</p>
         <p>${imageData.pinyin}</p>
