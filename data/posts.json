@@ -14,6 +14,7 @@
         "user": "Woman", 
         "title": "Hi. I'm looking for that thick, translucent plastic sheeting ... the kind they hang in front of the doors of walk-in refrigerators.", 
         "segments": ["Hi.", " ", "I'm looking for", " ", "that thick, translucent plastic sheeting ...", " ", "the kind they hang", " ", "in front of the doors of", " ", "walk-in refrigerators."],
+        "highlight": ["I'm looking for"],
         "description": "haɪ. aɪm ˈlʊkɪŋ fɔr ðæt θɪk,trænˈslusənt ˈplæstɪk ˈʃitɪŋ ... ðə kaɪnd ðeɪ hæŋ ɪn frʌnt ʌv ðə dɔrz ʌv wɔk-ɪn rɪˈfrɪʤəˌreɪtərz.", 
         "avatar": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/AVATAR/woman-1.0001.png", 
         "audioSrc": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/SOUND/SEASON%201/1-1-woman-1.mp3"
