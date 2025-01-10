@@ -99,7 +99,7 @@ function loadPosts(startpId, endpId, listId) {
 
                         const h2 = document.createElement('h2');
                         h2.itemProp = 'name';
-                        let activeSpan = null; // Biến để theo dõi phần tử đang mở
+                        let activeImageCard = null; // Biến để theo dõi image card đang mở
                         // Tạo các phần tử từ segments
                         item.segments.forEach(segment => {
                             const span = document.createElement('span');
@@ -113,22 +113,20 @@ function loadPosts(startpId, endpId, listId) {
 
                             // Thêm sự kiện click vào từng cụm từ
                             span.addEventListener('click', () => {
-                                // Nếu có phần tử đang mở, đóng nó lại
-                                if (activeSpan && activeSpan !== span) {
-                                    activeSpan.classList.remove('active'); // Gỡ bỏ class active
-                                }
-
-                                // Kiểm tra nếu click vào cùng một span
-                                if (activeSpan === span) {
-                                    activeSpan = null; // Đóng span nếu đã mở
-                                } else {
-                                    activeSpan = span; // Thiết lập span hiện tại là active
-                                    span.classList.add('active'); // Thêm class active
-                                }
                                 const imageData = imagesData.find(image => image.character === segment);
-                                if (imageData) {
-                                    showImageCard(imageData);
+                                // Kiểm tra nếu image card đang mở và click vào cùng một cụm
+                                if (activeImageCard && activeImageCard.character === segment) {
+                                    // Đóng image card
+                                    closeImageCard(); // Gọi hàm để đóng image card
+                                    activeImageCard = null; // Reset activeImageCard
+                                } else {
+                                    // Nếu không, mở image card mới
+                                    if (imageData) {
+                                        showImageCard(imageData);
+                                        activeImageCard = imageData; // Cập nhật activeImageCard
+                                    }
                                 }
+                                
                             });
 
                             h2.appendChild(span); // Thêm ký tự vào h2
