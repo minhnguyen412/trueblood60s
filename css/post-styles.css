@@ -335,19 +335,7 @@ h2 {
     margin: 5px 0;
 }
 
-/* Kiểu cho nút đóng */
-.image-card .close {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    cursor: pointer;
-    font-size: 30px;
-    color: #aaa;
-}
 
-.image-card .close:hover {
-    color: black;
-}
 #writer-container {
     display: flex;
     gap: 15px;
