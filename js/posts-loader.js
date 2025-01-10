@@ -121,7 +121,7 @@ function loadPosts(startpId, endpId, listId) {
                         h2.itemProp = 'name';
                         
                         // Tạo các phần tử từ segments
-                        item.segments.forEach(segment => {
+                        items.highlight.forEach(segment => {
                             const span = document.createElement('span');
                             // Kiểm tra xem segment có nằm trong danh sách highlight không
                             if (item.highlight.includes(segment.trim())) {
