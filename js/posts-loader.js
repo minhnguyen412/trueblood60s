@@ -105,8 +105,7 @@ function loadPosts(startpId, endpId, listId) {
                             const span = document.createElement('span');
                             span.textContent = segment;
                             span.style.cursor = 'pointer';
-                            span.innerHTML = item.segments;
-
+                            
 
                             // Thêm sự kiện click vào từng cụm từ
                             span.addEventListener('click', () => {
