@@ -369,3 +369,7 @@ h2 {
 .toggle-description:hover {
     color: red; /* Màu chữ khi hover */
 }
+.highlight {
+    background-color: yellow;
+    
+}
