@@ -99,7 +99,7 @@ function loadPosts(startpId, endpId, listId) {
 
                         const h2 = document.createElement('h2');
                         h2.itemProp = 'name';
-                        h2.innerHTML = item.segments;
+                        h2.innerHTML = item.title;
 
                         // Tạo các phần tử từ segments
                         item.segments.forEach(segment => {
@@ -115,7 +115,7 @@ function loadPosts(startpId, endpId, listId) {
                                 }
                             });
 
-                            h2.appendChild(span); // Thêm ký tự vào h2
+                            
                         });
 
                         li.appendChild(row);
