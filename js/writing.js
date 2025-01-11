@@ -1,7 +1,7 @@
 // Lấy id từ URL
 function getPostIdFromUrl() {
     const params = new URLSearchParams(window.location.search);
-    return params.get('id'); // Trả về giá trị của tham số 'id'
+    return params.get('id2'); // Trả về giá trị của tham số 'id'
 }
 
 // Hàm hiển thị bài viết
