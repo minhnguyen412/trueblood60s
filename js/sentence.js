@@ -178,3 +178,4 @@ function loadPosts(startpId, endpId, listId) {
     .catch(error => {
         console.error('Error fetching JSON files:', error);
     });
+}
