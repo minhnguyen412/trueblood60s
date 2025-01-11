@@ -367,7 +367,10 @@
       <h2>TV SERIES</h2>
       <h3>TRUE BLOOD</h3>
       <div class="thumbnails" id="thumbnails-container">
-        
+      </div>
+      <h2>IELTS WRITING</h2>
+      <h3>TASK 1</h3>
+      <div class="thumbnails" id="thumbnails-container-2">
       </div>
     </div>
   </div>
@@ -407,17 +410,20 @@
     });
   </script>
   <script>
-    document.addEventListener('DOMContentLoaded', async () => {
-      const container = document.getElementById('thumbnails-container');
-
+    document.addEventListener('DOMContentLoaded', () => {
+      loadThumbnails('data/thumbnail.json', 'thumbnails-container', 'thumbnail');
+      loadThumbnails('data/thumb-writing.json', 'thumbnails-container-2', 'thumbnail-2');
+    });
+    async function loadThumbnails(jsonUrl, containerId, thumbnailClass) {
+      const container = document.getElementById(containerId);
       try {
-        const response = await fetch('data/thumbnail.json'); 
+        const response = await fetch(jsonUrl); 
         const data = await response.json();
 
         data.forEach(item => {
           // Tạo thẻ div cho mỗi thumbnail
           const thumbnail = document.createElement('div');
-          thumbnail.className = 'thumbnail';
+          thumbnail.className = thumbnailClass;
 
           // Nội dung HTML của thumbnail
           thumbnail.innerHTML = `
@@ -437,7 +443,8 @@
         console.error('Error fetching JSON data:', error);
         container.innerHTML = '<p>Failed to load thumbnails.</p>';
       }
-    });
+    }
   </script>
+  
 </body>
 </html>
