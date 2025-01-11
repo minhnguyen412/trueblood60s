@@ -70,11 +70,11 @@
       background-color: #f9f9f9;
     }
     #post-container img {
-      width: 300px; /* Đặt chiều rộng của hình ảnh bằng 100% của container */
+      display: block; /* Đảm bảo hình ảnh là block-level element */
+      margin: 0 auto; /* Căn giữa hình ảnh */
+      max-width: 300px; /* Đặt chiều rộng tối đa của hình ảnh bằng 100% của container */
       height: auto; /* Giữ tỷ lệ khung hình của hình ảnh */
       border-radius: 8px; /* Thêm góc bo cho hình ảnh */
-      display: block; /* Đảm bảo hình ảnh là block-level element */
-      margin-bottom: 20px; /* Khoảng cách giữa hình ảnh và tiêu đề */
     }
     /* Responsive cho màn hình nhỏ hơn 768px */
     @media screen and (max-width: 768px) {
