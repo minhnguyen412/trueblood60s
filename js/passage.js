@@ -10,7 +10,7 @@ function displayPost(post) {
     
     // Khởi tạo nội dung HTML
     let content = `
-        <h1>${post.title}</h1>
+        
         ${post.content.map(paragraph => `<p>${paragraph}</p>`).join('')}
     `;
 
