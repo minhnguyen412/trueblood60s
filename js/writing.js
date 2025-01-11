@@ -7,10 +7,20 @@ function getPostIdFromUrl() {
 // Hàm hiển thị bài viết
 function displayPost(post) {
     const container = document.getElementById('post-container');
-    container.innerHTML = `
+    
+    // Khởi tạo nội dung HTML
+    let content = `
         <h1>${post.title}</h1>
         ${post.content.map(paragraph => `<p>${paragraph}</p>`).join('')}
     `;
+
+    // Thêm hình ảnh nếu có
+    if (post.imageSrc) {
+        content = `<img src="${post.imageSrc}">` + content;
+    }
+
+    // Cập nhật nội dung vào container
+    container.innerHTML = content;
 }
 
 // Hàm load bài viết từ file JSON
