@@ -31,7 +31,7 @@ function loadPost() {
         return;
     }
 
-    fetch('../data/writing.json')
+    fetch('../data/passage.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Lỗi khi tải dữ liệu');
