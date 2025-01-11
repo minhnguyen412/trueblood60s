@@ -442,6 +442,38 @@
       }
     });
   </script>
-  
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const container = document.getElementById('thumbnails-container-2');
+      const startId = 1; // Thay đổi giá trị này theo nhu cầu
+      const endId = 3; // Thay đổi giá trị này theo nhu cầu
+      try {
+          const response = await fetch('data/thumb-writing.json');
+          const data = await response.json();
+          // Lọc dữ liệu theo ID từ startId đến endId
+          const filteredData = data.filter(item => item.id >= startId && item.id <= endId);
+          filteredData.forEach(item => {
+              // Tạo thẻ div cho mỗi thumbnail
+              const thumbnail = document.createElement('div');
+              thumbnail.className = 'thumbnail';
+              // Nội dung HTML của thumbnail
+              thumbnail.innerHTML = `
+                  <a href="${item.htmlLink}">
+                      <img src="${item.thumbnail}" alt="${item.title} Thumbnail">
+                      <div class="info">
+                          <h4>${item.title}</h4>
+                          <p>${item.description}</p>
+                      </div>
+                 </a>
+              `;
+              // Thêm thumbnail vào container
+              container.appendChild(thumbnail);
+          });
+      } catch (error) {
+          console.error('Error fetching JSON data:', error);
+          container.innerHTML = '<p>Failed to load thumbnails.</p>';
+      }
+    });
+  </script>
 </body>
 </html>
