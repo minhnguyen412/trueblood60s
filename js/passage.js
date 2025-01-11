@@ -31,14 +31,21 @@ function loadPost() {
         return;
     }
 
-    fetch('../data/passage.json')
+    const passageFiles = ['../data/passage.json']; // Thêm các file tại đây
+
+    const fetchPromises = passageFiles.map(file => fetch(file)
         .then(response => {
             if (!response.ok) {
-                throw new Error('Lỗi khi tải dữ liệu');
+                throw new Error('Lỗi khi tải dữ liệu từ ' + file);
             }
             return response.json();
         })
-        .then(posts => {
+    );
+
+    Promise.all(fetchPromises)
+        .then(allPosts => {
+            // Kết hợp tất cả các bài viết từ các file
+            const posts = allPosts.flat(); // Sử dụng flat() để kết hợp các mảng
             const post = posts.find(p => p.id === Number(postId));
             if (post) {
                 displayPost(post);
