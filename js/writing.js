@@ -1,29 +1,46 @@
-// Hàm lấy bài viết theo ID
-function loadPostById(postId) {
-    fetch('../data/writing.json') // Đường dẫn đến file JSON
+// Lấy id từ URL
+function getPostIdFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('id'); // Trả về giá trị của tham số 'id'
+}
+
+// Hàm hiển thị bài viết
+function displayPost(post) {
+    const container = document.getElementById('post-container');
+    container.innerHTML = `
+        <h1>${post.title}</h1>
+        ${post.content.map(paragraph => `<p>${paragraph}</p>`).join('')}
+    `;
+}
+
+// Hàm load bài viết từ file JSON
+function loadPost() {
+    const postId = getPostIdFromUrl();
+    if (!postId) {
+        document.getElementById('post-container').innerHTML = '<p>ID không hợp lệ.</p>';
+        return;
+    }
+
+    fetch('../data/writing.json')
         .then(response => {
             if (!response.ok) {
-                throw new Error('Failed to fetch posts');
+                throw new Error('Lỗi khi tải dữ liệu');
             }
             return response.json();
         })
         .then(posts => {
-            // Tìm bài viết có ID khớp
-            const post = posts.find(p => p.id === postId);
+            const post = posts.find(p => p.id === Number(postId));
             if (post) {
-                displayPost(post); // Gọi hàm hiển thị bài viết
+                displayPost(post);
             } else {
-                console.error('Post not found');
+                document.getElementById('post-container').innerHTML = '<p>Bài viết không tồn tại.</p>';
             }
         })
-        .catch(error => console.error('Error:', error));
+        .catch(error => {
+            console.error('Lỗi:', error);
+            document.getElementById('post-container').innerHTML = '<p>Lỗi khi tải bài viết.</p>';
+        });
 }
 
-// Hàm hiển thị bài viết trên trang
-function displayPost(post) {
-    const container = document.getElementById('post-container'); // Container hiển thị bài viết
-    container.innerHTML = `
-        <h4>${post.title}</h4>
-        ${post.content.map(para => `<p>${para}</p>`).join('')}
-    `;
-}
+// Gọi hàm load bài viết
+loadPost();
