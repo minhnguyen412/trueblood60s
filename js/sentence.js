@@ -77,13 +77,13 @@ function loadPosts(startpId, endpId, listId) {
     .then(allData => {
         // Gộp dữ liệu từ các file cùng loại
         const imagesData = allData.filter((_, index) => filesToFetch[index].includes('imagesData')).flat();
-        const dialogueData = allData.filter((_, index) => filesToFetch[index].includes('dialogue')).flat();
+        const sentenceData = allData.filter((_, index) => filesToFetch[index].includes('sentence')).flat();
 
         console.log('Images Data:', imagesData);
-        console.log('Dialogue Data:', dialogueData);
+        console.log('Sentence Data:', sentenceData);
 
         // Lọc bài viết theo ID từ startpId đến endpId
-        const filteredPosts = dialogueData.filter(post => post.id >= startpId && post.id <= endpId);
+        const filteredPosts = sentenceData.filter(post => post.id >= startpId && post.id <= endpId);
 
         filteredPosts.forEach((item, index) => {
             const li = document.createElement('li');
