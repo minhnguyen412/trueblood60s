@@ -27,8 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             // Cập nhật nội dung HTML
-            document.getElementById("video-title").textContent = video.title;
-            document.getElementById("video-description").textContent = video.description;
+            
             document.getElementById("video-iframe").src = video.videoLink;
         })
         .catch((error) => {
