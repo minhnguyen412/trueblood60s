@@ -2,267 +2,360 @@
     "questions": [
         {
             "id": 1,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673138/%E8%BF%99%E6%98%AF%E7%8E%8B%E8%80%81%E5%B8%88%E8%BF%99%E6%98%AF%E6%88%91%E7%88%B8%E7%88%B8_m1wpqh.mp3",
-            "sentence": "___ ___ ___, ___ ___ ___ ___.",
+            "audio": "",
+            "sentence": "What word do you use to write about graphs or charts that present contrasting data? ___.",
             "blanks": [
-                { "answer": "zhè" },
-                { "answer": "shì" },
-                { "answer": "wáng lǎoshī" },
-                { "answer": "zhè" },
-                { "answer": "shì" },
-                { "answer": "wǒ" },
-                { "answer": "bàba" }
+                { "answer": "compare" }
+                
             ],
-            "words": ["zhè", "wǒ", "shì", "zhè", "wáng lǎoshī", "shì", "bàba"]
+            "words": ["increase", "experience", "compare", "use"]
         },
         {
             "id": 2,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673115/%E7%8E%8B%E8%80%81%E5%B8%88%E6%82%A8%E5%A5%BD_gmcnzg.mp3",
-            "sentence": "___, ___ ___!",
+            "audio": "",
+            "sentence": "How else can "the percentage of" be written? The ___ ___ ___ of",
             "blanks": [
-                { "answer": "wáng lǎoshī" },
-                { "answer": "nín" },
-                { "answer": "hǎo" }
+                { "answer": "pro" },
+                { "answer": "por" },
+                { "answer": "tion" }
             ],
-            "words": ["nín", "wáng lǎoshī", "hǎo"]
+            "words": ["tion", "por", "pro"]
         },
         {
             "id": 3,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673099/%E6%82%A8%E5%A5%BD%E8%AF%B7%E8%BF%9B%E8%AF%B7%E5%9D%90%E8%AF%B7%E5%96%9D%E8%8C%B6_tx8mtv.mp3",
-            "sentence": "nín hǎo! qǐng ___! qǐng ___! qǐng ___ ___!",
+            "audio": "",
+            "sentence": "How else can "the percentage of" be written? The ___ ___ ___ ___ of",
             "blanks": [
-                { "answer": "jìn" },
-                { "answer": "zuò" },
-                { "answer": "hē" },
-                { "answer": "chá" }
+                { "answer": "sh" },
+                { "answer": "a" },
+                { "answer": "r" },
+                { "answer": "e" }
             ],
-            "words": ["zuò", "hē", "jìn", "chá"]
+            "words": ["e", "sh", "r", "a"]
         },
         {
             "id": 4,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673084/%E4%B8%8D%E5%AE%A2%E6%B0%94_yyqayx.mp3",
-            "sentence": "xièxie! ___!",
+            "audio": "",
+            "sentence": "How else can "the percentage of" be written? The ___ ___ ___ ___ of",
             "blanks": [
-                { "answer": "bú kèqi" }
+                { "answer": "r" },
+                { "answer": "a" },
+                { "answer": "t" },
+                { "answer": "e" }
             ],
-            "words": ["bù zhīdào", "bú kèqi", "méi shénme", "duì bu qǐ"]
+            "words": ["e", "t", "a", "r"]
         },
         {
             "id": 5,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673083/%E4%B8%8D%E5%A4%AA%E5%BF%99_u5zgbz.mp3",
-            "sentence": "gōngzuò máng ma? ___ ___ ___.",
+            "audio": "",
+            "sentence": "How else can "people who used the internet" be written?<br> ___ ___; ___ ___ ___ ___; ___ ___ ___ ___",
             "blanks": [
-                { "answer": "bú" },
-                { "answer": "tài" },
-                { "answer": "máng" }
+                { "answer": "internet" },
+                { "answer": "users" },
+                { "answer": "people" },
+                { "answer": "using" },
+                { "answer": "the" },
+                { "answer": "internet" },
+                { "answer": "internet" },
+                { "answer": "usage" },
+                { "answer": "among" },
+                { "answer": "people" }
             ],
-            "words": ["bú", "máng", "tài"]
+            "words": ["internet", "people", "among", "usage", "the", "internet", "using", "users", "people", "internet"]
         },
         {
             "id": 6,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673122/%E8%BA%AB%E4%BD%93%E5%A5%BD%E5%90%97_j1pg0s.mp3",
-            "sentence": "___ ___ ___? hěn hǎo.",
+            "audio": "",
+            "sentence": "How else can "between 1999 and 2009" be written?<br> ___ ___; ___ ___; ___ ___",
             "blanks": [
-                { "answer": "shēntǐ" },
-                { "answer": "hǎo" },
-                { "answer": "ma?" }
+                { "answer": "Over the ten-year period" },
+                { "answer": "from 1999 to 2009" },
+                { "answer": "Throughout the years" },
+                { "answer": "1999 to 2009" },
+                { "answer": "During the period" },
+                { "answer": "1999–2009" }
             ],
-            "words": ["ma?", "hǎo", "shēntǐ"]
+            "words": ["1999 to 2009", "During the period", "Over the ten-year period", "from 1999 to 2009", "Throughout the years", "1999–2009"]
         },
         {
             "id": 7,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673331/%E8%80%81%E5%B8%88_uml35p.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%80%81%E5%B8%88_yp4q3u.png", ": ___"],
+            "audio": "",
+            "sentence": "How else can "the proportion of the population" be written? ___ ___ ___ ___",
             "blanks": [
-                { "answer": "老师" }
+                { "answer": "the" },
+                { "answer": "percentage" },
+                { "answer": "of" },
+                { "answer": "people" }
             ],
-            "words": ["律师", "老师", "医生"]
+            "words": ["people", "of", "percentage", "the"]
         },
         {
             "id": 8,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673288/%E6%82%A8_p8k1sj.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%82%A8_ndcupj.png", ": ___"],
+            "audio": "",
+            "sentence": "How else can "the proportion of the population" be written? ___ ___ ___ ___",
             "blanks": [
-                { "answer": "您" }
+                { "answer": "the" },
+                { "answer": "share" },
+                { "answer": "of" },
+                { "answer": "indivisuals" }
             ],
-            "words": ["您", "我", "你"]
+            "words": ["indivisuals", "share", "of", "the"]
         },
         {
             "id": 9,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673343/%E8%AF%B7_gfbu7q.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/v1734672829/%E8%AF%B7_ow5lc2.gif", ": ___"],
+            "audio": "",
+            "sentence": "How else can "the proportion of the population" be written? ___ ___ ___ ___",
             "blanks": [
-                { "answer": "请" }
+                { "answer": "the" },
+                { "answer": "number" },
+                { "answer": "of" },
+                { "answer": "people" }
             ],
-            "words": ["好", "对", "请"]
+            "words": ["people", "the", "of", "number"]
         },
         {
             "id": 10,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673352/%E8%BF%9B_ldhyvd.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672831/%E8%BF%9B_yvpsep.png", ": ___"],
+            "audio": "",
+            "sentence": "Beside "increased", you could use: ___ ___ ___ ___",
             "blanks": [
-                { "answer": "进" }
+                { "answer": "g" },
+                { "answer": "r" },
+                { "answer": "e" },
+                { "answer": "w" }
             ],
-            "words": ["喝", "去", "进"]
+            "words": ["w", "e", "r", "g"]
         },
         {
             "id": 11,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673260/%E5%9D%90_of9mvo.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9D%90_v3qgxh.png", ": ___"],
+            "audio": "",
+            "sentence": "Beside "increased", you could use: ___ ___ ___ ___",
             "blanks": [
-                { "answer": "坐" }
+                { "answer": "r" },
+                { "answer": "o" },
+                { "answer": "s" },
+                { "answer": "e" }
             ],
-            "words": ["坐", "吃", "站"]
+            "words": ["e", "r", "o", "s"]
         },
         {
             "id": 12,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673255/%E5%96%9D_d7eazr.mp3",
-            "sentence": "喝 : ___",
+            "audio": "",
+            "sentence": "Beside "increased", you could use: ___ ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672814/%E5%96%9D_ohxgv5.png" }
+                { "answer": "w" },
+                { "answer": "e" },
+                { "answer": "n" },
+                { "answer": "t" },
+                { "answer": "u" },
+                { "answer": "p" }
             ],
-            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9D%90_v3qgxh.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672814/%E5%96%9D_ohxgv5.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672829/%E8%AF%B7_ow5lc2.gif"]
+            "words": ["e", "u", "t", "p", "w", "n"]
         },
         {
             "id": 13,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673336/%E8%8C%B6_qjl60i.mp3",
-            "sentence": "茶 : ___",
+            "audio": "",
+            "sentence": "Beside "increased", you could use: ___ ___ ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672827/%E8%8C%B6_wqnz2r.png" }
+                { "answer": "ex" },
+                { "answer": "pe" },
+                { "answer": "ri" },
+                { "answer": "enced" },
+                { "answer": "gr" },
+                { "answer": "ow" },
+                { "answer": "th" }
             ],
-            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%A4%A9_f0dh1g.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672827/%E8%8C%B6_wqnz2r.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672812/%E5%8F%96_srztqx.png"]
+            "words": ["th", "ex", "ri", "ow", "pi", "gr", "enced"]
         },
         {
             "id": 14,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673274/%E5%AE%A2%E6%B0%94_n00npd.mp3",
-            "sentence": "客气 : ___",
+            "audio": "",
+            "sentence": "Alternatives for "over the period shown": ___ ___ ___ ___; ___ ___ ___ ___; ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%AE%A2%E6%B0%94_bafdxn.png" }
+                { "answer": "throughout" },
+                { "answer": "the" },
+                { "answer": "given" },
+                { "answer": "period" },
+                { "answer": "over" },
+                { "answer": "the" },
+                { "answer": "ten-year" },
+                { "answer": "timeframe" },
+                { "answer": "during" },
+                { "answer": "the" },
+                { "answer": "period" },
+                { "answer": "in" },
+                { "answer": "question" }
             ],
-            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%AE%A2%E6%B0%94_bafdxn.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9B%9E_hwrdue.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672817/%E5%AD%A6_ohlrfe.png"]
+            "words": ["question", "throughout", "period", "the", "ten-year", "during", "the", "timeframe", "the", "in", "given", "period", "over"]
         },
         {
             "id": 15,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673280/%E5%B7%A5%E4%BD%9C_dhayvb.mp3",
-            "sentence": "工作 : ___",
+            "audio": "",
+            "sentence": "In this sentence, "a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans", which one is the noun phrase?",
             "blanks": [
-                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%B7%A5%E4%BD%9C_vym8um.png" }
+                { "answer": "a much larger percentage" }
             ],
-            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672816/%E5%A5%BD_cktmxb.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%B7%A5%E4%BD%9C_vym8um.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672820/%E6%82%A8_ndcupj.png"]
+            "words": ["had access to the Internet", "a much larger percentage", "in comparison with Mexicans"]
         },
         {
             "id": 16,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673348/%E8%BA%AB%E4%BD%93_psl9ep.mp3",
-            "sentence": "身体 : ___",
+            "audio": "",
+            "sentence": "In this sentence, "a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans", which one is the main verb phrase?",
             "blanks": [
-                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672830/%E8%BA%AB%E4%BD%93_gyl84l.png" }
+                { "answer": "had access to the Internet" }
             ],
-            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672823/%E6%9C%8B%E5%8F%8B_pwkkse.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672809/%E4%B9%A6_f3edw3.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672830/%E8%BA%AB%E4%BD%93_gyl84l.png"]
+            "words": ["had access to the Internet", "a much larger percentage", "in comparison with Mexicans"]
         },
         {
             "id": 17,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673118/%E8%AF%B7%E9%97%AE%E4%BD%A0%E8%B4%B5%E5%A7%93_e22nk8.mp3",
-            "sentence": "___ ___ ___?",
+            "audio": "",
+            "sentence": "In this sentence, "a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans", which one is the prepositional phrase showing contrast?",
             "blanks": [
-                { "answer": "请问" },
-                { "answer": "你" },
-                { "answer": "贵姓" }
+                { "answer": "in comparison with Mexicans" }
             ],
-            "words": ["贵姓", "请问", "你"]
+            "words": ["had access to the Internet", "a much larger percentage", "in comparison with Mexicans"]
         },
         {
             "id": 18,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673104/%E6%88%91%E5%A7%93%E5%BC%A0_o7ewjh.mp3",
-            "sentence": "My surname is Zhang. ___ ___ ___.",
+            "audio": "",
+            "sentence": "Alternatives for "experienced": ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
             "blanks": [
-                { "answer": "我" },
-                { "answer": "姓" },
-                { "answer": "张" }
+                { "answer": "s" },
+                { "answer": "a" },
+                { "answer": "w" },
+                { "answer": "h" },
+                { "answer": "a" },
+                { "answer": "d" },
+                { "answer": "sh" },
+                { "answer": "o" },
+                { "answer": "w" },
+                { "answer": "ed" }
+                
             ],
-            "words": ["张", "我", "姓"]
+            "words": ["ed", "s", "d", "w", "a", "w", "h", "a", "sh", "o"]
         },
         {
             "id": 19,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673086/%E4%BD%A0%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97_gq6ngu.mp3",
-            "sentence": "你叫什么名字？___ ___ ___ ___?",
+            "audio": "",
+            "sentence": "Alternatives for "the fastest growth": ___ ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
             "blanks": [
-                { "answer": "What" },
-                { "answer": "is" },
-                { "answer": "your" },
-                { "answer": "name" }
+                { "answer": "the" },
+                { "answer": "most" },
+                { "answer": "rapid" },
+                { "answer": "increase" },
+                { "answer": "the" },
+                { "answer": "sharpest" },
+                { "answer": "rise" },
+                { "answer": "the" },
+                { "answer": "highest" },
+                { "answer": "growth" },
+                { "answer": "rate" }
             ],
-            "words": ["is", "name", "What", "your"]
+            "words": ["rate", "most", "highest", "rapid", "the", "growth", "the", "sharpest", "the", "rise", "increase"]
         },
         {
             "id": 20,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673093/%E4%BD%A0%E6%98%AF%E5%93%AA%E5%9B%BD%E4%BA%BA_ob0jxo.mp3",
-            "sentence": "___ ___ ___ ___ ___?",
+            "audio": "",
+            "sentence": "Alternatives for "the proportion of people": ___ ___ ___ ___",
             "blanks": [
-                { "answer": "你" },
-                { "answer": "是" },
-                { "answer": "哪" },
-                { "answer": "国" },
-                { "answer": "人" }
+                { "answer": "the" },
+                { "answer": "percentage" },
+                { "answer": "of" },
+                { "answer": "individuals" }
+                
             ],
-            "words": ["人", "哪", "是", "你", "国"]
+            "words": ["of", "the", "individuals", "percentage"]
         },
         {
             "id": 21,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673272/%E5%AD%A6%E4%B9%A0_zn9smo.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672817/%E5%AD%A6%E4%B9%A0_tvsnpv.png", ": ___"],
+            "audio": "",
+            "sentence": "Alternatives for "the proportion of people": ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "学习" }
+                { "answer": "the" },
+                { "answer": "share" },
+                { "answer": "of" },
+                { "answer": "the" },
+                { "answer": "population" }
             ],
-            "words": ["工作", "学习", "睡觉"]
+            "words": ["the", "the", "population", "of", "share"]
         },
         {
             "id": 22,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673242/%E5%8F%91%E9%9F%B3_mvaakh.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672812/%E5%8F%91%E9%9F%B3_ov2vxu.png", ": ___"],
+            "audio": "",
+            "sentence": "Alternatives for "figures": ___ ___; ___ ___ ___; ___ ___",
             "blanks": [
-                { "answer": "发音" }
+                { "answer": "num" },
+                { "answer": "bers" },
+                { "answer": "sta" },
+                { "answer": "tis" },
+                { "answer": "tics" },
+                { "answer": "da" },
+                { "answer": "ta" }
             ],
-            "words": ["汉字", "课文", "发音"]
+            "words": ["ta", "sta", "da", "num", "tis", "bers", "tics"]
         },
         {
             "id": 23,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673312/%E6%B1%89%E5%AD%97_ix9xku.mp3",
-            "sentence": "汉字 : ___",
+            "audio": "",
+            "sentence": "Alternatives for "respectively": ___ ___ ___; ___ ___ ___ ___ ___; ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%B1%89%E5%AD%97_zqikwg.png" }
+                { "answer": "in" },
+                { "answer": "that" },
+                { "answer": "order" },
+                { "answer": "cor" },
+                { "answer": "re" },
+                { "answer": "spon" },
+                { "answer": "ding" },
+                { "answer": "ly" },
+                { "answer": "for" },
+                { "answer": "each" },
+                { "answer": "..." },
+                { "answer": "in" },
+                { "answer": "turn" }
             ],
-            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%B1%89%E5%AD%97_zqikwg.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%9D%82%E5%BF%97_adnplb.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9B%BD_fca15m.png"]
+            "words": ["spon", "turn", "in", "...", "ly", "in", "each", "that", "ding", "cor", "order", "re", "for"]
         },
         {
             "id": 24,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673133/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88_lho2uy.mp3",
-            "sentence": "What is this? <br> ___ ___ ___?",
+            "audio": "",
+            "sentence": "Alternatives for "almost": ___ ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "这" },
-                { "answer": "是" },
-                { "answer": "什么" }
+                { "answer": "n" },
+                { "answer": "e" },
+                { "answer": "a" },
+                { "answer": "r" },
+                { "answer": "l" },
+                { "answer": "y" }
             ],
-            "words": ["什么", "这", "是"]
+            "words": ["y", "n", "l", "e", "r", "a"]
         },
         {
             "id": 25,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673131/%E8%BF%99%E6%98%AF%E4%B9%A6_lebbej.mp3",
-            "sentence": "This is a book. <br> ___ ___ ___.",
+            "audio": "",
+            "sentence": "Alternatives for "almost": ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "这" },
-                { "answer": "是" },
-                { "answer": "书" }
+                { "answer": "ap" },
+                { "answer": "pro" },
+                { "answer": "xi" },
+                { "answer": "mate" },
+                { "answer": "ly" }
+               
             ],
-            "words": ["书", "是", "这"]
+            "words": ["ly", "pro", "mate", "xi", "ap"]
         },
         {
             "id": 26,
-            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673163/%E4%B9%A6_jjihr5.mp3",
-            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672809/%E4%B9%A6_f3edw3.png", ": ___"],
+            "audio": "",
+            "sentence": "Alternatives for "almost": ___ ___ ___ ___ ___ ___ ___",
             "blanks": [
-                { "answer": "书" }
+                { "answer": "r" },
+                { "answer": "o" },
+                { "answer": "u" },
+                { "answer": "g" },
+                { "answer": "h" },
+                { "answer": "l" },
+                { "answer": "y" }
             ],
-            "words": ["电视", "书", "椅子"]
+            "words": ["y", "r", "l", "u", "g", "o", "h"]
         },
         {
             "id": 27,
