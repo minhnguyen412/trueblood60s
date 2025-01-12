@@ -62,7 +62,7 @@ function loadPosts(startpId, endpId, listId) {
 
     // Danh sách các file JSON cần tải
     const filesToFetch = [
-        '../data/imagesData.json',
+        '../data/imagesData-2.json',
         '../data/sentence.json'
         
     ];
