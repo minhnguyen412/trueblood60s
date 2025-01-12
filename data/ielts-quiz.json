@@ -48,34 +48,29 @@
         {
             "id": 5,
             "audio": "",
-            "sentence": "How else can \"people who used the internet\" be written?<br> ___ ___; ___ ___ ___ ___; ___ ___ ___ ___",
+            "sentence": "How else can \"people who used the internet\" be written?<br> ___ ___;",
             "blanks": [
                 { "answer": "internet" },
-                { "answer": "users" },
-                { "answer": "people" },
-                { "answer": "using" },
-                { "answer": "the" },
-                { "answer": "internet" },
-                { "answer": "internet" },
-                { "answer": "usage" },
-                { "answer": "among" },
-                { "answer": "people" }
+                { "answer": "users" }
+                
             ],
-            "words": ["internet", "people", "among", "usage", "the", "internet", "using", "users", "people", "internet"]
+            "words": ["internet", "people", "users", "people"]
         },
         {
             "id": 6,
             "audio": "",
-            "sentence": "How else can \"between 1999 and 2009\" be written?<br> ___ ___; ___ ___; ___ ___",
+            "sentence": "How else can \"between 1999 and 2009\" be written?<br> ___ ___ ___ ___ ___ ___ ___ ___ ___ ",
             "blanks": [
-                { "answer": "Over the ten-year period" },
-                { "answer": "from 1999 to 2009" },
-                { "answer": "Throughout the years" },
-                { "answer": "1999 to 2009" },
-                { "answer": "During the period" },
-                { "answer": "1999–2009" }
+                { "answer": "Over" },
+                { "answer": "the" },
+                { "answer": "ten-year" },
+                { "answer": "period" },
+                { "answer": "from" },
+                { "answer": "1999" },
+                { "answer": "to" },
+                { "answer": "2009" }
             ],
-            "words": ["1999 to 2009", "During the period", "Over the ten-year period", "from 1999 to 2009", "Throughout the years", "1999–2009"]
+            "words": ["1999", "Over", "from", "the", "period", "to", "ten-year", "2009"]
         },
         {
             "id": 7,
@@ -169,23 +164,15 @@
         {
             "id": 14,
             "audio": "",
-            "sentence": "Alternatives for \"over the period shown\": ___ ___ ___ ___; ___ ___ ___ ___; ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"over the period shown\": ___ ___ ___ ___",
             "blanks": [
                 { "answer": "throughout" },
                 { "answer": "the" },
                 { "answer": "given" },
-                { "answer": "period" },
-                { "answer": "over" },
-                { "answer": "the" },
-                { "answer": "ten-year" },
-                { "answer": "timeframe" },
-                { "answer": "during" },
-                { "answer": "the" },
-                { "answer": "period" },
-                { "answer": "in" },
-                { "answer": "question" }
+                { "answer": "period" }
+                
             ],
-            "words": ["question", "throughout", "period", "the", "ten-year", "during", "the", "timeframe", "the", "in", "given", "period", "over"]
+            "words": ["throughout", "period", "the", "given"]
         },
         {
             "id": 15,
@@ -217,40 +204,28 @@
         {
             "id": 18,
             "audio": "",
-            "sentence": "Alternatives for \"experienced\": ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
+            "sentence": "Alternatives for \"experienced\": ___ ___ ___",
             "blanks": [
                 { "answer": "s" },
                 { "answer": "a" },
-                { "answer": "w" },
-                { "answer": "h" },
-                { "answer": "a" },
-                { "answer": "d" },
-                { "answer": "sh" },
-                { "answer": "o" },
-                { "answer": "w" },
-                { "answer": "ed" }
+                { "answer": "w" }
+                
                 
             ],
-            "words": ["ed", "s", "d", "w", "a", "w", "h", "a", "sh", "o"]
+            "words": [ "s", "w", "a"]
         },
         {
             "id": 19,
             "audio": "",
-            "sentence": "Alternatives for \"the fastest growth\": ___ ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
+            "sentence": "Alternatives for \"the fastest growth\": ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "most" },
                 { "answer": "rapid" },
-                { "answer": "increase" },
-                { "answer": "the" },
-                { "answer": "sharpest" },
-                { "answer": "rise" },
-                { "answer": "the" },
-                { "answer": "highest" },
-                { "answer": "growth" },
-                { "answer": "rate" }
+                { "answer": "increase" }
+                
             ],
-            "words": ["rate", "most", "highest", "rapid", "the", "growth", "the", "sharpest", "the", "rise", "increase"]
+            "words": ["most", "rapid", "the", "increase"]
         },
         {
             "id": 20,
@@ -281,38 +256,30 @@
         {
             "id": 22,
             "audio": "",
-            "sentence": "Alternatives for \"figures\": ___ ___; ___ ___ ___; ___ ___",
+            "sentence": "Alternatives for \"figures\": ___ ___ ___",
             "blanks": [
-                { "answer": "num" },
-                { "answer": "bers" },
+                
                 { "answer": "sta" },
                 { "answer": "tis" },
-                { "answer": "tics" },
-                { "answer": "da" },
-                { "answer": "ta" }
+                { "answer": "tics" }
+                
             ],
-            "words": ["ta", "sta", "da", "num", "tis", "bers", "tics"]
+            "words": ["ta", "sta", "tics"]
         },
         {
             "id": 23,
             "audio": "",
-            "sentence": "Alternatives for \"respectively\": ___ ___ ___; ___ ___ ___ ___ ___; ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"respectively\": ___ ___ ___ ___ ___,
             "blanks": [
-                { "answer": "in" },
-                { "answer": "that" },
-                { "answer": "order" },
+                
                 { "answer": "cor" },
                 { "answer": "re" },
                 { "answer": "spon" },
                 { "answer": "ding" },
-                { "answer": "ly" },
-                { "answer": "for" },
-                { "answer": "each" },
-                { "answer": "..." },
-                { "answer": "in" },
-                { "answer": "turn" }
+                { "answer": "ly" }
+                
             ],
-            "words": ["spon", "turn", "in", "...", "ly", "in", "each", "that", "ding", "cor", "order", "re", "for"]
+            "words": ["spon", "ly", "ding", "cor", "re"]
         },
         {
             "id": 24,
