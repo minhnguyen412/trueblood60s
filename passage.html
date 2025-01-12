@@ -349,7 +349,7 @@
         
       </div>
       
-      <script src="js/quiz.js"></script>
+      <script src="js/ielts-quiz.js"></script>
       <script>
         document.addEventListener('DOMContentLoaded', () => {
           const urlParams = new URLSearchParams(window.location.search);
@@ -371,7 +371,7 @@
 
   <script>
     const maxVideosToShow = 5;
-    fetch('data/thumbnail.json')
+    fetch('data/thumb-writing.json')
       .then(response => response.json())
       .then(videos => {
         videos.sort((a, b) => b.id - a.id);
