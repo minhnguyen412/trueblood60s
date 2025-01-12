@@ -1,0 +1,724 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673138/%E8%BF%99%E6%98%AF%E7%8E%8B%E8%80%81%E5%B8%88%E8%BF%99%E6%98%AF%E6%88%91%E7%88%B8%E7%88%B8_m1wpqh.mp3",
+            "sentence": "___ ___ ___, ___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "zhè" },
+                { "answer": "shì" },
+                { "answer": "wáng lǎoshī" },
+                { "answer": "zhè" },
+                { "answer": "shì" },
+                { "answer": "wǒ" },
+                { "answer": "bàba" }
+            ],
+            "words": ["zhè", "wǒ", "shì", "zhè", "wáng lǎoshī", "shì", "bàba"]
+        },
+        {
+            "id": 2,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673115/%E7%8E%8B%E8%80%81%E5%B8%88%E6%82%A8%E5%A5%BD_gmcnzg.mp3",
+            "sentence": "___, ___ ___!",
+            "blanks": [
+                { "answer": "wáng lǎoshī" },
+                { "answer": "nín" },
+                { "answer": "hǎo" }
+            ],
+            "words": ["nín", "wáng lǎoshī", "hǎo"]
+        },
+        {
+            "id": 3,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673099/%E6%82%A8%E5%A5%BD%E8%AF%B7%E8%BF%9B%E8%AF%B7%E5%9D%90%E8%AF%B7%E5%96%9D%E8%8C%B6_tx8mtv.mp3",
+            "sentence": "nín hǎo! qǐng ___! qǐng ___! qǐng ___ ___!",
+            "blanks": [
+                { "answer": "jìn" },
+                { "answer": "zuò" },
+                { "answer": "hē" },
+                { "answer": "chá" }
+            ],
+            "words": ["zuò", "hē", "jìn", "chá"]
+        },
+        {
+            "id": 4,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673084/%E4%B8%8D%E5%AE%A2%E6%B0%94_yyqayx.mp3",
+            "sentence": "xièxie! ___!",
+            "blanks": [
+                { "answer": "bú kèqi" }
+            ],
+            "words": ["bù zhīdào", "bú kèqi", "méi shénme", "duì bu qǐ"]
+        },
+        {
+            "id": 5,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673083/%E4%B8%8D%E5%A4%AA%E5%BF%99_u5zgbz.mp3",
+            "sentence": "gōngzuò máng ma? ___ ___ ___.",
+            "blanks": [
+                { "answer": "bú" },
+                { "answer": "tài" },
+                { "answer": "máng" }
+            ],
+            "words": ["bú", "máng", "tài"]
+        },
+        {
+            "id": 6,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673122/%E8%BA%AB%E4%BD%93%E5%A5%BD%E5%90%97_j1pg0s.mp3",
+            "sentence": "___ ___ ___? hěn hǎo.",
+            "blanks": [
+                { "answer": "shēntǐ" },
+                { "answer": "hǎo" },
+                { "answer": "ma?" }
+            ],
+            "words": ["ma?", "hǎo", "shēntǐ"]
+        },
+        {
+            "id": 7,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673331/%E8%80%81%E5%B8%88_uml35p.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%80%81%E5%B8%88_yp4q3u.png", ": ___"],
+            "blanks": [
+                { "answer": "老师" }
+            ],
+            "words": ["律师", "老师", "医生"]
+        },
+        {
+            "id": 8,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673288/%E6%82%A8_p8k1sj.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%82%A8_ndcupj.png", ": ___"],
+            "blanks": [
+                { "answer": "您" }
+            ],
+            "words": ["您", "我", "你"]
+        },
+        {
+            "id": 9,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673343/%E8%AF%B7_gfbu7q.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/v1734672829/%E8%AF%B7_ow5lc2.gif", ": ___"],
+            "blanks": [
+                { "answer": "请" }
+            ],
+            "words": ["好", "对", "请"]
+        },
+        {
+            "id": 10,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673352/%E8%BF%9B_ldhyvd.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672831/%E8%BF%9B_yvpsep.png", ": ___"],
+            "blanks": [
+                { "answer": "进" }
+            ],
+            "words": ["喝", "去", "进"]
+        },
+        {
+            "id": 11,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673260/%E5%9D%90_of9mvo.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9D%90_v3qgxh.png", ": ___"],
+            "blanks": [
+                { "answer": "坐" }
+            ],
+            "words": ["坐", "吃", "站"]
+        },
+        {
+            "id": 12,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673255/%E5%96%9D_d7eazr.mp3",
+            "sentence": "喝 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672814/%E5%96%9D_ohxgv5.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9D%90_v3qgxh.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672814/%E5%96%9D_ohxgv5.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672829/%E8%AF%B7_ow5lc2.gif"]
+        },
+        {
+            "id": 13,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673336/%E8%8C%B6_qjl60i.mp3",
+            "sentence": "茶 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672827/%E8%8C%B6_wqnz2r.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%A4%A9_f0dh1g.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672827/%E8%8C%B6_wqnz2r.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672812/%E5%8F%96_srztqx.png"]
+        },
+        {
+            "id": 14,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673274/%E5%AE%A2%E6%B0%94_n00npd.mp3",
+            "sentence": "客气 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%AE%A2%E6%B0%94_bafdxn.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%AE%A2%E6%B0%94_bafdxn.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9B%9E_hwrdue.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672817/%E5%AD%A6_ohlrfe.png"]
+        },
+        {
+            "id": 15,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673280/%E5%B7%A5%E4%BD%9C_dhayvb.mp3",
+            "sentence": "工作 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%B7%A5%E4%BD%9C_vym8um.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672816/%E5%A5%BD_cktmxb.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672818/%E5%B7%A5%E4%BD%9C_vym8um.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672820/%E6%82%A8_ndcupj.png"]
+        },
+        {
+            "id": 16,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673348/%E8%BA%AB%E4%BD%93_psl9ep.mp3",
+            "sentence": "身体 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672830/%E8%BA%AB%E4%BD%93_gyl84l.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672823/%E6%9C%8B%E5%8F%8B_pwkkse.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672809/%E4%B9%A6_f3edw3.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672830/%E8%BA%AB%E4%BD%93_gyl84l.png"]
+        },
+        {
+            "id": 17,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673118/%E8%AF%B7%E9%97%AE%E4%BD%A0%E8%B4%B5%E5%A7%93_e22nk8.mp3",
+            "sentence": "___ ___ ___?",
+            "blanks": [
+                { "answer": "请问" },
+                { "answer": "你" },
+                { "answer": "贵姓" }
+            ],
+            "words": ["贵姓", "请问", "你"]
+        },
+        {
+            "id": 18,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673104/%E6%88%91%E5%A7%93%E5%BC%A0_o7ewjh.mp3",
+            "sentence": "My surname is Zhang. ___ ___ ___.",
+            "blanks": [
+                { "answer": "我" },
+                { "answer": "姓" },
+                { "answer": "张" }
+            ],
+            "words": ["张", "我", "姓"]
+        },
+        {
+            "id": 19,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673086/%E4%BD%A0%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97_gq6ngu.mp3",
+            "sentence": "你叫什么名字？___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "What" },
+                { "answer": "is" },
+                { "answer": "your" },
+                { "answer": "name" }
+            ],
+            "words": ["is", "name", "What", "your"]
+        },
+        {
+            "id": 20,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673093/%E4%BD%A0%E6%98%AF%E5%93%AA%E5%9B%BD%E4%BA%BA_ob0jxo.mp3",
+            "sentence": "___ ___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "你" },
+                { "answer": "是" },
+                { "answer": "哪" },
+                { "answer": "国" },
+                { "answer": "人" }
+            ],
+            "words": ["人", "哪", "是", "你", "国"]
+        },
+        {
+            "id": 21,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673272/%E5%AD%A6%E4%B9%A0_zn9smo.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672817/%E5%AD%A6%E4%B9%A0_tvsnpv.png", ": ___"],
+            "blanks": [
+                { "answer": "学习" }
+            ],
+            "words": ["工作", "学习", "睡觉"]
+        },
+        {
+            "id": 22,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673242/%E5%8F%91%E9%9F%B3_mvaakh.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672812/%E5%8F%91%E9%9F%B3_ov2vxu.png", ": ___"],
+            "blanks": [
+                { "answer": "发音" }
+            ],
+            "words": ["汉字", "课文", "发音"]
+        },
+        {
+            "id": 23,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673312/%E6%B1%89%E5%AD%97_ix9xku.mp3",
+            "sentence": "汉字 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%B1%89%E5%AD%97_zqikwg.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%B1%89%E5%AD%97_zqikwg.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%9D%82%E5%BF%97_adnplb.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672815/%E5%9B%BD_fca15m.png"]
+        },
+        {
+            "id": 24,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673133/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88_lho2uy.mp3",
+            "sentence": "What is this? <br> ___ ___ ___?",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "什么" }
+            ],
+            "words": ["什么", "这", "是"]
+        },
+        {
+            "id": 25,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673131/%E8%BF%99%E6%98%AF%E4%B9%A6_lebbej.mp3",
+            "sentence": "This is a book. <br> ___ ___ ___.",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "书" }
+            ],
+            "words": ["书", "是", "这"]
+        },
+        {
+            "id": 26,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673163/%E4%B9%A6_jjihr5.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672809/%E4%B9%A6_f3edw3.png", ": ___"],
+            "blanks": [
+                { "answer": "书" }
+            ],
+            "words": ["电视", "书", "椅子"]
+        },
+        {
+            "id": 27,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673134/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E4%B9%A6_zl0i7l.mp3",
+            "sentence": "___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "什么" },
+                { "answer": "书" }
+                
+            ],
+            "words": ["什么", "书", "是", "这"]
+        },
+        {
+            "id": 28,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673161/%E4%B8%AD%E6%96%87_vbkj3r.mp3",
+            "sentence": "中文 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672808/%E4%B8%AD%E6%96%87_ceposq.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672833/%E9%9F%A9%E6%96%87_ipmlxt.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672821/%E6%97%A5%E6%96%87_lnpilr.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672808/%E4%B8%AD%E6%96%87_ceposq.png"]
+        },
+        {
+            "id": 29,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673140/%E8%BF%99%E6%98%AF%E8%B0%81%E7%9A%84%E4%B9%A6_l4mna3.mp3",
+            "sentence": "Whose book is this? <br> ___ ___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "谁" },
+                { "answer": "的" },
+                { "answer": "书" }
+            ],
+            "words": ["谁", "这", "是", "书", "的"]
+        },
+        {
+            "id": 30,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673345/%E8%B0%81_ueab1g.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672830/%E8%B0%81_o4ejhr.gif", ": ___"],
+            "blanks": [
+                { "answer": "谁" }
+            ],
+            "words": ["那", "在", "谁"]
+        },
+        {
+            "id": 31,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673139/%E8%BF%99%E6%98%AF%E8%80%81%E5%B8%88%E7%9A%84%E4%B9%A6_ry6pfu.mp3",
+            "sentence": "___ ___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "这" },
+                { "answer": "是" },
+                { "answer": "老师" },
+                { "answer": "的" },
+                { "answer": "书" }
+            ],
+            "words": ["是", "老师", "书", "这", "的"]
+        },
+        {
+            "id": 32,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673142/%E9%82%A3%E6%98%AF%E4%BB%80%E4%B9%88_vhyyi4.mp3",
+            "sentence": "What is that? <br> ___ ___ ___?",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "什么" }
+            ],
+            "words": ["什么", "那", "是"]
+        },
+        {
+            "id": 33,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673311/%E6%9D%82%E5%BF%97_axn4uh.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672824/%E6%9D%82%E5%BF%97_adnplb.png", ": ___"],
+            "blanks": [
+                { "answer": "杂志" }
+            ],
+            "words": ["杂志", "学校", "身体"]
+        },
+        {
+            "id": 34,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673144/%E9%82%A3%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%82%E5%BF%97_cj6lqe.mp3",
+            "sentence": "___ ___ ___ ___?",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "什么" },
+                { "answer": "杂志" }
+            ],
+            "words": ["是", "什么", "杂志", "那"]
+        },
+        {
+            "id": 35,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673333/%E8%8B%B1%E6%96%87_kjsarw.mp3",
+            "sentence": "英文 : ___",
+            "blanks": [
+                { "answer": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672827/%E8%8B%B1%E6%96%87_vr4hh3.png" }
+            ],
+            "words": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672827/%E8%8B%B1%E6%96%87_vr4hh3.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672832/%E9%98%BF%E6%8B%89%E4%BC%AF%E6%96%87_zso60r.png", "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672819/%E5%BE%B7%E6%96%87_raeko0.png"]
+        },
+        {
+            "id": 36,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673148/%E9%82%A3%E6%98%AF%E8%B0%81%E7%9A%84%E6%9D%82%E5%BF%97_pq9pbq.mp3",
+            "sentence": "___ ___ ___ ___ ___？",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "谁" },
+                { "answer": "的" },
+                { "answer": "杂志" }
+            ],
+            "words": ["是", "谁", "杂志", "那", "的"]
+        },
+        {
+            "id": 37,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673145/%E9%82%A3%E6%98%AF%E6%88%91%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%9D%82%E5%BF%97_va0ugf.mp3",
+            "sentence": "That's my friend's magazine. <br> ___ ___ ___ ___ ___ ___.",
+            "blanks": [
+                { "answer": "那" },
+                { "answer": "是" },
+                { "answer": "我" },
+                { "answer": "朋友" },
+                { "answer": "的" },
+                { "answer": "杂志" }
+            ],
+            "words": ["那", "我", "的", "朋友", "是", "杂志"]
+        },
+        {
+            "id": 38,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673310/%E6%9C%8B%E5%8F%8B_r32byy.mp3",
+            "sentence": ["https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734672823/%E6%9C%8B%E5%8F%8B_pwkkse.png", ": ___"],
+            "blanks": [
+                { "answer": "朋友" }
+            ],
+            "words": ["老师", "父母", "朋友"]
+        },
+        {
+            "id": 39,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673150/%E4%B8%80_ccdydi.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "yī" }
+            ],
+            "words": ["yī", "yí", "yǐ", "yì"]
+        },
+        {
+            "id": 40,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673165/%E4%BA%94_durk7r.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "wǔ" }
+            ],
+            "words": ["wū", "wú", "wǔ", "wù"]
+        },
+        {
+            "id": 41,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354395/yu2_cvh99x.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "yú" }
+            ],
+            "words": ["yū", "yú", "yǔ", "yù"]
+        },
+        {
+            "id": 42,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673233/%E5%85%AB_jwszsy.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "bā" }
+            ],
+            "words": ["bā", "bá", "bǎ", "bà"]
+        },
+        {
+            "id": 43,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673261/%E5%A4%A7_ni23pu.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "dà" }
+            ],
+            "words": ["dā", "dá", "dǎ", "dà"]
+        },
+        {
+            "id": 44,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673155/%E4%B8%8D_p3kqjq.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "bù" }
+            ],
+            "words": ["bū", "bú", "bǔ", "bù"]
+        },
+        {
+            "id": 45,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673265/%E5%A5%B3_kxwjg4.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "nǚ" }
+            ],
+            "words": ["nǖ", "nǘ", "nǚ", "nǜ"]
+        },
+        {
+            "id": 46,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673245/%E5%8F%A3_dxcuqi.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "kǒu" }
+            ],
+            "words": ["kōu", "kóu", "kǒu", "kòu"]
+        },
+        {
+            "id": 47,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673324/%E7%99%BD_kbwum2.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "bái" }
+            ],
+            "words": ["bāi", "bái", "bǎi", "bài"]
+        },
+        {
+            "id": 48,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354394/hei1_hd4jw1.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "hēi" }
+            ],
+            "words": ["hēi", "héi", "hěi", "hèi"]
+        },
+        {
+            "id": 49,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673375/%E9%A9%AC_zbvgtx.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "mǎ" }
+            ],
+            "words": ["mā", "má", "mǎ", "mà"]
+        },
+        {
+            "id": 50,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673172/%E4%BD%A0_ll3o9t.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "nǐ" }
+            ],
+            "words": ["nī", "ní", "nǐ", "nì"]
+        },
+        {
+            "id": 51,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673266/%E5%A5%BD_lge2io.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "hǎo" }
+            ],
+            "words": ["hāo", "háo", "hǎo", "hào"]
+        },
+        {
+            "id": 52,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354395/pa_l4o4im.mp3",
+            "sentence": "Which sound do you hear? ___",
+            "blanks": [
+                { "answer": "pa" }
+            ],
+            "words": ["ba", "pa"]
+        },
+        {
+            "id": 53,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354394/da_gsewdl.mp3",
+            "sentence": "Which sound do you hear? ___",
+            "blanks": [
+                { "answer": "da" }
+            ],
+            "words": ["da", "ta"]
+        },
+        {
+            "id": 54,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354394/hei_wd8bah.mp3",
+            "sentence": "Which sound do you hear? ___",
+            "blanks": [
+                { "answer": "hei" }
+            ],
+            "words": ["hai", "hei"]
+        },
+        {
+            "id": 55,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354395/po_gplthh.mp3",
+            "sentence": "Which sound do you hear? ___",
+            "blanks": [
+                { "answer": "po" }
+            ],
+            "words": ["pa", "po"]
+        },
+        {
+            "id": 56,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354394/gou_g3k7r3.mp3",
+            "sentence": "Which sound do you hear? ___",
+            "blanks": [
+                { "answer": "gou" }
+            ],
+            "words": ["gao", "gou"]
+        },
+        {
+            "id": 57,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1735354394/ka_hcewtw.mp3",
+            "sentence": "Which sound do you hear? ___",
+            "blanks": [
+                { "answer": "ka" }
+            ],
+            "words": ["ga", "ka"]
+        },
+        {
+            "id": 58,
+            "audio": "",
+            "sentence": "你: ___",
+            "blanks": [
+                { "answer": "nǐ" }
+            ],
+            "words": ["nǐ", "wǔ", "yǔ", "mǎ"]
+        },
+        {
+            "id": 59,
+            "audio": "",
+            "sentence": "好: ___",
+            "blanks": [
+                { "answer": "hǎo" }
+            ],
+            "words": ["nǚ", "wǔ", "hǎo", "bǎi"]
+        },
+        {
+            "id":60,
+            "audio": "",
+            "sentence": "Are you busy?: ___ ___ ___?",
+            "blanks": [
+                { "answer": "你" },
+                { "answer": "忙" },
+                { "answer": "吗" }
+            ],
+            "words": ["忙", "你", "吗"]
+        },
+        {
+            "id":61,
+            "audio": "",
+            "sentence": "Very busy: ___ ___。",
+            "blanks": [
+                { "answer": "很" },
+                { "answer": "忙" }
+            ],
+            "words": ["忙", "很"]
+        },
+        {
+            "id":62,
+            "audio": "",
+            "sentence": "Is Chinese difficult?: ___ ___ ___?",
+            "blanks": [
+                { "answer": "汉语" },
+                { "answer": "难" },
+                { "answer": "吗" }
+            ],
+            "words": ["难", "吗", "汉语"]
+        },
+        {
+            "id":63,
+            "audio": "",
+            "sentence": "Not too difficult: ___ ___ ___。",
+            "blanks": [
+                { "answer": "不" },
+                { "answer": "太" },
+                { "answer": "难" }
+            ],
+            "words": ["太", "不", "难"]
+        },
+        {
+            "id":64,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673171/%E4%BB%96%E5%A5%B9_ajweaf.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "tā" }
+            ],
+            "words": ["tā", "tá", "tǎ", "tà"]
+        },
+        {
+            "id":65,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673287/%E5%BF%99_ez8ywo.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "máng" }
+            ],
+            "words": ["māng", "máng", "mǎng", "màng"]
+        },
+        {
+            "id":66,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673282/%E5%BE%88_h1omcw.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "hěn" }
+            ],
+            "words": ["hēn", "hén", "hěn", "hèn"]
+        },
+        {
+            "id":67,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673364/%E9%9A%BE_soiuxw.mp3",
+            "sentence": "Listen and choose the correct pinyin: ___",
+            "blanks": [
+                { "answer": "nán" }
+            ],
+            "words": ["nān", "nán", "nǎn", "nàn"]
+        },
+        {
+            "id":68,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673313/%E6%B1%89%E8%AF%AD_n6ho4r.mp3",
+            "sentence": "汉语: ___",
+            "blanks": [
+                { "answer": "hànyǔ" }
+            ],
+            "words": ["hānyú", "hànyǔ", "hanyǔ", "hányu"]
+        },
+        {
+            "id":69,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673320/%E7%88%B8%E7%88%B8_ktwtw6.mp3",
+            "sentence": "爸爸: ___",
+            "blanks": [
+                { "answer": "bàba" }
+            ],
+            "words": ["baba", "pàpa", "papa", "bàba"]
+        },
+        {
+            "id":70,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673268/%E5%A6%88%E5%A6%88_cyj7nk.mp3",
+            "sentence": "妈妈: ___",
+            "blanks": [
+                { "answer": "māma" }
+            ],
+            "words": ["māma", "mama", "máma", "mǎma"]
+        },
+        {
+            "id":71,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673250/%E5%93%A5%E5%93%A5_t3w2af.mp3",
+            "sentence": "哥哥: ___",
+            "blanks": [
+                { "answer": "gēge" }
+            ],
+            "words": ["gege", "gège", "gége", "gēge"]
+        },
+        {
+            "id":72,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673269/%E5%A6%B9%E5%A6%B9_fm9pax.mp3",
+            "sentence": "mèimei: ___",
+            "blanks": [
+                { "answer": "妹妹" }
+            ],
+            "words": ["妈妈", "妹妹", "弟弟", "哥哥"]
+        },
+        {
+            "id":73,
+            "audio": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673281/%E5%BC%9F%E5%BC%9F_taqkox.mp3",
+            "sentence": "dìdi: ___",
+            "blanks": [
+                { "answer": "弟弟" }
+            ],
+            "words": ["爸爸", "妹妹", "弟弟", "哥哥"]
+        }
+    ]
+}
