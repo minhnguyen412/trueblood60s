@@ -59,7 +59,7 @@
         {
             "id": 6,
             "audio": "",
-            "sentence": "How else can \"between 1999 and 2009\" be written?<br> ___ ___ ___ ___ ___ ___ ___ ___ ___ ",
+            "sentence": "How else can \"between 1999 and 2009\" be written?<br> ___ ___ ___ ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "Over" },
                 { "answer": "the" },
@@ -264,7 +264,7 @@
                 { "answer": "tics" }
                 
             ],
-            "words": ["ta", "sta", "tics"]
+            "words": ["tis", "sta", "tics"]
         },
         {
             "id": 23,
