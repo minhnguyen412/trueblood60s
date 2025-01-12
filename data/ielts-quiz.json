@@ -13,7 +13,7 @@
         {
             "id": 2,
             "audio": "",
-            "sentence": "How else can "the percentage of" be written? The ___ ___ ___ of",
+            "sentence": "How else can \"the percentage of\" be written? The ___ ___ ___ of",
             "blanks": [
                 { "answer": "pro" },
                 { "answer": "por" },
@@ -24,7 +24,7 @@
         {
             "id": 3,
             "audio": "",
-            "sentence": "How else can "the percentage of" be written? The ___ ___ ___ ___ of",
+            "sentence": "How else can \"the percentage of\" be written? The ___ ___ ___ ___ of",
             "blanks": [
                 { "answer": "sh" },
                 { "answer": "a" },
@@ -36,7 +36,7 @@
         {
             "id": 4,
             "audio": "",
-            "sentence": "How else can "the percentage of" be written? The ___ ___ ___ ___ of",
+            "sentence": "How else can \"the percentage of\" be written? The ___ ___ ___ ___ of",
             "blanks": [
                 { "answer": "r" },
                 { "answer": "a" },
@@ -48,7 +48,7 @@
         {
             "id": 5,
             "audio": "",
-            "sentence": "How else can "people who used the internet" be written?<br> ___ ___; ___ ___ ___ ___; ___ ___ ___ ___",
+            "sentence": "How else can \"people who used the internet\" be written?<br> ___ ___; ___ ___ ___ ___; ___ ___ ___ ___",
             "blanks": [
                 { "answer": "internet" },
                 { "answer": "users" },
@@ -66,7 +66,7 @@
         {
             "id": 6,
             "audio": "",
-            "sentence": "How else can "between 1999 and 2009" be written?<br> ___ ___; ___ ___; ___ ___",
+            "sentence": "How else can \"between 1999 and 2009\" be written?<br> ___ ___; ___ ___; ___ ___",
             "blanks": [
                 { "answer": "Over the ten-year period" },
                 { "answer": "from 1999 to 2009" },
@@ -80,7 +80,7 @@
         {
             "id": 7,
             "audio": "",
-            "sentence": "How else can "the proportion of the population" be written? ___ ___ ___ ___",
+            "sentence": "How else can \"the proportion of the population\" be written? ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "percentage" },
@@ -92,7 +92,7 @@
         {
             "id": 8,
             "audio": "",
-            "sentence": "How else can "the proportion of the population" be written? ___ ___ ___ ___",
+            "sentence": "How else can \"the proportion of the population\" be written? ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "share" },
@@ -104,7 +104,7 @@
         {
             "id": 9,
             "audio": "",
-            "sentence": "How else can "the proportion of the population" be written? ___ ___ ___ ___",
+            "sentence": "How else can \"the proportion of the population\" be written? ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "number" },
@@ -116,7 +116,7 @@
         {
             "id": 10,
             "audio": "",
-            "sentence": "Beside "increased", you could use: ___ ___ ___ ___",
+            "sentence": "Beside \"increased\", you could use: ___ ___ ___ ___",
             "blanks": [
                 { "answer": "g" },
                 { "answer": "r" },
@@ -128,7 +128,7 @@
         {
             "id": 11,
             "audio": "",
-            "sentence": "Beside "increased", you could use: ___ ___ ___ ___",
+            "sentence": "Beside \"increased\", you could use: ___ ___ ___ ___",
             "blanks": [
                 { "answer": "r" },
                 { "answer": "o" },
@@ -140,7 +140,7 @@
         {
             "id": 12,
             "audio": "",
-            "sentence": "Beside "increased", you could use: ___ ___ ___ ___ ___ ___",
+            "sentence": "Beside \"increased\", you could use: ___ ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "w" },
                 { "answer": "e" },
@@ -154,7 +154,7 @@
         {
             "id": 13,
             "audio": "",
-            "sentence": "Beside "increased", you could use: ___ ___ ___ ___ ___ ___ ___",
+            "sentence": "Beside \"increased\", you could use: ___ ___ ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "ex" },
                 { "answer": "pe" },
@@ -169,7 +169,7 @@
         {
             "id": 14,
             "audio": "",
-            "sentence": "Alternatives for "over the period shown": ___ ___ ___ ___; ___ ___ ___ ___; ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"over the period shown\": ___ ___ ___ ___; ___ ___ ___ ___; ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "throughout" },
                 { "answer": "the" },
@@ -190,7 +190,7 @@
         {
             "id": 15,
             "audio": "",
-            "sentence": "In this sentence, "a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans", which one is the noun phrase?",
+            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the noun phrase?",
             "blanks": [
                 { "answer": "a much larger percentage" }
             ],
@@ -199,7 +199,7 @@
         {
             "id": 16,
             "audio": "",
-            "sentence": "In this sentence, "a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans", which one is the main verb phrase?",
+            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the main verb phrase?",
             "blanks": [
                 { "answer": "had access to the Internet" }
             ],
@@ -208,7 +208,7 @@
         {
             "id": 17,
             "audio": "",
-            "sentence": "In this sentence, "a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans", which one is the prepositional phrase showing contrast?",
+            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the prepositional phrase showing contrast?",
             "blanks": [
                 { "answer": "in comparison with Mexicans" }
             ],
@@ -217,7 +217,7 @@
         {
             "id": 18,
             "audio": "",
-            "sentence": "Alternatives for "experienced": ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
+            "sentence": "Alternatives for \"experienced\": ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
             "blanks": [
                 { "answer": "s" },
                 { "answer": "a" },
@@ -236,7 +236,7 @@
         {
             "id": 19,
             "audio": "",
-            "sentence": "Alternatives for "the fastest growth": ___ ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
+            "sentence": "Alternatives for \"the fastest growth\": ___ ___ ___ ___; ___ ___ ___; ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "most" },
@@ -255,7 +255,7 @@
         {
             "id": 20,
             "audio": "",
-            "sentence": "Alternatives for "the proportion of people": ___ ___ ___ ___",
+            "sentence": "Alternatives for \"the proportion of people\": ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "percentage" },
@@ -268,7 +268,7 @@
         {
             "id": 21,
             "audio": "",
-            "sentence": "Alternatives for "the proportion of people": ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"the proportion of people\": ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "the" },
                 { "answer": "share" },
@@ -281,7 +281,7 @@
         {
             "id": 22,
             "audio": "",
-            "sentence": "Alternatives for "figures": ___ ___; ___ ___ ___; ___ ___",
+            "sentence": "Alternatives for \"figures\": ___ ___; ___ ___ ___; ___ ___",
             "blanks": [
                 { "answer": "num" },
                 { "answer": "bers" },
@@ -296,7 +296,7 @@
         {
             "id": 23,
             "audio": "",
-            "sentence": "Alternatives for "respectively": ___ ___ ___; ___ ___ ___ ___ ___; ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"respectively\": ___ ___ ___; ___ ___ ___ ___ ___; ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "in" },
                 { "answer": "that" },
@@ -317,7 +317,7 @@
         {
             "id": 24,
             "audio": "",
-            "sentence": "Alternatives for "almost": ___ ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"almost\": ___ ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "n" },
                 { "answer": "e" },
@@ -331,7 +331,7 @@
         {
             "id": 25,
             "audio": "",
-            "sentence": "Alternatives for "almost": ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"almost\": ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "ap" },
                 { "answer": "pro" },
@@ -345,7 +345,7 @@
         {
             "id": 26,
             "audio": "",
-            "sentence": "Alternatives for "almost": ___ ___ ___ ___ ___ ___ ___",
+            "sentence": "Alternatives for \"almost\": ___ ___ ___ ___ ___ ___ ___",
             "blanks": [
                 { "answer": "r" },
                 { "answer": "o" },
