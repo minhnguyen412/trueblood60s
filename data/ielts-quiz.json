@@ -177,29 +177,29 @@
         {
             "id": 15,
             "audio": "",
-            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the noun phrase?",
+            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the noun phrase?<br>A. had access to the Internet<br>B. a much larger percentage<br>C. in comparison with Mexicans",
             "blanks": [
-                { "answer": "a much larger percentage" }
+                { "answer": "B" }
             ],
-            "words": ["had access to the Internet", "a much larger percentage", "in comparison with Mexicans"]
+            "words": ["A", "B", "C"]
         },
         {
             "id": 16,
             "audio": "",
-            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the main verb phrase?",
+            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the main verb phrase?<br>A. had access to the Internet<br>B. a much larger percentage<br>C. in comparison with Mexicans",
             "blanks": [
-                { "answer": "had access to the Internet" }
+                { "answer": "A" }
             ],
-            "words": ["had access to the Internet", "a much larger percentage", "in comparison with Mexicans"]
+            "words": ["A", "B", "C"]
         },
         {
             "id": 17,
             "audio": "",
-            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the prepositional phrase showing contrast?",
+            "sentence": "In this sentence, \"a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans\", which one is the prepositional phrase showing contrast?<br>A. had access to the Internet<br>B. a much larger percentage<br>C. in comparison with Mexicans",
             "blanks": [
-                { "answer": "in comparison with Mexicans" }
+                { "answer": "C" }
             ],
-            "words": ["had access to the Internet", "a much larger percentage", "in comparison with Mexicans"]
+            "words": ["A", "B", "C"]
         },
         {
             "id": 18,
