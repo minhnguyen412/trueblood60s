@@ -501,7 +501,7 @@
     function startRecording(stream) {
       mediaRecorder = new MediaRecorder(stream);
       mediaRecorder.start();
-
+      audioChunks = [];
       recordStatus.textContent = 'Status: Recording...';
       startRecordingButton.disabled = true;
       stopRecordingButton.disabled = false;
@@ -514,7 +514,7 @@
         const audioBlob = new Blob(audioChunks, { type: 'audio/mp3' });
         const audioURL = URL.createObjectURL(audioBlob);
         // Reset audio chunks for the next recording
-        audioChunks = [];
+        
         recordStatus.textContent = 'Status: Recording stopped.';
         if (audioPlayer) {
           audioPlayer.remove();
