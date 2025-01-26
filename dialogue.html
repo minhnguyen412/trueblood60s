@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -163,6 +164,38 @@
       display: flex;
       gap: 10px;
       align-items: center;
+    }
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+    .modal-content {
+      background-color: #fefefe;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 90%;
+      max-width: 600px;
+    }
+    .close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .close:hover,
+    .close:focus {
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
     }
 
     @media screen and (max-width: 768px) {
@@ -373,12 +406,139 @@
 
   <!-- Buy Me A Coffee Tag -->
   <div class="buy-coffee">
-    <a href="" target="_blank">Record</a>
+    <a href="#" id="recordButton">Record</a>
   </div>
   <!-- New Words Tag -->
   <div class="new-words">
-    <a href="">Note</a>
+    <a href="#" id="noteButton">Note</a>
   </div>
+  <!-- Record Modal -->
+  <div id="recordModal" class="modal">
+    <div class="modal-content">
+      <span class="close" id="closeRecord">&times;</span>
+      <h1>Voice Recorder</h1>
+      <button id="startRecording">Start Recording</button>
+      <button id="stopRecording" disabled>Stop Recording</button>
+      <button id="playButton" class="play" disabled>Play Recording</button>
+      <p id="recordStatus">Status: Ready</p>
+    </div>
+  </div>
+
+  <!-- Note Modal -->
+  <div id="noteModal" class="modal">
+    <div class="modal-content">
+      <span class="close" id="closeNote">&times;</span>
+      <h1>Your Note</h1>
+      <textarea id="noteArea" placeholder="Start typing your note here..." style="width: 100%; height: 200px;"></textarea>
+    </div>
+  </div>
+
+  <script>
+    // Modal functionality
+    const recordModal = document.getElementById("recordModal");
+    const noteModal = document.getElementById("noteModal");
+    const recordButton = document.getElementById("recordButton");
+    const noteButton = document.getElementById("noteButton");
+    const closeRecord = document.getElementById("closeRecord");
+    const closeNote = document.getElementById("closeNote");
+
+    // Record button click
+    recordButton.onclick = function() {
+      recordModal.style.display = "block";
+    }
+
+    // Note button click
+    noteButton.onclick = function() {
+      noteModal.style.display = "block";
+    }
+
+    // Close record modal
+    closeRecord.onclick = function() {
+      recordModal.style.display = "none";
+    }
+
+    // Close note modal
+    closeNote.onclick = function() {
+      noteModal.style.display = "none";
+    }
+
+    // Close modal when clicking outside
+    window.onclick = function(event) {
+      if (event.target == recordModal) {
+        recordModal.style.display = "none";
+      }
+      if (event.target == noteModal) {
+        noteModal.style.display = "none";
+      }
+    }
+
+    // Recording functionality
+    const startRecordingButton = document.getElementById('startRecording');
+    const stopRecordingButton = document.getElementById('stopRecording');
+    const recordStatus = document.getElementById('recordStatus');
+    const playButton = document.getElementById('playButton');
+
+    let mediaRecorder;
+    let audioChunks = [];
+    let audioPlayer;
+    let mediaStream;
+
+    startRecordingButton.onclick = () => {
+      if (!mediaStream) {
+        // Nếu chưa có stream, yêu cầu quyền truy cập vào microphone
+        navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
+          mediaStream = stream; // Lưu trữ stream
+          startRecording(stream); // Bắt đầu ghi âm
+        }).catch(err => {
+          console.error("Error accessing microphone:", err);
+          recordStatus.textContent = 'Error accessing microphone. Please check permissions.';
+        });
+      } else {
+        // Nếu đã có stream, chỉ cần bắt đầu ghi âm
+        startRecording(mediaStream);
+      }
+    };
+    function startRecording(stream) {
+      mediaRecorder = new MediaRecorder(stream);
+      mediaRecorder.start();
+
+      recordStatus.textContent = 'Status: Recording...';
+      startRecordingButton.disabled = true;
+      stopRecordingButton.disabled = false;
+
+      mediaRecorder.ondataavailable = event => {
+        audioChunks.push(event.data);
+      };
+
+      mediaRecorder.onstop = () => {
+        const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+        const audioURL = URL.createObjectURL(audioBlob);
+        // Reset audio chunks for the next recording
+        audioChunks = [];
+        recordStatus.textContent = 'Status: Recording stopped.';
+        if (audioPlayer) {
+          audioPlayer.remove();
+        }
+        audioPlayer = new Audio(audioURL);
+        playButton.disabled = false;
+      };              
+    }
+
+    stopRecordingButton.onclick = () => {
+      mediaRecorder.stop();
+      startRecordingButton.disabled = false;
+      stopRecordingButton.disabled = true;
+    };
+    playButton.onclick = () => {
+      if (audioPlayer) {
+        audioPlayer.play();
+        recordStatus.textContent = 'Status: Playing audio.';
+        audioPlayer.onended = () => {
+          recordStatus.textContent = 'Status: Ready';
+        };
+      }
+    };
+  </script>
 
   <!-- Footer -->
   <footer>
