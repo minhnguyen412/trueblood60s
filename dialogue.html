@@ -511,7 +511,7 @@
       };
 
       mediaRecorder.onstop = () => {
-        const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+        const audioBlob = new Blob(audioChunks, { type: 'audio/mp3' });
         const audioURL = URL.createObjectURL(audioBlob);
         // Reset audio chunks for the next recording
         audioChunks = [];
