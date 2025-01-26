@@ -103,13 +103,11 @@
       flex: 1;
       padding: 20px;
       text-align: left;
-      background-image: url('');
-      background-size: cover; /* Phủ kín khung */
-      background-position: center; /* Căn giữa ảnh */
-      background-repeat: no-repeat;
+      width: 90%; /* Chiều rộng 90% của màn hình */
+      max-width: 800px; /* Chiều rộng tối đa là 800px */
       display: flex;
-      
-      
+      align-items: center;
+      justify-content: center;
       margin-bottom: 100px;
     }
 
@@ -139,9 +137,8 @@
     .thumbnail-section {
       margin-top: 30px;
       text-align: left;
-      margin-left: 100px;
-      align-items: center;
-      justify-content: center;
+      
+      
     }
 
     .thumbnail-section h2 {
@@ -279,10 +276,7 @@
     }
 
     /* Thumbnails */
-    .thumbnail-section {
-      
-      margin-left: 20px;
-    }
+    
     .thumbnails {
         flex-direction: column;
         align-items: center;
