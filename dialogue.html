@@ -481,10 +481,9 @@
     let mediaRecorder;
     let audioChunks = [];
     let audioBlob;
-    let audioURL = "";
     let mediaStream;
     let audioContext;
-    let source;
+    let audioBuffer;
 
     async function startRecording() {
       try {
@@ -493,17 +492,27 @@
         mediaRecorder = new MediaRecorder(mediaStream);
         audioChunks = [];
 
-        mediaRecorder.ondataavailable = (event) => audioChunks.push(event.data);
-      
-        mediaRecorder.onstop = () => {
-          if (audioURL) {
-            URL.revokeObjectURL(audioURL); // Xóa URL cũ để tránh lỗi
-          }
-          audioBlob = new Blob(audioChunks, { type: "audio/mp3" });
-          audioURL = URL.createObjectURL(audioBlob);
-          playButton.disabled = false;
+        mediaRecorder.ondataavailable = (event) => {
+          audioChunks.push(event.data);
         };
-
+      
+        mediaRecorder.onstop = async () => {
+          audioBlob = new Blob(audioChunks, { type: "audio/mp3" });
+          // Sử dụng FileReader thay vì URL.createObjectURL() để tương thích với Safari
+          const reader = new FileReader();
+          reader.readAsArrayBuffer(audioBlob);
+          reader.onloadend = async () => {
+            if (!audioContext) {
+              audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            }
+            try {
+              audioBuffer = await audioContext.decodeAudioData(reader.result);
+              playButton.disabled = false; // Cho phép phát lại sau khi ghi âm xong
+            } catch (err) {
+              console.error("Lỗi giải mã âm thanh:", err);
+            }
+          };
+        };
         mediaRecorder.start();
         recordStatus.textContent = "Status: Recording...";
         startRecordingButton.disabled = true;
@@ -516,41 +525,28 @@
     }
 
     function stopRecording() {
-      if (mediaRecorder) {
+      if (mediaRecorder && mediaRecorder.state !== "inactive") {
         mediaRecorder.stop();
         startRecordingButton.disabled = false;
         stopRecordingButton.disabled = true;
 
-        // Giải phóng mediaStream sau khi ghi âm
+        // Dừng và giải phóng stream
         mediaStream.getTracks().forEach(track => track.stop());
-        mediaStream = null;
       }
     }
 
     function playRecording() {
-      if (!audioBlob) return;
+      if (!audioBuffer) return;
 
-      if (!audioContext) {
-        audioContext = new (window.AudioContext || window.webkitAudioContext)();
-      }
+      const source = audioContext.createBufferSource();
+      source.buffer = audioBuffer;
+      source.connect(audioContext.destination);
+      source.start(0);
+      recordStatus.textContent = "Audio playing...";
 
-      audioBlob.arrayBuffer().then((buffer) => {
-        audioContext.decodeAudioData(buffer, (decodedData) => {
-          if (source) {
-            source.disconnect();
-          }
-
-          source = audioContext.createBufferSource();
-          source.buffer = decodedData;
-          source.connect(audioContext.destination);
-          source.start(0);
-          recordStatus.textContent = "Status: Playing audio...";
-
-          source.onended = () => {
-            recordStatus.textContent = "Status: Ready";
-          };
-        });
-      });
+      source.onended = () => {
+        recordStatus.textContent = "Ready";
+      };
     }
 
     startRecordingButton.onclick = startRecording;
