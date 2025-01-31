@@ -480,78 +480,64 @@
 
     let mediaRecorder;
     let audioChunks = [];
-    let audioBlob;
+    let audioPlayer;
     let mediaStream;
-    let audioContext;
-    let audioBuffer;
 
-    async function startRecording() {
-      try {
-        mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
-
-        mediaRecorder = new MediaRecorder(mediaStream);
-        audioChunks = [];
-
-        mediaRecorder.ondataavailable = (event) => {
-          audioChunks.push(event.data);
-        };
-      
-        mediaRecorder.onstop = async () => {
-          audioBlob = new Blob(audioChunks, { type: "audio/webm" });
-          // Sử dụng FileReader thay vì URL.createObjectURL() để tương thích với Safari
-          const reader = new FileReader();
-          reader.readAsArrayBuffer(audioBlob);
-          reader.onloadend = async () => {
-            if (!audioContext) {
-              audioContext = new (window.AudioContext || window.webkitAudioContext)();
-            }
-            try {
-              audioBuffer = await audioContext.decodeAudioData(reader.result);
-              playButton.disabled = false; // Cho phép phát lại sau khi ghi âm xong
-            } catch (err) {
-              console.error("Lỗi giải mã âm thanh:", err);
-            }
-          };
-        };
-        mediaRecorder.start();
-        recordStatus.textContent = "Status: Recording...";
-        startRecordingButton.disabled = true;
-        stopRecordingButton.disabled = false;
-
-      } catch (err) {
-        console.error("Microphone access error:", err);
-        recordStatus.textContent = "Error: Unable to access microphone.";
+    startRecordingButton.onclick = () => {
+      if (!mediaStream) {
+        // Nếu chưa có stream, yêu cầu quyền truy cập vào microphone
+        navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
+          mediaStream = stream; // Lưu trữ stream
+          startRecording(stream); // Bắt đầu ghi âm
+        }).catch(err => {
+          console.error("Error accessing microphone:", err);
+          recordStatus.textContent = 'Error accessing microphone. Please check permissions.';
+        });
+      } else {
+        // Nếu đã có stream, chỉ cần bắt đầu ghi âm
+        startRecording(mediaStream);
       }
-    }
+    };
+    function startRecording(stream) {
+      mediaRecorder = new MediaRecorder(stream);
+      mediaRecorder.start();
+      audioChunks = [];
+      recordStatus.textContent = 'Status: Recording...';
+      startRecordingButton.disabled = true;
+      stopRecordingButton.disabled = false;
 
-    function stopRecording() {
-      if (mediaRecorder && mediaRecorder.state !== "inactive") {
-        mediaRecorder.stop();
-        startRecordingButton.disabled = false;
-        stopRecordingButton.disabled = true;
-
-        // Dừng và giải phóng stream
-        mediaStream.getTracks().forEach(track => track.stop());
-      }
-    }
-
-    function playRecording() {
-      if (!audioBuffer) return;
-
-      const source = audioContext.createBufferSource();
-      source.buffer = audioBuffer;
-      source.connect(audioContext.destination);
-      source.start(0);
-      recordStatus.textContent = "Audio playing...";
-
-      source.onended = () => {
-        recordStatus.textContent = "Ready";
+      mediaRecorder.ondataavailable = event => {
+        audioChunks.push(event.data);
       };
+
+      mediaRecorder.onstop = () => {
+        const audioBlob = new Blob(audioChunks, { type: 'audio/mp3' });
+        const audioURL = URL.createObjectURL(audioBlob);
+        // Reset audio chunks for the next recording
+        
+        recordStatus.textContent = 'Status: Recording stopped.';
+        if (audioPlayer) {
+          audioPlayer.remove();
+        }
+        audioPlayer = new Audio(audioURL);
+        playButton.disabled = false;
+      };              
     }
 
-    startRecordingButton.onclick = startRecording;
-    stopRecordingButton.onclick = stopRecording;
-    playButton.onclick = playRecording;
+    stopRecordingButton.onclick = () => {
+      mediaRecorder.stop();
+      startRecordingButton.disabled = false;
+      stopRecordingButton.disabled = true;
+    };
+    playButton.onclick = () => {
+      if (audioPlayer) {
+        audioPlayer.play();
+        recordStatus.textContent = 'Status: Playing audio.';
+        audioPlayer.onended = () => {
+          recordStatus.textContent = 'Status: Ready';
+        };
+      }
+    };
   </script>
   <!-- Footer -->
   <footer>
