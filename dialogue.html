@@ -497,7 +497,7 @@
         };
       
         mediaRecorder.onstop = async () => {
-          audioBlob = new Blob(audioChunks, { type: "audio/mp3" });
+          audioBlob = new Blob(audioChunks, { type: "audio/webm" });
           // Sử dụng FileReader thay vì URL.createObjectURL() để tương thích với Safari
           const reader = new FileReader();
           reader.readAsArrayBuffer(audioBlob);
