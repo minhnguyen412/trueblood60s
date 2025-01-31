@@ -480,10 +480,13 @@
 
     let mediaRecorder;
     let audioChunks = [];
+    let audioBlob;
     let audioURL = "";
     let mediaStream;
+    let audioContext;
+    let source;
 
-    startRecordingButton.onclick = async () => {
+    async function startRecording() {
       try {
         mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
 
@@ -493,7 +496,10 @@
         mediaRecorder.ondataavailable = (event) => audioChunks.push(event.data);
       
         mediaRecorder.onstop = () => {
-          const audioBlob = new Blob(audioChunks, { type: "audio/mp3" });
+          if (audioURL) {
+            URL.revokeObjectURL(audioURL); // Xóa URL cũ để tránh lỗi
+          }
+          audioBlob = new Blob(audioChunks, { type: "audio/mp3" });
           audioURL = URL.createObjectURL(audioBlob);
           playButton.disabled = false;
         };
@@ -507,9 +513,9 @@
         console.error("Microphone access error:", err);
         recordStatus.textContent = "Error: Unable to access microphone.";
       }
-    };
+    }
 
-    stopRecordingButton.onclick = () => {
+    function stopRecording() {
       if (mediaRecorder) {
         mediaRecorder.stop();
         startRecordingButton.disabled = false;
@@ -519,16 +525,37 @@
         mediaStream.getTracks().forEach(track => track.stop());
         mediaStream = null;
       }
-    };
+    }
 
-    playButton.onclick = () => {
-      if (audioURL) {
-        const audioPlayer = new Audio(audioURL);
-        audioPlayer.play();
-        recordStatus.textContent = "Status: Playing audio...";
-        audioPlayer.onended = () => recordStatus.textContent = "Status: Ready";
+    function playRecording() {
+      if (!audioBlob) return;
+
+      if (!audioContext) {
+        audioContext = new (window.AudioContext || window.webkitAudioContext)();
       }
-    };
+
+      audioBlob.arrayBuffer().then((buffer) => {
+        audioContext.decodeAudioData(buffer, (decodedData) => {
+          if (source) {
+            source.disconnect();
+          }
+
+          source = audioContext.createBufferSource();
+          source.buffer = decodedData;
+          source.connect(audioContext.destination);
+          source.start(0);
+          recordStatus.textContent = "Status: Playing audio...";
+
+          source.onended = () => {
+            recordStatus.textContent = "Status: Ready";
+          };
+        });
+      });
+    }
+
+    startRecordingButton.onclick = startRecording;
+    stopRecordingButton.onclick = stopRecording;
+    playButton.onclick = playRecording;
   </script>
   <!-- Footer -->
   <footer>
