@@ -480,66 +480,56 @@
 
     let mediaRecorder;
     let audioChunks = [];
-    let audioPlayer;
+    let audioURL = "";
     let mediaStream;
 
-    startRecordingButton.onclick = () => {
-      if (!mediaStream) {
-        // Nếu chưa có stream, yêu cầu quyền truy cập vào microphone
-        navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
-          mediaStream = stream; // Lưu trữ stream
-          startRecording(stream); // Bắt đầu ghi âm
-        }).catch(err => {
-          console.error("Error accessing microphone:", err);
-          recordStatus.textContent = 'Error accessing microphone. Please check permissions.';
-        });
-      } else {
-        // Nếu đã có stream, chỉ cần bắt đầu ghi âm
-        startRecording(mediaStream);
+    startRecordingButton.onclick = async () => {
+      try {
+        mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+
+        mediaRecorder = new MediaRecorder(mediaStream);
+        audioChunks = [];
+
+        mediaRecorder.ondataavailable = (event) => audioChunks.push(event.data);
+      
+        mediaRecorder.onstop = () => {
+          const audioBlob = new Blob(audioChunks, { type: "audio/mp3" });
+          audioURL = URL.createObjectURL(audioBlob);
+          playButton.disabled = false;
+        };
+
+        mediaRecorder.start();
+        recordStatus.textContent = "Status: Recording...";
+        startRecordingButton.disabled = true;
+        stopRecordingButton.disabled = false;
+
+      } catch (err) {
+        console.error("Microphone access error:", err);
+        recordStatus.textContent = "Error: Unable to access microphone.";
       }
     };
-    function startRecording(stream) {
-      mediaRecorder = new MediaRecorder(stream);
-      mediaRecorder.start();
-      audioChunks = [];
-      recordStatus.textContent = 'Status: Recording...';
-      startRecordingButton.disabled = true;
-      stopRecordingButton.disabled = false;
-
-      mediaRecorder.ondataavailable = event => {
-        audioChunks.push(event.data);
-      };
-
-      mediaRecorder.onstop = () => {
-        const audioBlob = new Blob(audioChunks, { type: 'audio/mp3' });
-        const audioURL = URL.createObjectURL(audioBlob);
-        // Reset audio chunks for the next recording
-        
-        recordStatus.textContent = 'Status: Recording stopped.';
-        if (audioPlayer) {
-          audioPlayer.remove();
-        }
-        audioPlayer = new Audio(audioURL);
-        playButton.disabled = false;
-      };              
-    }
 
     stopRecordingButton.onclick = () => {
-      mediaRecorder.stop();
-      startRecordingButton.disabled = false;
-      stopRecordingButton.disabled = true;
+      if (mediaRecorder) {
+        mediaRecorder.stop();
+        startRecordingButton.disabled = false;
+        stopRecordingButton.disabled = true;
+
+        // Giải phóng mediaStream sau khi ghi âm
+        mediaStream.getTracks().forEach(track => track.stop());
+        mediaStream = null;
+      }
     };
+
     playButton.onclick = () => {
-      if (audioPlayer) {
+      if (audioURL) {
+        const audioPlayer = new Audio(audioURL);
         audioPlayer.play();
-        recordStatus.textContent = 'Status: Playing audio.';
-        audioPlayer.onended = () => {
-          recordStatus.textContent = 'Status: Ready';
-        };
+        recordStatus.textContent = "Status: Playing audio...";
+        audioPlayer.onended = () => recordStatus.textContent = "Status: Ready";
       }
     };
   </script>
-
   <!-- Footer -->
   <footer>
     <p>Chinese60s</p>
