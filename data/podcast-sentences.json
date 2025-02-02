@@ -50,7 +50,7 @@
     {
         "id": 7, 
         "title": "Right! There's no one that I would rather be doing this podcast with other than you, Kristin Bauer van Straten, you played Pamela Swynford De Beaufort of equally long name on the HBO show True Blood that we'll be talking about.",
-        "segments": ["Right!", " ", "There's no one that I would rather be doing this podcast with other than you", ", ", "Kristin Bauer van Straten, you played Pamela Swynford De Beaufort", " ", "of equally long name", "on the HBO show True Blood that we'll be talking about."],
+        "segments": ["Right!", " ", "There's no one that I would rather be doing this podcast with other than you", ", ", "Kristin Bauer van Straten, you played Pamela Swynford De Beaufort", " ", "of equally long name", " ", "on the HBO show True Blood that we'll be talking about."],
         "highlight": ["There's no one that I would rather be doing this podcast with other than you", "of equally long name"],
         "description": "raɪt! ðɛrz noʊ wʌn ðæt aɪ wʊd ˈræðər bi ˈduɪŋ ðɪs ˈpɔdˌkæst wɪð ˈʌðər ðæn ju, ˈkrɪstɪn ˈbaʊər væn Straten, ju pleɪd ˈpæmələ Swynford di ˈboʊfərt ʌv ˈikwəli lɔŋ neɪm ɑn ði eɪʧ-bi-oʊ ʃoʊ tru blʌd ðæt wil bi ˈtɔkɪŋ əˈbaʊt.", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-7.mp3"
@@ -58,8 +58,8 @@
     {
         "id": 8, 
         "title": "Um Pam was a fan favorite, a personal favorite, uh whenever we got to work together as well, uh and yeah I can't wait to hear the stories that you have from your time on this show.",
-        "segments": ["Um Pam was a fan favorite, a personal favorite, uh whenever we got to work together as well, uh and yeah I can't wait to hear the stories that you have from your time on this show."],
-        "highlight": [],
+        "segments": ["Um Pam was a fan favorite, a personal favorite, uh whenever", " ", "we got to work together as well", " ", "uh and yeah I can't wait to hear the stories that you have", " ", "from your time", " ", "on this show."],
+        "highlight": ["we got to work together as well", "from your time"],
         "description": "ʌm pæm wʌz ə fæn ˈfeɪvərɪt, ə ˈpɜrsɪnɪl ˈfeɪvərɪt, ʌ wɛˈnɛvər wi ɡɑt tu wɜrk təˈɡɛðər æz wɛl, ʌ ænd jæ aɪ kænt weɪt tu hir ðə ˈstɔriz ðæt ju hæv frʌm jʊər taɪm ɑn ðɪs ʃoʊ.", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
     },
@@ -130,15 +130,15 @@
     {
         "id": 17, 
         "title": "um I think you know that'll be a really interesting thing to dive into, it's so interesting, it's really lightning in a bottle looking back at it and I can't wait to talk to everybody involved",
-        "segments": ["um I think you know", " ", "that'll be a really interesting thing", " ", "to dive into", ", ", "it's so interesting, it's really", " ", "lightning in a bottle looking back at it", " ", "and I can't wait to talk to everybody involved"],
+        "segments": ["um I think you know", " ", "that'll be a really interesting thing", " ", "to dive into", ", ", "it's so interesting, it's really", " ", "lightning in a bottle looking back at it", " ", "and I can't wait to talk to everybody involved."],
         "highlight": ["to dive into", "lightning in a bottle looking back at it"],
         "description": "ʌm aɪ θɪŋk ju noʊ ˈðætəl bi ə ˈrɪli ˈɪntrəstɪŋ θɪŋ tu daɪv ˈɪntu, ɪts soʊ ˈɪntrəstɪŋ, ɪts ˈrɪli ˈlaɪtnɪŋ ɪn ə ˈbɑtəl ˈlʊkɪŋ bæk æt ɪt ænd aɪ kænt weɪt tu tɔk tu ˈɛvriˌbɑdi ɪnˈvɑlvd", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
     },
     {
         "id": 18, 
-        "title": "and this week we're going to start off by talking to Charlene Harris who originated all of this",
-        "segments": ["and this week we're going to", " ", "start off", " ", "by talking to Charlene Harris who originated all of this"],
+        "title": "And this week we're going to start off by talking to Charlene Harris who originated all of this",
+        "segments": ["and this week we're going to", " ", "start off", " ", "by talking to Charlene Harris who originated all of this."],
         "highlight": ["start off"],
         "description": "ænd ðɪs wik wir ˈɡoʊɪŋ tu stɑrt ɔf baɪ ˈtɔkɪŋ tu ʃɑrˈlin ˈhɛrɪs hu ɔˈrɪʤəˌneɪtɪd ɔl ʌv ðɪs", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
@@ -146,7 +146,7 @@
     {
         "id": 19, 
         "title": "yeah she wrote the series of books that True Blood is based on and inspired the making of this pilot",
-        "segments": ["yeah she wrote the series of books that True Blood is based on and inspired the making of this pilot"],
+        "segments": ["Yeah she wrote the series of books that True Blood is based on and inspired the making of this pilot."],
         "highlight": [],
         "description": "jæ ʃi roʊt ðə ˈsɪriz ʌv bʊks ðæt tru blʌd ɪz beɪst ɑn ænd ɪnˈspaɪərd ðə ˈmeɪkɪŋ ʌv ðɪs ˈpaɪlət", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
@@ -154,7 +154,7 @@
     {
         "id": 20, 
         "title": "yeah i hope i hope we are, this is our pilot that we hope will hit the ground running",
-        "segments": ["yeah i hope i hope we are,", " ", "this is our pilot that we hope will", " ", "hit the ground running"],
+        "segments": ["Yeah i hope i hope we are,", " ", "this is our pilot that we hope will", " ", "hit the ground running."],
         "highlight": ["hit the ground running"],
         "description": "jæ aɪ hoʊp aɪ hoʊp wi ɑr, ðɪs ɪz ˈaʊər ˈpaɪlət ðæt wi hoʊp wɪl hɪt ðə ɡraʊnd ˈrʌnɪŋ", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
@@ -162,7 +162,7 @@
     {
         "id": 21, 
         "title": "right we're on our feet trying to find out how to make a head show",
-        "segments": ["right", " ", "we're on our feet", " ", "trying to find out how to make a head show"],
+        "segments": ["Right", " ", "we're on our feet", " ", "trying to find out how to make a head show."],
         "highlight": ["we're on our feet"],
         "description": "raɪt wir ɑn ˈaʊər fit ˈtraɪɪŋ tu faɪnd aʊt haʊ tu meɪk ə hɛd ʃoʊ", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
@@ -170,7 +170,7 @@
     {
         "id": 22, 
         "title": "Well let's kick things off by starting to talk about episode 101 of True Blood entitled Strange Love and written and directed by Alan Ball",
-        "segments": ["Well let's", " ", "kick things off", " ", "tby starting to talk about episode 101 of True Blood entitled Strange Love and written and directed by Alan Ball"],
+        "segments": ["Well let's", " ", "kick things off", " ", "by starting to talk about episode 101 of True Blood entitled Strange Love and written and directed by Alan Ball."],
         "highlight": ["kick things off"],
         "description": "wɛl lɛts kɪk θɪŋz ɔf baɪ ˈstɑrtɪŋ tu tɔk əˈbaʊt ˈɛpəˌsoʊd 101 ʌv tru blʌd ɛnˈtaɪtəld streɪnʤ lʌv ænd ˈrɪtən ænd dəˈrɛktɪd baɪ ˈælən bɔl", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
@@ -178,7 +178,7 @@
     {
         "id": 23, 
         "title": "He's our fearless leader",
-        "segments": ["He's our fearless leader"],
+        "segments": ["He's our fearless leader."],
         "highlight": [],
         "description": "hiz ˈaʊər ˈfɪrləs ˈlidər", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
