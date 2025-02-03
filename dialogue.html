@@ -359,7 +359,7 @@
         
       </div>
       
-      <script src="js/quiz.js"></script>
+      <script src="js/dialogue-quiz.js"></script>
       <script>
         document.addEventListener('DOMContentLoaded', () => {
           const urlParams = new URLSearchParams(window.location.search);
@@ -381,7 +381,7 @@
 
   <script>
     const maxVideosToShow = 5;
-    fetch('data/thumbnail.json')
+    fetch('data/thumb-dialogue.json')
       .then(response => response.json())
       .then(videos => {
         videos.sort((a, b) => b.id - a.id);
@@ -541,8 +541,8 @@
   </script>
   <!-- Footer -->
   <footer>
-    <p>Chinese60s</p>
-    <p>Learn Mandarin through images and videos</p>
+    <p>Script60s</p>
+    <p>Learn English through images and videos</p>
     <div class="social-icons">
       <a href="#">Facebook</a>
       <a href="#">YouTube</a>
