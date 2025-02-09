@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Fetch dữ liệu từ file JSON
-    fetch("../data/thumb-writing.json")
+    fetch("../data/thumb-writing-2.json")
         .then((response) => {
             if (!response.ok) {
                 throw new Error("Failed to fetch video data.");
