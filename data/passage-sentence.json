@@ -115,7 +115,7 @@
         "id": 15, 
         "title": "In this way, pupils could progress in their acquisition of knowledge at their own pace using computers instead of learning from teachers.",
         "segments": ["In this way,", " ", "pupils", " ", "could progress", " ", "in their", " ", "acquisition", " ", "of knowledge", " ", "at their own pace", " ", "using computers instead of learning from teachers."],
-        "highlight": ["In this way,", "pupils", "could progress", "acquisition", "of knowledge", "at their own pace",],
+        "highlight": ["In this way,", "pupils", "could progress", "acquisition", "of knowledge", "at their own pace"],
         "description": "ɪn ðɪs weɪ, ˈpjupəlz kʊd ˈprɑˌɡrɛs ɪn ðɛr ˌækwəˈzɪʃən ʌv ˈnɑləʤ æt ðɛr oʊn peɪs ˈjuzɪŋ kəmˈpjutərz ɪnˈstɛd ʌv ˈlɜrnɪŋ frʌm ˈtiʧərz.", 
         "audioSrc": ""
     },
@@ -147,7 +147,7 @@
         "id": 19, 
         "title": "Moreover, teachers are required in the learning process because they acknowledge some student's deficiencies and help them to solve their problems by repeating the same explanation, giving extra exercises or even suggesting a private tutor.",
         "segments": ["Moreover,", " ", "teachers", " ", "are required in", " ", "the learning process", " ", "because", " ", "they acknowledge", " ", "some student's", " ", "deficiencies", " ", "and help them", " ", "to solve their problems", " ", "by", " ", "repeating the same explanation,", " ", "giving extra exercises", " ", "or even", " ", "suggesting a private tutor", "."],
-        "highlight": ["Moreover,", "are required in", "the learning process", "deficiencies", "repeating the same explanation, "suggesting a private tutor"],
+        "highlight": ["Moreover,", "are required in", "the learning process", "deficiencies", "repeating the same explanation", "suggesting a private tutor"],
         "description": "mɔˈroʊvər, ˈtiʧərz ɑr riˈkwaɪərd ɪn ðə ˈlɜrnɪŋ ˈprɑˌsɛs bɪˈkɔz ðeɪ ækˈnɑlɪʤ sʌm ˈstudənts dɪˈfɪʃənsiz ænd hɛlp ðɛm tu sɑlv ðɛr ˈprɑbləmz baɪ rɪˈpitɪŋ ðə seɪm ˌɛkspləˈneɪʃən, ˈɡɪvɪŋ ˈɛkstrə ˈɛksərˌsaɪzəz ɔr ˈivɪn səɡˈʤɛstɪŋ ə ˈpraɪvət ˈtutər.<br> (Linking adverb) + S + be + V (Passive voice) + (because + S + V + and + V) + (by + V-ing, V-ing, or even V-ing)", 
         "audioSrc": ""
     },
