@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Load file JSON và xử lý
     const filesToFetch = [
-        '../data/ielts-quiz.json'
+        '../data/W-quiz-1.json'
         
     ];
     Promise.all(filesToFetch.map(url => fetch(url).then(res => res.json())))
