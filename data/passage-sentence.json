@@ -62,5 +62,29 @@
         "highlight": ["Almost", "compared to"],
         "description": "ˈɔlˌmoʊst 100% ʌv kəˈneɪdiənz juzd ði ˈɪntərˌnɛt, kəmˈpɛrd tu əˈbaʊt 80% ʌv əˈmɛrəkənz ænd ˈoʊnli 40% ʌv ˈmɛksɪkənz.<br>→ The final comparison is made for 2009.", 
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/1-8.mp3"
-    }
+    },
+    {
+        "id": 9, 
+        "title": "There have been immense advances in technology in most aspects of people's lives, especially in the field of education.",
+        "segments": ["There have been", " ", "immense advances in technology", " ", "in most aspects of people's lives, especially in the field of education."],
+        "highlight": ["immense advances in technology"],
+        "description": "ðɛr hæv bɪn ɪˈmɛns ədˈvænsəz ɪn tɛkˈnɑləʤi ɪn moʊst ˈæˌspɛkts ʌv ˈpipəlz lɪvz, əˈspɛʃli ɪn ðə fild ʌv ˌɛʤəˈkeɪʃən.<br>There have been...in...,especially in...", 
+        "audioSrc": ""
+    },
+    {
+        "id": 10, 
+        "title": "Nowadays, an increasing number of students rely on computers to research for information and to produce a perfect paper for school purposes.",
+        "segments": ["Nowadays,", " ", "an increasing number of students", " ", "rely on", " ", "computers", " ", "to research for information", " ", "and", " ", "to produce a perfect paper", " ", "for school purposes", "."],
+        "highlight": ["an increasing number of students", "rely on", "to research for information", "to produce a perfect paper", "for school purposes"],
+        "description": "ˈnaʊəˌdeɪz, ən ɪnˈkrisɪŋ ˈnʌmbər ʌv ˈstudənts rɪˈlaɪ ɑn kəmˈpjutərz tu riˈsɜrʧ fɔr ˌɪnfərˈmeɪʃən ænd tu prəˈdus ə ˈpɜrˌfɪkt ˈpeɪpər fɔr skul ˈpɜrpəsəz.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 11, 
+        "title": "Others have decided to leave the original way of learning to get knowledge through online schools.",
+        "segments": ["Nowadays,", " ", "an increasing number of students", " ", "rely on", " ", "computers", " ", "to research for information", " ", "and", " ", "to produce a perfect paper", " ", "for school purposes", "."],
+        "highlight": ["an increasing number of students", "rely on", "to research for information", "to produce a perfect paper", "for school purposes"],
+        "description": "ˈnaʊəˌdeɪz, ən ɪnˈkrisɪŋ ˈnʌmbər ʌv ˈstudənts rɪˈlaɪ ɑn kəmˈpjutərz tu riˈsɜrʧ fɔr ˌɪnfərˈmeɪʃən ænd tu prəˈdus ə ˈpɜrˌfɪkt ˈpeɪpər fɔr skul ˈpɜrpəsəz.", 
+        "audioSrc": ""
+    },
 ]
