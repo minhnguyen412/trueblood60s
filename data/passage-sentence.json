@@ -67,7 +67,7 @@
         "id": 9, 
         "title": "There have been immense advances in technology in most aspects of people's lives, especially in the field of education.",
         "segments": ["There have been", " ", "immense advances in technology", " ", "in most aspects of people's lives, especially in the field of education."],
-        "highlight": ["immense advances in technology"],
+        "highlight": ["There have been", "immense advances in technology"],
         "description": "ðɛr hæv bɪn ɪˈmɛns ədˈvænsəz ɪn tɛkˈnɑləʤi ɪn moʊst ˈæˌspɛkts ʌv ˈpipəlz lɪvz, əˈspɛʃli ɪn ðə fild ʌv ˌɛʤəˈkeɪʃən.<br>There have been...in...,especially in...", 
         "audioSrc": ""
     },
@@ -75,16 +75,96 @@
         "id": 10, 
         "title": "Nowadays, an increasing number of students rely on computers to research for information and to produce a perfect paper for school purposes.",
         "segments": ["Nowadays,", " ", "an increasing number of students", " ", "rely on", " ", "computers", " ", "to research for information", " ", "and", " ", "to produce a perfect paper", " ", "for school purposes", "."],
-        "highlight": ["an increasing number of students", "rely on", "to research for information", "to produce a perfect paper", "for school purposes"],
+        "highlight": ["Nowadays,", "an increasing number of students", "rely on", "to research for information", "to produce a perfect paper", "for school purposes"],
         "description": "ˈnaʊəˌdeɪz, ən ɪnˈkrisɪŋ ˈnʌmbər ʌv ˈstudənts rɪˈlaɪ ɑn kəmˈpjutərz tu riˈsɜrʧ fɔr ˌɪnfərˈmeɪʃən ænd tu prəˈdus ə ˈpɜrˌfɪkt ˈpeɪpər fɔr skul ˈpɜrpəsəz.", 
         "audioSrc": ""
     },
     {
         "id": 11, 
         "title": "Others have decided to leave the original way of learning to get knowledge through online schools.",
-        "segments": ["Nowadays,", " ", "an increasing number of students", " ", "rely on", " ", "computers", " ", "to research for information", " ", "and", " ", "to produce a perfect paper", " ", "for school purposes", "."],
-        "highlight": ["an increasing number of students", "rely on", "to research for information", "to produce a perfect paper", "for school purposes"],
-        "description": "ˈnaʊəˌdeɪz, ən ɪnˈkrisɪŋ ˈnʌmbər ʌv ˈstudənts rɪˈlaɪ ɑn kəmˈpjutərz tu riˈsɜrʧ fɔr ˌɪnfərˈmeɪʃən ænd tu prəˈdus ə ˈpɜrˌfɪkt ˈpeɪpər fɔr skul ˈpɜrpəsəz.", 
+        "segments": ["Others have decided", " ", "to leave the original way of learning", " ", "to get knowledge", " ", "through online schools."],
+        "highlight": ["to get knowledge"],
+        "description": "ˈʌðərz hæv ˌdɪˈsaɪdɪd tu liv ði əˈrɪʤənəl weɪ ʌv ˈlɜrnɪŋ tu ɡɛt ˈnɑləʤ θru ˈɔnˌlaɪn skulz.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 12, 
+        "title": "These changes in the learning process have brought a special concern regarding the possible decrease of importance of teachers in the classroom.",
+        "segments": ["These changes in the learning process", " ", "have brought", " ", "a special concern", " ", "regarding", " ", "the possible decrease of importance", " ", "of teachers in the classroom."],
+        "highlight": ["These changes in the learning process", "have brought", "the possible decrease of importance"],
+        "description": "ðiz ˈʧeɪnʤəz ɪn ðə ˈlɜrnɪŋ ˈprɑˌsɛs hæv brɔt ə ˈspɛʃəl kənˈsɜrn rəˈɡɑrdɪŋ ðə ˈpɑsəbəl ˈdiˌkris ʌv ɪmˈpɔrtəns ʌv ˈtiʧərz ɪn ðə ˈklæsˌrum.<br> Subject + Verb + Direct Object + Prepositional Phrase (regarding + Noun Phrase)", 
+        "audioSrc": ""
+    },
+    {
+        "id": 13, 
+        "title": "Some people believe the role of teachers started to fade because computers have been helping some students to progress in their studies quicker than when compared with an original classroom.",
+        "segments": ["Some people", " ", "believe", " ", "the role of teachers", " ", "started to fade", " ", "because", " ", "computers have been helping some students", " ", "to progress", " ", "in their studies quicker", " ", "than when compared with", " ", "an original classroom."],
+        "highlight": ["started to fade", "to progress", "than when compared with"],
+        "description": "sʌm ˈpipəl bɪˈliv ðə roʊl ʌv ˈtiʧərz ˈstɑrtɪd tu feɪd bɪˈkɔz kəmˈpjutərz hæv bɪn ˈhɛlpɪŋ sʌm ˈstudənts tu prəˈɡrɛs ɪn ðɛr ˈstʌdiz ˈkwɪkər ðæn wɛn kəmˈpɛrd wɪð ən əˈrɪʤənəl ˈklæsˌrum.<br> S + V + that + S + V + (because + S + V)", 
+        "audioSrc": ""
+    },
+    {
+        "id": 14, 
+        "title": "For example, in the same classroom, students have different intellectual capacities, thus some would be tied to a slow advance in their studies because of other's incapacity of understanding.",
+        "segments": ["For example,", " ", "in the same classroom,", " ", "students have different", " ", "intellectual", " ", "capacities", ",", " ", "thus", " ", "some", " ", "would be tied to", " ", "a slow advance in their studies", " ", "because of", " ", "other's", " ", "incapacity", " ", "of understanding."],
+        "highlight": ["For example,", "intellectual", "capacities", "thus", "would be tied to", "a slow advance in their studies", "incapacity"],
+        "description": "fɔr ɪɡˈzæmpəl, ɪn ðə seɪm ˈklæsˌrum, ˈstudənts hæv ˈdɪfərənt ˌɪntəˈlɛkʧuəl kəˈpæsətiz, ðʌs sʌm wʊd bi taɪd tu ə sloʊ ədˈvæns ɪn ðɛr ˈstʌdiz bɪˈkɔz ʌv ˈʌðərz ɪnkəˈpæsəti ʌv ˌʌndərˈstændɪŋ.<br> (Linking phrase) + (Prepositional Phrase) + S + V + (Linking adverb + S + V) + (Prepositional Phrase of Reason)", 
+        "audioSrc": ""
+    },
+    {
+        "id": 15, 
+        "title": "In this way, pupils could progress in their acquisition of knowledge at their own pace using computers instead of learning from teachers.",
+        "segments": ["In this way,", " ", "pupils", " ", "could progress", " ", "in their", " ", "acquisition", " ", "of knowledge", " ", "at their own pace", " ", "using computers instead of learning from teachers."],
+        "highlight": ["In this way,", "pupils", "could progress", "acquisition", "of knowledge", "at their own pace",],
+        "description": "ɪn ðɪs weɪ, ˈpjupəlz kʊd ˈprɑˌɡrɛs ɪn ðɛr ˌækwəˈzɪʃən ʌv ˈnɑləʤ æt ðɛr oʊn peɪs ˈjuzɪŋ kəmˈpjutərz ɪnˈstɛd ʌv ˈlɜrnɪŋ frʌm ˈtiʧərz.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 16, 
+        "title": "However, the presence of a teacher is essential for students because the human contact influences them in positive ways.",
+        "segments": ["However,", " ", "the presence of a teacher", " ", "is", " ", "essential", " ", "for students", " ", "because", " ", "the human contact", " ", "influences", " ", "them", " ", "in positive ways", "."],
+        "highlight": ["However,", "the presence of a teacher", "is", "essential", "the human contact", "influences", "in positive ways"],
+        "description": "ˌhaʊˈɛvər, ðə ˈprɛzəns ʌv ə ˈtiʧər ɪz ɪˈsɛnʃəl fɔr ˈstudənts bɪˈkɔz ðə ˈhjumən ˈkɑnˌtækt ˈɪnˌfluənsɪz ðɛm ɪn ˈpɑzətɪv weɪz.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 17, 
+        "title": "Firstly, students realize that they are not dealing with a machine but with a human being who deserves attention and respect.",
+        "segments": ["Firstly,", " ", "students", " ", "realize", " ", "that", " ", "they", " ", "are not dealing with", " ", "a machine", " ", "but", " ", "with a human being", " ", "who", " ", "deserves", " ", "attention and respect."],
+        "highlight": ["Firstly,", "are not dealing with", "but", "who", "deserves"],
+        "description": "ˈfɜrstli, ˈstudənts ˈriəˌlaɪz ðæt ðeɪ ɑr nɑt ˈdilɪŋ wɪð ə məˈʃin bʌt wɪð ə ˈhjumən ˈbiɪŋ hu dɪˈzɜrvz əˈtɛnʃən ænd rɪˈspɛkt.<br> (Linking adverb) + S + V + that + S + V + (but with + Noun) + (who + V + Object)", 
+        "audioSrc": ""
+    },
+    {
+        "id": 18, 
+        "title": "They also learn the importance of studying in group and respect other students, which helps them to improve their social skills.",
+        "segments": ["They also learn", " ", "the importance of", " ", "studying in group", " ", "and", " ", "respect other students", ",", " ", "which", " ", "helps them", " ", "to improve their social skills", "."],
+        "highlight": [",", "which", "to improve their social skills"],
+        "description": "ðeɪ ˈɔlsoʊ lɜrn ði ɪmˈpɔrtəns ʌv ˈstʌdiɪŋ ɪn ɡrup ænd rɪˈspɛkt ˈʌðər ˈstudənts, wɪʧ hɛlps ðɛm tu ɪmˈpruv ðɛr ˈsoʊʃəl skɪlz.<br> S + V + (Complex Noun Phrase) + which + V + Object", 
+        "audioSrc": ""
+    },
+    {
+        "id": 19, 
+        "title": "Moreover, teachers are required in the learning process because they acknowledge some student's deficiencies and help them to solve their problems by repeating the same explanation, giving extra exercises or even suggesting a private tutor.",
+        "segments": ["Moreover,", " ", "teachers", " ", "are required in", " ", "the learning process", " ", "because", " ", "they acknowledge", " ", "some student's", " ", "deficiencies", " ", "and help them", " ", "to solve their problems", " ", "by", " ", "repeating the same explanation,", " ", "giving extra exercises", " ", "or even", " ", "suggesting a private tutor", "."],
+        "highlight": ["Moreover,", "are required in", "the learning process", "deficiencies", "repeating the same explanation, "suggesting a private tutor"],
+        "description": "mɔˈroʊvər, ˈtiʧərz ɑr riˈkwaɪərd ɪn ðə ˈlɜrnɪŋ ˈprɑˌsɛs bɪˈkɔz ðeɪ ækˈnɑlɪʤ sʌm ˈstudənts dɪˈfɪʃənsiz ænd hɛlp ðɛm tu sɑlv ðɛr ˈprɑbləmz baɪ rɪˈpitɪŋ ðə seɪm ˌɛkspləˈneɪʃən, ˈɡɪvɪŋ ˈɛkstrə ˈɛksərˌsaɪzəz ɔr ˈivɪn səɡˈʤɛstɪŋ ə ˈpraɪvət ˈtutər.<br> (Linking adverb) + S + be + V (Passive voice) + (because + S + V + and + V) + (by + V-ing, V-ing, or even V-ing)", 
+        "audioSrc": ""
+    },
+    {
+        "id": 20, 
+        "title": "Hence, students can have a bigger chance not to fail in a subject.",
+        "segments": ["Hence,", " ", "students can have a bigger chance", " ", "not to fail", " ", "in a subject."],
+        "highlight": ["Hence,", "not to fail"],
+        "description": "hɛns, ˈstudənts kæn hæv ə ˈbɪɡər ʧæns nɑt tu feɪl ɪn ə ˈsʌbʤɪkt.<br> (Linking adverb) + S + Modal Verb + V + (Infinitive Phrase)", 
+        "audioSrc": ""
+    },
+    {
+        "id": 21, 
+        "title": "In conclusion, the role for teachers in the learning process is still very important and it will continue to be in the future because no machine can replace the human interaction and its consequences.",
+        "segments": ["n conclusion,", " ", "the role for teachers in the learning process", " ", "is still very important", " ", "and it will continue to be in the future", " ", "because", " ", "no machine can replace", " ", "the human interaction and its consequences", "."],
+        "highlight": ["n conclusion,", "the role for teachers in the learning process", "and it will continue to be in the future", "the human interaction and its consequences"],
+        "description": "ɪn kənˈkluʒən, ðə roʊl fɔr ˈtiʧərz ɪn ðə ˈlɜrnɪŋ ˈprɑˌsɛs ɪz stɪl ˈvɛri ɪmˈpɔrtənt ænd ɪt wɪl kənˈtɪnju tu bi ɪn ðə ˈfjuʧər bɪˈkɔz noʊ məˈʃin kæn ˌriˈpleɪs ðə ˈhjumən ˌɪntəˈrækʃən ænd ɪts ˈkɑnsəˌkwɛnsəz.<br> (Introductory Phrase) + S + V + (and + S + V) + (because + S + V)", 
         "audioSrc": ""
     },
 ]
