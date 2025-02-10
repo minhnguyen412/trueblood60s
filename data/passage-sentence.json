@@ -91,7 +91,7 @@
         "id": 12, 
         "title": "These changes in the learning process have brought a special concern regarding the possible decrease of importance of teachers in the classroom.",
         "segments": ["These changes in the learning process", " ", "have brought", " ", "a special concern", " ", "regarding", " ", "the possible decrease of importance", " ", "of teachers in the classroom."],
-        "highlight": ["These changes in the learning process", "have brought", "the possible decrease of importance"],
+        "highlight": ["These changes in the learning process", "have brought", "a special concern", "regarding", "the possible decrease of importance"],
         "description": "ðiz ˈʧeɪnʤəz ɪn ðə ˈlɜrnɪŋ ˈprɑˌsɛs hæv brɔt ə ˈspɛʃəl kənˈsɜrn rəˈɡɑrdɪŋ ðə ˈpɑsəbəl ˈdiˌkris ʌv ɪmˈpɔrtəns ʌv ˈtiʧərz ɪn ðə ˈklæsˌrum.<br> Subject + Verb + Direct Object + Prepositional Phrase (regarding + Noun Phrase)", 
         "audioSrc": ""
     },
