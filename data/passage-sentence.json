@@ -162,8 +162,8 @@
     {
         "id": 21, 
         "title": "In conclusion, the role for teachers in the learning process is still very important and it will continue to be in the future because no machine can replace the human interaction and its consequences.",
-        "segments": ["n conclusion,", " ", "the role for teachers in the learning process", " ", "is still very important", " ", "and it will continue to be in the future", " ", "because", " ", "no machine can replace", " ", "the human interaction and its consequences", "."],
-        "highlight": ["n conclusion,", "the role for teachers in the learning process", "and it will continue to be in the future", "the human interaction and its consequences"],
+        "segments": ["In conclusion,", " ", "the role for teachers in the learning process", " ", "is still very important", " ", "and it will continue to be in the future", " ", "because", " ", "no machine can replace", " ", "the human interaction and its consequences", "."],
+        "highlight": ["In conclusion,", "the role for teachers in the learning process", "and it will continue to be in the future", "the human interaction and its consequences"],
         "description": "ɪn kənˈkluʒən, ðə roʊl fɔr ˈtiʧərz ɪn ðə ˈlɜrnɪŋ ˈprɑˌsɛs ɪz stɪl ˈvɛri ɪmˈpɔrtənt ænd ɪt wɪl kənˈtɪnju tu bi ɪn ðə ˈfjuʧər bɪˈkɔz noʊ məˈʃin kæn ˌriˈpleɪs ðə ˈhjumən ˌɪntəˈrækʃən ænd ɪts ˈkɑnsəˌkwɛnsəz.<br> (Introductory Phrase) + S + V + (and + S + V) + (because + S + V)", 
         "audioSrc": ""
     }
