@@ -1,16 +1,24 @@
 [
     {
         "id": 1,
-        "title": "Internet Users as percentage of population",
-        "imageSrc": "https://storage.googleapis.com/script60s/SOUND/TASK-1/BAI-1/task-1-1.png",
+        "title": "Warm-up",
+        "imageSrc": "",
         "content": [
-            "The line graph compares the percentage of people in three countries who used the Internet between 1999 and 2009.",
-            "It is clear that the proportion of the population who used the Internet increased in each country over the period shown. Overall, a much larger percentage of Canadians and Americans had access to the Internet in comparison with Mexicans, and Canada experienced the fastest growth in Internet usage.",
-            "In 1999, the proportion of people using the Internet in the USA was about 20%. The figures for Canada and Mexico were lower, at about 10% and 5% respectively. In 2005, Internet usage in both the USA and Canada rose to around 70% of the population, while the figure for Mexico reached just over 25%.",
-            "By 2009, the percentage of Internet users was highest in Canada. Almost 100% of Canadians used the Internet, compared to about 80% of Americans and only 40% of Mexicans.",
-            "***Notes***",
-            "FIGURES: The percentage of people who used the Internet; The proportion of population who used the Internet; The proportion of people using the Internet; Internet usage; The percentage of Internet users ---> VERBS: increased, was, were, rose to, reached",
-            "GROUPS: Canadians; Americans; Mexicans; Canada ---> VERBS: had access to, experienced, used"
+            "1. Can you tell me your name?",
+            "My name is ... , which means ... . ... chose it because ... .",
+            "Ex: My name is Minh, which means 'bright' or 'intelligent' in Vietnamese. My parents chose it because they wanted me to be thoughtful and knowledgeable.",
+            "2. Where do you come from?",
+            "I'm from ... , a country known for ... . ... is something I really love.",
+            "Ex: I'm from Vietnam, a country known for its rich history and vibrant food culture. The diversity in regional cuisine is something I really love.",
+            "3. Tell me about your family"
+            "I come from a ... family. We always ... each other, and I enjoy ... with them, especially ... ."
+            "Ex: I come from a close-knit family. We always support each other, and I enjoy spending time with them, especially during meals."
+            "4. Tell me about your parents"
+            "My parents are ... . They've always ... me to ..., which I really appreciate."
+            "Ex: My parents are kind and hardworking. They've always encouraged me to pursue my passions, which I really appreciate."
+            "5. Tell me about your siblings"
+            "I have ..., and we get along really well. ... is/are supportive and always ... me ... ."
+            "Ex: I have an older sister, and we get along really well. She is supportive and always gives me great advice."
         ]
     },
     {
