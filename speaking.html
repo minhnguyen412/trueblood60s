@@ -328,11 +328,11 @@
       <h1 id="video-title"></h1>
       <h3 id="video-description"></h3>
       <iframe id="video-iframe" src="" title="YouTube video player" allowfullscreen></iframe>
-      <script src="js/fetch-podcast.js"></script>
+      <script src="js/fetch-speaking.js"></script>
       <div class="pcontainer">
         <ul class="content-list" id="itemList"></ul>
       </div>
-      <script src="js/podcast.js"></script>
+      <script src="js/speaking.js"></script>
       <script>
         document.addEventListener('DOMContentLoaded', () => {
             const urlParams = new URLSearchParams(window.location.search);
@@ -380,7 +380,7 @@
 
   <script>
     const maxVideosToShow = 5;
-    fetch('data/thumb-podcast.json')
+    fetch('data/thumb-speaking.json')
       .then(response => response.json())
       .then(videos => {
         videos.sort((a, b) => b.id - a.id);
