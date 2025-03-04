@@ -13,7 +13,7 @@
         "description": "Podcast",
         "thumbnail": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734941423/hyjc-1-2_lkcjmf.png",
         "videoLink": "https://www.youtube.com/embed/nRv3laE9uuU?si=7qQS-aE0emluhney",
-        "htmlLink": "speaking.html?postStartId=1&postEndId=23&quizStartId=1&quizEndId=26&id=1&id2=2"
+        "htmlLink": "dialogue.html?postStartId=22&postEndId=44&quizStartId=1&quizEndId=26&id=2"
     },
     {
         "id": 3,
