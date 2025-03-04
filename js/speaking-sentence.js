@@ -62,7 +62,7 @@ function loadPosts(startpId, endpId, listId) {
 
     // Danh sách các file JSON cần tải
     const filesToFetch = [
-        '../data/s-words.json',
+        '../data/p-words.json',
         '../data/speaking-sentence.json'
         
     ];
@@ -76,7 +76,7 @@ function loadPosts(startpId, endpId, listId) {
     })))
     .then(allData => {
         // Gộp dữ liệu từ các file cùng loại
-        const imagesData = allData.filter((_, index) => filesToFetch[index].includes('s-words')).flat();
+        const imagesData = allData.filter((_, index) => filesToFetch[index].includes('p-words')).flat();
         const sentenceData = allData.filter((_, index) => filesToFetch[index].includes('speaking-sentence')).flat();
 
         console.log('Images Data:', imagesData);
