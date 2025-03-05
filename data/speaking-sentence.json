@@ -3,8 +3,8 @@
         "id": 1,
         "user": "1. Can you tell me your name?",
         "title": "My name is ... , which means ... . ... chose it because ... .",
-        "segments": ["My name is", " ", "[ 1 ]", " , ", "which means", " ", "[ 2 ]", " .", " ", "[ 3 ]", " chose it because", " ", "[ 4 ]", " ."],
-        "highlight": ["[ 1 ]", "[ 2 ]", "[ 3 ]", "[ 4 ]"],
+        "segments": ["My name is", " ", "Name", " , ", "which means", " ", "Name Meaning", " .", " ", "Named by", " chose it because", " ", "Reason for the Name", " ."],
+        "highlight": ["Name", "Name Meaning", "Named by", "Reason for the Name"],
         "description": "maɪ neɪm ɪz ... , wɪʧ minz ... . ... ʧoʊz ɪt bɪˈkɔz ... .", 
         "audioSrc": ""
     },
