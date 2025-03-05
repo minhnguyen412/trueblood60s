@@ -3,7 +3,7 @@
         "id": 1,
         "user": "1. Can you tell me your name?",
         "title": "My name is ... , which means ... . ... chose it because ... .",
-        "segments": ["My name is", " ", "[ 1 ]", ", ", "which means", " ", "[ 2 ]", ".", " ", "[ 3 ]", "chose it because", " ", "[ 4 ]", "."],
+        "segments": ["My name is", " ", "[ 1 ]", " , ", "which means", " ", "[ 2 ]", " .", " ", "[ 3 ]", " chose it because", " ", "[ 4 ]", " ."],
         "highlight": ["[ 1 ]", "[ 2 ]", "[ 3 ]", "[ 4 ]"],
         "description": "maɪ neɪm ɪz ... , wɪʧ minz ... . ... ʧoʊz ɪt bɪˈkɔz ... .", 
         "audioSrc": ""
@@ -12,7 +12,7 @@
         "id": 2, 
         "user": "2. Where do you come from?",
         "title": "I'm from ... , a country known for ... . ... is something I really love.",
-        "segments": ["I'm from", " ", "[ 5 ]", ", ", "a country known for", " ", "[ 6 ]", ".", " ", "[ 7 ]", "is something I really love."],
+        "segments": ["I'm from", " ", "[ 5 ]", " , ", "a country known for", " ", "[ 6 ]", " .", " ", "[ 7 ]", " is something I really love."],
         "highlight": ["[ 5 ]", "[ 6 ]", "[ 7 ]"],
         "description": "aɪm frʌm ... , ə ˈkʌntri noʊn fɔr ... . ... ɪz ˈsʌmθɪŋ aɪ ˈrɪli lʌv.", 
         "audioSrc": ""
@@ -21,7 +21,7 @@
         "id": 3,
         "user": "3. Tell me about your family",
         "title": "I come from a ... family. We always ... each other, and I enjoy ... with them, especially ... .",
-        "segments": ["I come from a", "[ 8 ]", "family.", " ", "We always", "[ 9 ]", "each other, and I enjoy", "[ 10 ]", "with them, especially", "[ 11 ]", "."],
+        "segments": ["I come from a ", "[ 8 ]", " family.", " ", "We always ", "[ 9 ]", " each other, and I enjoy ", "[ 10 ]", " with them, especially ", "[ 11 ]", " ."],
         "highlight": ["[ 8 ]", "[ 9 ]", "[ 10 ]", "[ 11 ]"],
         "description": "aɪ kʌm frʌm eɪ ... ˈfæməli. wi ˈɔlˌweɪz ... iʧ ˈʌðər, ænd aɪ ɛnˈʤɔɪ ... wɪð ðɛm, əˈspɛʃli ... .", 
         "audioSrc": ""
@@ -30,7 +30,7 @@
         "id": 4,
         "user": "4. Tell me about your parents",
         "title": "My parents are ... . They've always ... me to ..., which I really appreciate.",
-        "segments": ["My parents are", "[ 12 ]", ". ", "They've always", "[ 13 ]", "me to", "[ 14 ]", ", ", "which I really appreciate."],
+        "segments": ["My parents are ", "[ 12 ]", " . ", "They've always ", "[ 13 ]", " me to ", "[ 14 ]", " , ", "which I really appreciate."],
         "highlight": ["[ 12 ]", "[ 13 ]", "[ 14 ]"],
         "description": "maɪ ˈpɛrənts ɑr ... . ðeɪv ˈɔlˌweɪz ... mi tu ..., wɪʧ aɪ ˈrɪli əˈpriʃiˌeɪt.", 
         "audioSrc": ""
@@ -39,7 +39,7 @@
         "id": 5,
         "user": "5. Tell me about your siblings",
         "title": "I have ..., and we ... . ... is/are supportive and always ... me ... .",
-        "segments": ["I have", "[ 15 ]", ", ", "and we", "[ 16 ]", ". ", "[ 17 ]", "is/are supportive and always", "[ 18 ]", "me", "[ 19 ]", "."],
+        "segments": ["I have ", "[ 15 ]", " , ", "and we ", "[ 16 ]", " . ", "[ 17 ]", " is/are supportive and always ", "[ 18 ]", " me ", "[ 19 ]", " ."],
         "highlight": ["[ 15 ]", "[ 16 ]", "[ 17 ]", "[ 18 ]", "[ 19 ]"],
         "description": "aɪ hæv ..., ænd wi ... . ... ɪz/ɑr səˈpɔrtɪv ænd ˈɔlˌweɪz ... mi ... .", 
         "audioSrc": ""
