@@ -39,7 +39,7 @@
         "id": 5,
         "user": "5. Tell me about your siblings",
         "title": "I have ..., and we ... . ... is/are supportive and always ... me ... .",
-        "segments": ["I have ", "[ 15 ]", " , ", "and we ", "[ 16 ]", " . ", "[ 17 ]", " is/are supportive and always ", "[ 18 ]", " me ", "[ 19 ]", " ."],
+        "segments": ["I have ", "[ 15 ]", " , ", "and we ", "[ 16 ]", " . ", "[ 17 ]", " is/are supportive and always ", "[ 18 ]", " me ", "[ 19 ]", "."],
         "highlight": ["[ 15 ]", "[ 16 ]", "[ 17 ]", "[ 18 ]", "[ 19 ]"],
         "description": "aɪ hæv ..., ænd wi ... . ... ɪz/ɑr səˈpɔrtɪv ænd ˈɔlˌweɪz ... mi ... .", 
         "audioSrc": ""
