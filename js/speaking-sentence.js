@@ -92,7 +92,9 @@ function loadPosts(startpId, endpId, listId) {
             const row = document.createElement('div');
             row.className = 'row';
                     
-            
+            const user = document.createElement('span');
+            user.className = 'user';
+            user.textContent = item.user; // Thêm tên người dùng
             const audio = document.createElement('span');
             audio.className = 'audio';
             audio.textContent = '☊'; // Biểu tượng âm thanh
@@ -125,7 +127,7 @@ function loadPosts(startpId, endpId, listId) {
             });
 
             // Thêm avatar và user vào thẻ row
-            
+            row.appendChild(user);
             li.appendChild(audio);
             li.appendChild(toggleButton);
 
