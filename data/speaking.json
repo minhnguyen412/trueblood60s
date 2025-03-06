@@ -5,8 +5,8 @@
         "imageSrc": "",
         "content": [
             "<strong>1. Can you tell me your name?</strong>",
-            "My name is ... , which means ... . ... chose it because ... .",
-            "Ex: My name is <span style=\"color: red; font-weight: bold;\">Minh</span>, which means <span style=\"color: red; font-weight: bold;\">'bright' or 'intelligent' in Vietnamese</span>. <span style=\"color: red; font-weight: bold;\">My parents</span> chose it because <span style=\"color: red; font-weight: bold;\">they wanted me to be thoughtful and knowledgeable</span>.",
+            "My name is ... , which means ... . ... chose it because ... . **brightness**",
+            "Ex: My name is <span style=\"color: red; font-weight: bold;\">Minh</span>, which means <span style=\"color: red; font-weight: bold;\">'**brightness**' or 'intelligent' in Vietnamese</span>. <span style=\"color: red; font-weight: bold;\">My parents</span> chose it because <span style=\"color: red; font-weight: bold;\">they wanted me to be thoughtful and knowledgeable</span>.",
             "<strong>2. Where do you come from?</strong>",
             "I'm from ... , a country known for ... . ... is something I really love.",
             "Ex: I'm from <span style=\"color: red; font-weight: bold;\">Vietnam</span>, a country known for <span style=\"color: red; font-weight: bold;\">its rich history and vibrant food culture</span>. <span style=\"color: red; font-weight: bold;\">The diversity in regional cuisine</span> is something I really love.",
