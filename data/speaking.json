@@ -8,10 +8,10 @@
             "My name is ... , which means ... and ... . ... chose it because ... .",
             "Sentence 1: My name is <span style=\"color: red; font-weight: bold;\">NAME</span>, which means <span style=\"color: red; font-weight: bold;\">NOUN</span> and <span style=\"color: red; font-weight: bold;\">NOUN</span>",
             "Ý nghĩa: Tên tôi là ..., nghĩa là ...",
-            "which means là đại từ quan hệ không xác định, nằm sau dấu phẩy để bổ sung ý nghĩa thêm cho toàn câu, với <span style="font-style: italic;">which = The fact that my name is...</span>",
+            "which means là đại từ quan hệ không xác định, nằm sau dấu phẩy để bổ sung ý nghĩa thêm cho toàn câu, với <span style=\"font-style: italic;\">which = The fact that my name is...</span>",
             "Bạn hãy điền tên của bạn vào phần <span style=\"color: red; font-weight: bold;\">NAME</span>",
             "Ở phần <span style=\"color: red; font-weight: bold;\">NOUN</span>, bạn có thể chọn những danh từ phổ biến về ý nghĩa tên người sau:",
-            "  **brightness**, **intelligence**, **elegance**, **wisdom**, **prosperity**, **abundance**, **hope**, **joy**, **peace**, **safety**, **kindness**, **virtue**, **dragon**, **strength**, **flower**, **beauty**, **bravery**, **courage**, **renewal**, **happiness**, **blessing**",
+            "  **brightness**, **intelligence**, **elegance**, **wisdom**, **prosperity**, **abundance**, **hope**, **joy**, **peace**, **safety**, **kindness**, **virtue**, **dragon**, **strength**, **flower**, **beauty**, **bravery**, **courage**, **renewal**, **happiness**, **blessing**"
             
         ]
     },
