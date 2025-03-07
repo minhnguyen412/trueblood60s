@@ -10,7 +10,7 @@ function displayPost(post) {
 
     let content = post.content.map(paragraph => {
         return `<p>${paragraph.replace(/\*\*(.*?)\*\*/g, (match, p1) => {
-            return `<span class="highlight" data-word="${p1}">${p1}</span>`;
+            return `<span class="highlight-1" data-word="${p1}">${p1}</span>`;
         })}</p>`;
     }).join('');
 
@@ -21,7 +21,7 @@ function displayPost(post) {
     container.innerHTML = content;
 
     // Gán sự kiện click cho các từ highlight
-    document.querySelectorAll('.highlight').forEach(span => {
+    document.querySelectorAll('.highlight-1').forEach(span => {
         span.addEventListener('click', function () {
             const word = this.dataset.word;
             fetchCharacterData(word);
