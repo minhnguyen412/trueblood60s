@@ -19,7 +19,7 @@
         "id": "3",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1738568493/%E5%B0%8F%E5%A7%90_gha0cd.png",
         "character": "elegance",
-        "meaning": "the quality of being graceful and attractive in appearance or behaviour",
+        "meaning": "the quality of being graceful and attractive in appearance or behaviour<br>phẩm chất của việc duyên dáng và quyến rũ trong ngoại hình hoặc hành vi",
         "pinyin": "/ˈel.ə.ɡəns/",
         "audioSrc": ""
     },
@@ -321,8 +321,8 @@
     },
     {
         "id": "41",
-        "imageSrc": "",
-        "character": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/blessing-min_ferwyi.png",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/blessing-min_ferwyi.png",
+        "character": "a life full of joy and good fortune",
         "meaning": "một cuộc sống đầy niềm vui và may mắn",
         "pinyin": "ə laɪf fʊl ʌv ʤɔɪ ænd ɡʊd ˈfɔrʧən",
         "audioSrc": ""
