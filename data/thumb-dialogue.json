@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Oh, this ain't rude. This is uppity!",
         "description": "TV series",
-        "thumbnail": "https://storage.googleapis.com/script60s/TRUE%20BLOOD/THUMBNAIL/S1E1-1.png",
+        "thumbnail": "https://storage.googleapis.com/script60s/THUMBNAILS/TV-min.png",
         "videoLink": "https://www.youtube.com/embed/iE-D65jLDyE?si=DuPMJWTCr5SDw_5V",
         "htmlLink": "dialogue.html?postStartId=1&postEndId=21&quizStartId=39&quizEndId=59&id=1"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "title": "The True Blood Podcast| Ep.1 with Charlaine Harris",
         "description": "Podcast",
-        "thumbnail": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734941423/hyjc-1-2_lkcjmf.png",
+        "thumbnail": "https://storage.googleapis.com/script60s/THUMBNAILS/podcast-min.png",
         "videoLink": "https://www.youtube.com/embed/nRv3laE9uuU?si=7qQS-aE0emluhney",
         "htmlLink": "dialogue.html?postStartId=22&postEndId=44&quizStartId=1&quizEndId=26&id=2"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "title": "第三课：明天见!",
         "description": "Lesson 3: See you tomorrow!",
-        "thumbnail": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734941448/hyjc-1-3_ndzqok.png",
+        "thumbnail": "https://storage.googleapis.com/script60s/THUMBNAILS/vlog-min.png",
         "videoLink": "https://www.youtube.com/embed/VIDEO_ID_1",
         "htmlLink": "posts.html?postStartId=39&postEndId=47&quizStartId=1&quizEndId=16&id=3"
     },
