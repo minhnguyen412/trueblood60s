@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "user": "1. Can you tell me your name?",
-        "title": "My name is ... , which means ... . ... chose it because ... .",
-        "segments": ["My name is", " ", "Name", " , ", "which means", " ", "Name Meaning", " .", " ", "Name Giver", " chose it because", " ", "Reason for the Name", " ."],
-        "highlight": ["Name", "Name Meaning", "Name Giver", "Reason for the Name"],
-        "description": "maɪ neɪm ɪz ... , wɪʧ minz ... . ... ʧoʊz ɪt bɪˈkɔz ... .", 
+        "user": "Example 1",
+        "title": "My name is Minh, which means brightness and intelligence.",
+        "segments": ["My name is", " ", "Minh", " , ", "which means", " ", "brightness", " ", "and", " ", "intelligence", "."],
+        "highlight": ["brightness", "intelligence"],
+        "description": "maɪ neɪm ɪz mɪn, wɪʧ minz ˈbraɪtnəs ænd ɪnˈtɛləʤəns.", 
         "audioSrc": ""
     },
     {
         "id": 2, 
-        "user": "2. Where do you come from?",
-        "title": "I'm from ... , a country known for ... . ... is something I really love.",
-        "segments": ["I'm from", " ", "[ 5 ]", " , ", "a country known for", " ", "[ 6 ]", " .", " ", "[ 7 ]", " is something I really love."],
-        "highlight": ["[ 5 ]", "[ 6 ]", "[ 7 ]"],
-        "description": "aɪm frʌm ... , ə ˈkʌntri noʊn fɔr ... . ... ɪz ˈsʌmθɪŋ aɪ ˈrɪli lʌv.", 
+        "user": "Example 2",
+        "title": "My parents chose it because they wished for me to have a bright and prosperous future.",
+        "segments": ["My", " ", "parents", " ", "chose it because", " ", "they", " ", "wished for", " ", "me", " ", "to", " ", "have a bright and prosperous future", "."],
+        "highlight": ["parents", "they", "wished for", "me", "have a bright and prosperous future"],
+        "description": "maɪ ˈpɛrənts ʧoʊz ɪt bɪˈkɔz ðeɪ wɪʃt fɔr mi tu hæv ə braɪt ænd ˈprɑspərəs ˈfjuʧər.", 
         "audioSrc": ""
     },
     {
         "id": 3,
-        "user": "3. Tell me about your family",
-        "title": "I come from a ... family. We always ... each other, and I enjoy ... with them, especially ... .",
-        "segments": ["I come from a ", "[ 8 ]", " family.", " ", "We always ", "[ 9 ]", " each other, and I enjoy ", "[ 10 ]", " with them, especially ", "[ 11 ]", " ."],
-        "highlight": ["[ 8 ]", "[ 9 ]", "[ 10 ]", "[ 11 ]"],
-        "description": "aɪ kʌm frʌm eɪ ... ˈfæməli. wi ˈɔlˌweɪz ... iʧ ˈʌðər, ænd aɪ ɛnˈʤɔɪ ... wɪð ðɛm, əˈspɛʃli ... .", 
+        "user": "Example 3",
+        "title": "My father chose it because he wished me a life full of joy and good fortune.",
+        "segments": ["My", " ", "father", " ", "chose it because", " ", "he", " ", "wished", " ", "me", " ", "a life full of joy and good fortune", "."],
+        "highlight": ["father", "he", "wished", "me", "a life full of joy and good fortune"],
+        "description": "maɪ ˈfɑðər ʧoʊz ɪt bɪˈkɔz hi wɪʃt mi ə laɪf fʊl ʌv ʤɔɪ ænd ɡʊd ˈfɔrʧən.", 
         "audioSrc": ""
     },
     {
         "id": 4,
-        "user": "4. Tell me about your parents",
-        "title": "My parents are ... . They've always ... me to ..., which I really appreciate.",
-        "segments": ["My parents are ", "[ 12 ]", " . ", "They've always ", "[ 13 ]", " me to ", "[ 14 ]", " , ", "which I really appreciate."],
-        "highlight": ["[ 12 ]", "[ 13 ]", "[ 14 ]"],
-        "description": "maɪ ˈpɛrənts ɑr ... . ðeɪv ˈɔlˌweɪz ... mi tu ..., wɪʧ aɪ ˈrɪli əˈpriʃiˌeɪt.", 
+        "user": "Example 4",
+        "title": "My grandmother chose it because she believed I would grow up graceful and intelligent.",
+        "segments": ["My", " ", "grandmother", " ", "chose it because", " ", "she", " ", "believed", " ", "I", " ", "would", " ", "grow up graceful and intelligent", "."],
+        "highlight": ["grandmother", "she", "believed", "I", "would", "grow up graceful and intelligent"],
+        "description": "maɪ ˈɡrændˌmʌðər ʧoʊz ɪt bɪˈkɔz ʃi bɪˈlivd aɪ wʊd ɡroʊ ʌp ˈɡreɪsfəl ænd ɪnˈtɛləʤənt.", 
         "audioSrc": ""
     },
     {
