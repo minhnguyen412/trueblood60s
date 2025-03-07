@@ -21,6 +21,11 @@ function showImageCard(imageData) {
             <h3>${imageData.character}</h3>
             <p>${imageData.meaning}</p>
             <p>${imageData.pinyin}</p>
+            <audio controls>
+                <source src="${imageData.audioSrc}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+            <div id="writer-container"></div>
         `;
         
         document.body.appendChild(card);
@@ -34,6 +39,11 @@ function showImageCard(imageData) {
             <h3>${imageData.character}</h3>
             <p>${imageData.meaning}</p>
             <p>${imageData.pinyin}</p>
+            <audio controls>
+                <source src="${imageData.audioSrc}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+            <div id="writer-container"></div>
         `;
         
         document.body.appendChild(card);
