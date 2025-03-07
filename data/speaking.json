@@ -1,10 +1,9 @@
 [
     {
         "id": 1,
-        "title": "Warm-up",
+        "title": "Talk about your name",
         "imageSrc": "",
         "content": [
-            "<strong>Can you tell me your name?</strong>",
             "Khi giám khảo hỏi tên bạn, bạn chỉ cần trả lời ngắn gọn là <strong>My name is... </strong>,<span style=\"color: red; font-weight: bold;\">không cần nói thêm dài dòng</span>. Tuy nhiên ở bài đầu tiên này, chúng ta sẽ làm quen với việc phát triển ý để nói về một chủ đề cụ thể nào đó, ví dụ như nói về tên của bạn.",
             "Để bắt đầu, chúng ta hãy cùng phân tích một mẫu câu sau:",
             "<span style=\"color: red; font-weight: bold; font-size:35px; display: inline-block; text-align: center;\">My name is ... , which means ... and ... . ... chose it because ... .</span>",
