@@ -359,5 +359,6 @@ h2 {
 }
 .highlight {
     background-color: yellow;
-    
+    cursor: pointer;
+    font-weight: bold;
 }
