@@ -358,7 +358,12 @@ h2 {
     color: red; /* Màu chữ khi hover */
 }
 .highlight {
-    background-color: yellow;
+    background-color: yellow;    
+}
+.highlight {
+    color: blue;
     cursor: pointer;
     font-weight: bold;
+    text-decoration: underline;
 }
+
