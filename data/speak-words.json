@@ -1,23 +1,23 @@
 [
     {
         "id": "1",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741078987/%E4%B8%AD%E8%8D%AF_nvraka.png",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1739174873/%E8%81%8C%E5%91%98_hcnl5y.png",
         "character": "brightness",
-        "meaning": "the quality of being intelligent and quick to learn",
+        "meaning": "the quality of being intelligent and quick to learn<br>phẩm chất thông minh và hiểu nhanh",
         "pinyin": " /ˈbraɪt.nəs/",
         "audioSrc": ""
     },
     {
         "id": "2",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672817/%E5%AD%A6_ohlrfe.png",
         "character": "intelligence",
-        "meaning": "the ability to learn, understand, and make judgments or have opinions that are based on reason",
+        "meaning": "the ability to learn, understand, and make judgments or have opinions that are based on reason<br>khả năng học, hiểu và đưa ra nhận xét hoặc quan điểm dựa trên lý lẽ",
         "pinyin": " /ɪnˈtel.ə.dʒəns/",
         "audioSrc": ""
     },
     {
         "id": "3",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1738568493/%E5%B0%8F%E5%A7%90_gha0cd.png",
         "character": "elegance",
         "meaning": "the quality of being graceful and attractive in appearance or behaviour",
         "pinyin": "/ˈel.ə.ɡəns/",
@@ -25,215 +25,215 @@
     },
     {
         "id": "4",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1739174873/%E7%9F%A5%E9%81%93_ox7zkx.png",
         "character": "wisdom",
-        "meaning": "the ability to use your knowledge and experience to make good decisions and judgments",
+        "meaning": "the ability to use your knowledge and experience to make good decisions and judgments<br>khả năng sử dụng kiến thức và kinh nghiệm để đưa ra những quyết định hay nhận xét tốt",
         "pinyin": " /ˈwɪz.dəm/",
         "audioSrc": ""
     },
     {
         "id": "5",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1738569096/%E7%BE%8E%E5%85%83_rfqjkp.png",
         "character": "prosperity",
-        "meaning": "the state of being successful and having a lot of money",
+        "meaning": "the state of being successful and having a lot of money<br>trạng thái thành công và có nhiều tiền",
         "pinyin": "/prɑːˈsper.ə.t̬i/",
         "audioSrc": ""
     },
     {
         "id": "6",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/abundance-min_cmm56z.png",
         "character": "abundance",
-        "meaning": "the quality of having what you want in life, for example, love, happiness, or career success<br>the situation in which there is more than enough of something",
+        "meaning": "the quality of having what you want in life, for example, love, happiness, or career success<br>the situation in which there is more than enough of something<br>phẩm chất có những thì mà bạn muốn trong cuộc sống, ví dụ như tình yêu, hạnh phúc hoặc thành công sự nghiệp",
         "pinyin": " /əˈbʌn.dəns/",
         "audioSrc": ""
     },
     {
         "id": "7",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/hope-min_rdjfoa.png",
         "character": "hope",
-        "meaning": "(n) something good that you want to happen in the future, or a confident feeling about what will happen in the future<br>(v) to want something to happen or to be true, and usually have a good reason to think that it might",
+        "meaning": "(n) something good that you want to happen in the future, or a confident feeling about what will happen in the future<br>(danh từ) điều tốt mà bạn muốn xảy ra trong tương lai, hoặc một niềm tin là nó sẽ xảy ra trong tương lai<br>(v) to want something to happen or to be true, and usually have a good reason to think that it might<br>(động từ) muốn điều gì đó xảy ra hay thành sự thật, và luôn có lý do tốt để nghĩ là nó có thể xảy ra",
         "pinyin": " /hoʊp/",
         "audioSrc": ""
     },
     {
         "id": "8",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/joy-min_gc4cfb.png",
         "character": "joy",
-        "meaning": "great happiness",
+        "meaning": "great happiness<br>niềm hạnh phúc lớn lao",
         "pinyin": "/dʒɔɪ/",
         "audioSrc": ""
     },
     {
         "id": "9",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/peace-min_iml4kr.png",
         "character": "peace",
-        "meaning": "freedom from war and violence, especially when people live and work together happily without disagreements",
+        "meaning": "freedom from war and violence, especially when people live and work together happily without disagreements<br>tự do khỏi chiến tranh và bạo lực, đặc biệt là khi con người sống và làm việc hạnh phúc mà không có bất đồng",
         "pinyin": "/piːs/",
         "audioSrc": ""
     },
     {
         "id": "10",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/safety-min_xix5bp.png",
         "character": "safety",
-        "meaning": "a state in which or a place where you are safe and not in danger or at risk",
+        "meaning": "a state in which or a place where you are safe and not in danger or at risk<br>một trạng thái mà trong đó hoặc một nơi mà bạn cảm thấy an toàn và không gặp nguy hiểm hay rủi ro",
         "pinyin": "/ˈseɪf.ti/",
         "audioSrc": ""
     },
     {
         "id": "11",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1738159485/%E7%BB%99_ttmbtg.png",
         "character": "kindness",
-        "meaning": "the quality of being kind",
+        "meaning": "the quality of being kind<br>phẩm chất là tốt bụng",
         "pinyin": " /ˈkaɪnd.nəs/",
         "audioSrc": ""
     },
     {
         "id": "12",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/virtue-min_fvdizz.png",
         "character": "virtue",
-        "meaning": "a good moral quality in a person, or the general quality of being morally good",
+        "meaning": "a good moral quality in a person, or the general quality of being morally good<br>một phẩm chất đạo đức tốt ở một người, hoặc phẩm chất chung của đạo đức tốt",
         "pinyin": "/ˈvɝː.tʃuː/",
         "audioSrc": ""
     },
     {
         "id": "13",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/dragon-min_sbv1hf.png",
         "character": "dragon",
-        "meaning": "a large, frightening imaginary animal, often represented with wings, a long tail, and fire coming out of its mouth",
+        "meaning": "a large, frightening imaginary animal, often represented with wings, a long tail, and fire coming out of its mouth<br>một động vật tưởng tượng lớn và đáng sợ, thường được thể hiện với cánh, đuôi dài và lửa phun ra từ miệng",
         "pinyin": "/ˈdræɡ.ən/",
         "audioSrc": ""
     },
     {
         "id": "14",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741078382/%E9%87%8D_wvopgb.png",
         "character": "strength",
-        "meaning": "the ability to do things that need a lot of physical or mental effort",
+        "meaning": "the ability to do things that need a lot of physical or mental effort<br>khả năng làm những điều mà cần rất nhiều nỗ lực thể lực hoặc tâm trí",
         "pinyin": "/streŋθ/",
         "audioSrc": ""
     },
     {
         "id": "15",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/flower-min_nbxngi.png",
         "character": "flower",
-        "meaning": "(n) the part of a plant that is often brightly coloured and has a pleasant smell<br>(v) to develop completely and become obvious",
+        "meaning": "(n) the part of a plant that is often brightly coloured and has a pleasant smell<br>(danh từ) một phần của cây mà thường có màu rực rỡ và có mùi thơm dễ chịu<br>(v) to develop completely and become obvious<br>(động từ) phát triển hoàn toàn và trở nên rõ ràng",
         "pinyin": " /ˈflaʊ.ɚ/",
         "audioSrc": ""
     },
     {
         "id": "16",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672816/%E5%A5%B3_gvhben.png",
         "character": "beauty",
-        "meaning": "the quality of being pleasing and attractive, especially to look at",
+        "meaning": "the quality of being pleasing and attractive, especially to look at<br>phẩm chất của việc thấy vừa ý và hấp dẫn",
         "pinyin": " /ˈbjuː.t̬i/",
         "audioSrc": ""
     },
     {
         "id": "17",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/bravery-min_aqcckx.png",
         "character": "bravery",
-        "meaning": "brave behaviour or actions",
+        "meaning": "brave behaviour or actions<br>hành vi hoặc hành động dũng cảm",
         "pinyin": "/ˈbreɪ.vɚ.i/",
         "audioSrc": ""
     },
     {
         "id": "18",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1739780290/%E6%88%91%E4%BB%AC_vuunh7.png",
         "character": "courage",
-        "meaning": "the ability to control your fear in a dangerous or difficult situation",
+        "meaning": "the ability to control your fear in a dangerous or difficult situation<br>khả năng kiểm soát nỗi sợ của bạn trong những tình huống nguy hiểm hoặc khó khăn",
         "pinyin": "/ˈkɝː.ɪdʒ/",
         "audioSrc": ""
     },
     {
         "id": "19",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/renewal-min_agqrjl.png",
         "character": "renewal",
-        "meaning": "a process in which something improves or is improved after being in a bad condition",
+        "meaning": "a process in which something improves or is improved after being in a bad condition<br>một quá trình mà trong đó cái gì đó cải thiện hoặc được cải thiện sau tình trạng xấu",
         "pinyin": "/rɪˈnuː.əl/",
         "audioSrc": ""
     },
     {
         "id": "20",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/happiness-min_qsfrew.png",
         "character": "happiness",
-        "meaning": "the feeling of being happy",
+        "meaning": "the feeling of being happy<br>cảm xúc hạnh phúc",
         "pinyin": " /ˈhæp.i.nəs/",
         "audioSrc": ""
     },
     {
         "id": "21",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/blessing-min_ferwyi.png",
         "character": "blessing",
-        "meaning": "something that is extremely lucky or makes you happy",
+        "meaning": "something that is extremely lucky or makes you happy<br>một cái gì đó cực kỳ may mắn hay khiến bạn hạnh phúc",
         "pinyin": "/ˈbles.ɪŋ/",
         "audioSrc": ""
     },
     {
         "id": "22",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "parents",
-        "meaning": "parent: a mother or father of a person or an animal, or someone who looks after a person in the same way that a parent does",
+        "meaning": "parent: a mother or father of a person or an animal, or someone who looks after a person in the same way that a parent does<br>mẹ hoặc cha của một người hay một con vật, hoặc một ai đó chăm sóc một người theo cách mà cha (mẹ) làm",
         "pinyin": "/ˈpɛrənt(s)/",
         "audioSrc": ""
     },
     {
         "id": "23",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "grandparents",
-        "meaning": "grandparent: the father or mother of a person's father or mother",
+        "meaning": "grandparent: the father or mother of a person's father or mother<br>cha hoặc mẹ của cha một người",
         "pinyin": "/ˈɡræn.per.ənt(s)/",
         "audioSrc": ""
     },
     {
         "id": "24",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672816/%E5%A6%88%E5%A6%88_ctbjof.png",
         "character": "mother",
-        "meaning": "a female parent",
+        "meaning": "a female parent<br>một phụ huynh nữ",
         "pinyin": "/ˈmʌð.ɚ/",
         "audioSrc": ""
     },
     {
         "id": "25",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672825/%E7%88%B8%E7%88%B8_kzlngz.png",
         "character": "father",
-        "meaning": "a male parent",
+        "meaning": "a male parent<br>một phụ huynh nam",
         "pinyin": " /ˈfɑː.ðɚ/",
         "audioSrc": ""
     },
     {
         "id": "26",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "aunt",
-        "meaning": "the sister of someone's father or mother, or the wife of someone's uncle or aunt",
+        "meaning": "the sister of someone's father or mother, or the wife of someone's uncle or aunt<br>em (chị) gái của cha hoặc mẹ của ai đó",
         "pinyin": " /ænt",
         "audioSrc": ""
     },
     {
         "id": "27",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "uncle",
-        "meaning": "the brother of someone's mother or father, or the husband of someone's aunt or uncle",
+        "meaning": "the brother of someone's mother or father, or the husband of someone's aunt or uncle<br>anh (em) trai của cha hoặc mẹ của ai đó",
         "pinyin": "/ˈʌŋ.kəl/",
         "audioSrc": ""
     },
     {
         "id": "28",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "grandfather",
-        "meaning": "the father of a person's mother or father",
+        "meaning": "the father of a person's mother or father<br>cha của mẹ hoặc cha của ai đó",
         "pinyin": " /ˈɡræn.fɑː.ðɚ/",
         "audioSrc": ""
     },
     {
         "id": "29",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "grandmother",
-        "meaning": "the mother of a person's father or mother",
+        "meaning": "the mother of a person's father or mother<br>mẹ của cha hoặc mẹ của ai đó",
         "pinyin": " /ˈɡræn.mʌð.ɚ/",
         "audioSrc": ""
     },
     {
         "id": "30",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/abundance-min_cmm56z.png",
         "character": "have a bright and prosperous future",
         "meaning": "có một tương lai tươi sáng và thành đạt",
         "pinyin": "hæv ə braɪt ænd ˈprɑspərəs ˈfjuʧər",
@@ -241,7 +241,7 @@
     },
     {
         "id": "31",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672817/%E5%AD%A6_ohlrfe.png",
         "character": "grow up graceful and intelligent",
         "meaning": "lớn lên duyên dáng và thông minh",
         "pinyin": "ɡroʊ ʌp ˈɡreɪsfəl ænd ɪnˈtɛləʤənt",
@@ -249,7 +249,7 @@
     },
     {
         "id": "32",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/blessing-min_ferwyi.png",
         "character": "have a life full of joy and good fortune",
         "meaning": "có một cuộc sống đầy niềm vui và may mắn",
         "pinyin": "hæv ə laɪf fʊl ʌv ʤɔɪ ænd ɡʊd ˈfɔrʧən",
@@ -257,7 +257,7 @@
     },
     {
         "id": "33",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/abundance-min_cmm56z.png",
         "character": "have a successful and fulfill life",
         "meaning": "có một cuộc sống thành công và viên mãn",
         "pinyin": "hæv ə səkˈsɛsfəl ænd fʊlˈfɪl laɪf",
@@ -265,7 +265,7 @@
     },
     {
         "id": "34",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1738159485/%E7%BB%99_ttmbtg.png",
         "character": "grow up to be a kind-hearted person",
         "meaning": "lớn lên thành một người tốt bụng",
         "pinyin": "ɡroʊ ʌp tu bi ə kaɪnd-ˈhɑrtɪd ˈpɜrsən",
@@ -273,7 +273,7 @@
     },
     {
         "id": "35",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1739174873/%E7%9F%A5%E9%81%93_ox7zkx.png",
         "character": "be wise and successful in life",
         "meaning": "thông thái và thành công trong cuộc sống",
         "pinyin": "bi waɪz ænd səkˈsɛsfəl ɪn laɪf",
@@ -281,7 +281,7 @@
     },
     {
         "id": "36",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/bravery-min_aqcckx.png",
         "character": "be strong and rise above challenges in life",
         "meaning": "mạnh mẽ và vượt lên mọi thử thách trong cuộc sống",
         "pinyin": "bi strɔŋ ænd raɪz əˈbʌv ˈʧælənʤɪz ɪn laɪf",
@@ -289,7 +289,7 @@
     },
     {
         "id": "37",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1739780290/%E6%88%91%E4%BB%AC_vuunh7.png",
         "character": "be fearless and strong in life",
         "meaning": "gan dạ và mạnh mẽ trong cuộc sống",
         "pinyin": "bi ˈfɪrləs ænd strɔŋ ɪn laɪf",
@@ -297,7 +297,7 @@
     },
     {
         "id": "38",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/dragon-min_sbv1hf.png",
         "character": "be strong and powerful like a dragon",
         "meaning": "mạnh mẽ và quyền lực như một con rồng",
         "pinyin": "bi strɔŋ ænd ˈpaʊərfəl laɪk ə ˈdræɡən",
@@ -305,7 +305,7 @@
     },
     {
         "id": "39",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/joy-min_gc4cfb.png",
         "character": "bring joy and charm to those around me",
         "meaning": "mang lại niềm vui và sự quyến rũ đến với những người xung quanh",
         "pinyin": "ˈbrɪŋ ʤɔɪ ænd ʧɑrm tu ðoʊz əˈraʊnd mi",
@@ -313,7 +313,7 @@
     },
     {
         "id": "40",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/abundance-min_cmm56z.png",
         "character": "a bright and prosperous future",
         "meaning": "một tương lai tươi sáng và thịnh vượng",
         "pinyin": "ə braɪt ænd ˈprɑspərəs ˈfjuʧər",
@@ -322,14 +322,14 @@
     {
         "id": "41",
         "imageSrc": "",
-        "character": "a life full of joy and good fortune",
+        "character": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331688/blessing-min_ferwyi.png",
         "meaning": "một cuộc sống đầy niềm vui và may mắn",
         "pinyin": "ə laɪf fʊl ʌv ʤɔɪ ænd ɡʊd ˈfɔrʧən",
         "audioSrc": ""
     },
     {
         "id": "42",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/renewal-min_agqrjl.png",
         "character": "a successful and fulfill life",
         "meaning": "một cuộc sống thành công và đủ đầy",
         "pinyin": "ə səkˈsɛsfəl ænd fʊlˈfɪl laɪf",
@@ -337,7 +337,7 @@
     },
     {
         "id": "43",
-        "imageSrc": "",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/tranquility-min_svb6nd.png",
         "character": "a life full of happiness and tranquility",
         "meaning": "một cuộc sống đầy hạnh phúc và yên bình",
         "pinyin": "ə laɪf fʊl ʌv ˈhæpinəs ænd træŋˈkwɪlɪti",
