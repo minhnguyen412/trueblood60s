@@ -8,6 +8,7 @@
             "Khi giám khảo hỏi tên bạn, bạn chỉ cần trả lời ngắn gọn là <strong>My name is... </strong>,<span style=\"color: red; font-weight: bold;\">không cần nói thêm dài dòng</span>. Tuy nhiên ở bài đầu tiên này, chúng ta sẽ làm quen với việc phát triển ý để nói về một chủ đề cụ thể nào đó, ví dụ như nói về tên của bạn.",
             "Để bắt đầu, chúng ta hãy cùng phân tích một mẫu câu sau:",
             "<span style=\"color: red; font-weight: bold; font-size:35px; display: inline-block; text-align: center;\">My name is ... , which means ... and ... . ... chose it because ... .</span>",
+            "Nhìn vào mẫu câu này, chúng ta có thể thấy nó gồm có 4 ý: tên là gì, nghĩa là gì, ai đặt tên, lý do đặt tên. Bốn ý này được thể hiện qua 2 câu bằng cách sử dụng đại từ quan hệ và liên từ.",
             "<strong>Sentence 1:</strong> My name is <span style=\"color: red; font-weight: bold;\">NAME</span>, which means <span style=\"color: red; font-weight: bold;\">NOUN</span> and <span style=\"color: red; font-weight: bold;\">NOUN</span>.",
             "Ý nghĩa: Tên tôi là TÊN, nghĩa là DANH TỪ và DANH TỪ.",
             "<strong>which means</strong> là mệnh đề quan hệ không xác định, nằm sau dấu phẩy để bổ sung ý nghĩa thêm cho toàn câu, với <span style=\"font-style: italic;\">which = The fact that my name is...</span>",
