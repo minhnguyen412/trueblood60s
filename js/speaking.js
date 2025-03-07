@@ -1,29 +1,75 @@
-// Lấy id từ URL
+// Lấy ID từ URL
 function getPostIdFromUrl() {
     const params = new URLSearchParams(window.location.search);
-    return params.get('id2'); // Trả về giá trị của tham số 'id'
+    return params.get('id2');
 }
 
-// Hàm hiển thị bài viết
+// Hiển thị bài viết với highlight từ quan trọng
 function displayPost(post) {
     const container = document.getElementById('post-container');
-    
-    // Khởi tạo nội dung HTML
-    let content = `
-        
-        ${post.content.map(paragraph => `<p>${paragraph}</p>`).join('')}
-    `;
 
-    // Thêm hình ảnh nếu có
+    let content = post.content.map(paragraph => {
+        return `<p>${paragraph.replace(/\*\*(.*?)\*\*/g, (match, p1) => {
+            return `<span class="highlight" data-word="${p1}">${p1}</span>`;
+        })}</p>`;
+    }).join('');
+
     if (post.imageSrc) {
         content = `<img src="${post.imageSrc}">` + content;
     }
 
-    // Cập nhật nội dung vào container
     container.innerHTML = content;
+
+    // Gán sự kiện click cho các từ highlight
+    document.querySelectorAll('.highlight').forEach(span => {
+        span.addEventListener('click', function () {
+            const word = this.dataset.word;
+            fetchCharacterData(word);
+        });
+    });
 }
 
-// Hàm load bài viết từ file JSON
+// Lấy dữ liệu ký tự từ file JSON
+function fetchCharacterData(word) {
+    fetch('https://raw.githubusercontent.com/minhnguyen412/trueblood60s/refs/heads/main/data/speak-words.json')
+        .then(response => response.json())
+        .then(data => {
+            const characterData = data.find(item => item.character === word);
+            if (characterData) {
+                showImageCard(characterData);
+            } else {
+                console.log('Không tìm thấy dữ liệu cho:', word);
+            }
+        })
+        .catch(error => console.error('Lỗi khi tải dữ liệu ký tự:', error));
+}
+
+// Hiển thị popup ký tự
+function showImageCard(imageData) {
+    const card = document.createElement('div');
+    card.className = 'image-card';
+    card.innerHTML = `
+        <span class="close" onclick="this.parentElement.remove()">&times;</span>
+        <div class="image-container">
+            <img src="${imageData.imageSrc}" alt="${imageData.character}">
+        </div>
+        <div class="content">
+            <h3>${imageData.character}</h3>
+            <p>${imageData.meaning}</p>
+            <p>${imageData.pinyin}</p>
+            <audio controls>
+                <source src="${imageData.audioSrc}" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+            <div id="writer-container"></div>
+        </div>
+    `;
+    document.body.appendChild(card);
+
+    
+}
+
+// Load bài viết từ JSON
 function loadPost() {
     const postId = getPostIdFromUrl();
     if (!postId) {
@@ -31,21 +77,9 @@ function loadPost() {
         return;
     }
 
-    const passageFiles = ['../data/speaking.json']; // Thêm các file tại đây
-
-    const fetchPromises = passageFiles.map(file => fetch(file)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Lỗi khi tải dữ liệu từ ' + file);
-            }
-            return response.json();
-        })
-    );
-
-    Promise.all(fetchPromises)
-        .then(allPosts => {
-            // Kết hợp tất cả các bài viết từ các file
-            const posts = allPosts.flat(); // Sử dụng flat() để kết hợp các mảng
+    fetch('https://raw.githubusercontent.com/minhnguyen412/trueblood60s/refs/heads/main/data/speaking.json')
+        .then(response => response.json())
+        .then(posts => {
             const post = posts.find(p => p.id === Number(postId));
             if (post) {
                 displayPost(post);
