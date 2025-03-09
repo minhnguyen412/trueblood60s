@@ -43,7 +43,7 @@
         "id": "6",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331687/abundance-min_cmm56z.png",
         "character": "abundance",
-        "meaning": "the quality of having what you want in life, for example, love, happiness, or career success<br>the situation in which there is more than enough of something<br>phẩm chất có những thì mà bạn muốn trong cuộc sống, ví dụ như tình yêu, hạnh phúc hoặc thành công sự nghiệp",
+        "meaning": "the quality of having what you want in life, for example, love, happiness, or career success<br>the situation in which there is more than enough of something<br>phẩm chất có những gì mà bạn muốn trong cuộc sống, ví dụ như tình yêu, hạnh phúc hoặc thành công sự nghiệp",
         "pinyin": " /əˈbʌn.dəns/",
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/cau%201/abundance.mp3"
     },
@@ -171,7 +171,7 @@
         "id": "22",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "parents",
-        "meaning": "parent: a mother or father of a person or an animal, or someone who looks after a person in the same way that a parent does<br>mẹ hoặc cha của một người hay một con vật, hoặc một ai đó chăm sóc một người theo cách mà cha (mẹ) làm",
+        "meaning": "parent: a mother or father of a person or an animal, or someone who looks after a person in the same way that a parent does<br>mẹ hoặc cha của một người hay một con vật, hoặc một ai đó chăm sóc một người theo cách mà cha (mẹ) làm<br>parents: cha mẹ",
         "pinyin": "/ˈpɛrənt(s)/",
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/cau%201/parents.mp3"
     },
@@ -179,7 +179,7 @@
         "id": "23",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "grandparents",
-        "meaning": "grandparent: the father or mother of a person's father or mother<br>cha hoặc mẹ của cha một người",
+        "meaning": "grandparent: the father or mother of a person's father or mother<br>cha hoặc mẹ của cha hoặc mẹ một người<br>grandparents: ông bà",
         "pinyin": "/ˈɡræn.per.ənt(s)/",
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/cau%201/grandparents.mp3"
     },
@@ -203,7 +203,7 @@
         "id": "26",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "aunt",
-        "meaning": "the sister of someone's father or mother, or the wife of someone's uncle or aunt<br>em (chị) gái của cha hoặc mẹ của ai đó",
+        "meaning": "the sister of someone's father or mother, or the wife of someone's uncle or aunt<br>em (chị) gái của cha hoặc mẹ của ai đó hoặc vợ của chú bác hoặc cô dì của ai đó",
         "pinyin": " /ænt",
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/cau%201/aunt.mp3"
     },
@@ -211,7 +211,7 @@
         "id": "27",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/family-min_fmtuoo.png",
         "character": "uncle",
-        "meaning": "the brother of someone's mother or father, or the husband of someone's aunt or uncle<br>anh (em) trai của cha hoặc mẹ của ai đó",
+        "meaning": "the brother of someone's mother or father, or the husband of someone's aunt or uncle<br>anh (em) trai của cha hoặc mẹ của ai đó, hoặc chồng của cô dì hoặc chú bác của ai đó",
         "pinyin": "/ˈʌŋ.kəl/",
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/cau%201/uncle.mp3"
     },
