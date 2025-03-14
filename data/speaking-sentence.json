@@ -37,12 +37,38 @@
     },
     {
         "id": 5,
-        "user": "5. Tell me about your siblings",
-        "title": "I have ..., and we ... . ... is/are supportive and always ... me ... .",
-        "segments": ["I have ", "[ 15 ]", " , ", "and we ", "[ 16 ]", " . ", "[ 17 ]", " is/are supportive and always ", "[ 18 ]", " me ", "[ 19 ]", "."],
-        "highlight": ["[ 15 ]", "[ 16 ]", "[ 17 ]", "[ 18 ]", "[ 19 ]"],
-        "description": "aɪ hæv ..., ænd wi ... . ... ɪz/ɑr səˈpɔrtɪv ænd ˈɔlˌweɪz ... mi ... .", 
+        "user": "Example 1",
+        "title": "I'm from Vietnam, a country known for its bustling street food scene and breathtaking mountain landscapes.",
+        "segments": ["I'm", " ", "from", " ", "Vietnam", ", ", "a", " ", "country", " ", "known for", " ", "its", " ", "bustling street food scene", " ", "and", " ", "breathtaking moutain landscapes", "."],
+        "highlight": ["country", "known for", "bustling street food scene", "breathtaking moutain landscapes"],
+        "description": "aɪm frʌm viˌɛtˈnɑm, ə ˈkʌntri noʊn fɔr ɪts ˈbʌsəlɪŋ strit fud sin ænd ˈbrɛθˌteɪkɪŋ ˈmaʊntən ˈlændˌskeɪps.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 6,
+        "user": "Example 2",
+        "title": "I'm from Vung Tau, a city known for its beautiful beaches and delicious seafood.",
+        "segments": ["I'm", " ", "from", " ", "Vung Tau", ", ", "a", " ", "city", " ", "known for", " ", "its", " ", "beautiful beaches", " ", "and", " ", "delicious seafood", "."],
+        "highlight": ["city", "known for", "beautiful beaches", "delicious seafood"],
+        "description": "aɪm frʌm Vung Tau, ə ˈsɪti noʊn fɔr ɪts ˈbjutəfəl ˈbiʧəz ænd dɪˈlɪʃəs ˈsiˌfud.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 7,
+        "user": "Example 3",
+        "title": "The incredible beauty of the national parks is something I really love.",
+        "segments": ["The incredible beauty of the national parks", " ", "is", " ", "something I really love", "."],
+        "highlight": ["The incredible beauty of the national parks", "something I really love"],
+        "description": "ði ɪnˈkrɛdəbəl ˈbjuti ʌv ðə ˈnæʃənəl pɑrks ɪz ˈsʌmθɪŋ aɪ ˈrɪli lʌv.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 8,
+        "user": "Example 4",
+        "title": "The youthful energy and continuous development are something I really love.",
+        "segments": ["The youthful energy and continuous development", " ", "are", " ", "something I really love", "."],
+        "highlight": ["The youthful energy and continuous development", "something I really love"],
+        "description": "ðə ˈjuθfəl ˈɛnərʤi ænd kənˈtɪnjuəs dɪˈvɛləpmənt ɑr ˈsʌmθɪŋ aɪ ˈrɪli lʌv.", 
         "audioSrc": ""
     }
-    
 ]
