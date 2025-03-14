@@ -39,8 +39,8 @@
         "id": 5,
         "user": "Example 1",
         "title": "I'm from Vietnam, a country known for its bustling street food scene and breathtaking mountain landscapes.",
-        "segments": ["I'm", " ", "from", " ", "Vietnam", ", ", "a", " ", "country", " ", "known for", " ", "its", " ", "bustling street food scene", " ", "and", " ", "breathtaking moutain landscapes", "."],
-        "highlight": ["country", "known for", "bustling street food scene", "breathtaking moutain landscapes"],
+        "segments": ["I'm", " ", "from", " ", "Vietnam", ", ", "a", " ", "country", " ", "known for", " ", "its", " ", "bustling street food scene", " ", "and", " ", "breathtaking mountain landscapes", "."],
+        "highlight": ["country", "known for", "bustling street food scene", "breathtaking mountain landscapes"],
         "description": "aɪm frʌm viˌɛtˈnɑm, ə ˈkʌntri noʊn fɔr ɪts ˈbʌsəlɪŋ strit fud sin ænd ˈbrɛθˌteɪkɪŋ ˈmaʊntən ˈlændˌskeɪps.", 
         "audioSrc": ""
     },
