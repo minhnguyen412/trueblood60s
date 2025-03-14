@@ -345,251 +345,251 @@
     },
     {
         "id": "44",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/country.jpg",
         "character": "country",
-        "meaning": "đất nước",
-        "pinyin": "qián",
-        "audioSrc": ""
+        "meaning": "an area of land that has its own government, army, etc.<br>một khu vực đất có chính phủ riêng, quân đội riêng v.v<br>land that is not in towns, cities, or industrial areas and is either used for farming or left in its natural condition<br>vùng đất mà không phải thị trấn, thành phố hay khu công nghiệp và dùng cho việc trồng trọt hoặc để mặc ở điều kiện tự nhiên",
+        "pinyin": "/ˈkʌn.tri/",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/country.mp3"
     },
     {
         "id": "45",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/city.jpg",
         "character": "city",
-        "meaning": "thành phố",
-        "pinyin": "liù",
-        "audioSrc": ""
+        "meaning": "a large town<br>một thị trấn lớn",
+        "pinyin": " /ˈsɪt̬.i/",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/city.mp3"
     },
     {
         "id": "46",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/village.jpg",
         "character": "village",
-        "meaning": "làng quê",
-        "pinyin": "qī",
-        "audioSrc": ""
+        "meaning": "a group of houses and other buildings that is smaller than a town, usually in the countryside<br>một nhóm nhà và tòa nhà mà nhỏ hơn thị trấn, thường nằm ở vùng nông thôn",
+        "pinyin": " /ˈvɪl.ɪdʒ/",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/village.mp3"
     },
     {
         "id": "47",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/town.jpg",
         "character": "town",
-        "meaning": "thị trấn",
-        "pinyin": "jiǔ",
-        "audioSrc": ""
+        "meaning": "a place where people live and work, containing many houses, shops, places of work, places of entertainment, etc., and usually larger than a village but smaller than a city<br>một nơi mà mọi người sống và làm việc, chứa nhiều nhà, cửa hàng, nơi làm việc, nơi giải trí v.v và luôn lớn hơn làng nhưng nhỏ hơn thành phố",
+        "pinyin": " /taʊn/",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/town.mp3"
     },
     {
         "id": "48",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/place.jpg",
         "character": "place",
-        "meaning": "Today",
-        "pinyin": "jīntiān",
-        "audioSrc": ""
+        "meaning": "an area, town, building, etc.<br>một khu vực, thị trấn, tòa nhà, v.v",
+        "pinyin": " /pleɪs/",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/place.mp3"
     },
     {
         "id": "49",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/island.jpg",
         "character": "island",
-        "meaning": "Day",
-        "pinyin": "tiān",
-        "audioSrc": ""
+        "meaning": "a piece of land completely surrounded by water<br>một miếng đất hoàn toàn bị bao quanh bởi nước",
+        "pinyin": "/ˈaɪ.lənd/",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/island.mp3"
     },
     {
         "id": "50",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/ancient-temples.jpg",
         "character": "ancient temples",
         "meaning": "những ngôi chùa cổ",
-        "pinyin": "zuótiān",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673308/%E6%98%A8%E5%A4%A9_r6p7h0.mp3"
+        "pinyin": "ˈeɪnʧənt ˈtɛmpəlz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/ancient%20temples.mp3"
     },
     {
         "id": "51",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/bustling-street-food-scene.jpg",
         "character": "bustling street food scene",
-        "meaning": "canh",
-        "pinyin": "xīngqī",
-        "audioSrc": ""
+        "meaning": "cảnh đồ ăn đường phố nhộn nhịp",
+        "pinyin": "ˈbʌsəlɪŋ strit fud sin",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/bustling%20street%20food%20scene.mp3"
     },
     {
         "id": "52",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/dynamic-energy.jpg",
         "character": "dynamic energy",
-        "meaning": "Monday",
-        "pinyin": "xīngqīyī",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673300/%E6%98%9F%E6%9C%9F%E4%B8%80_hrtfkt.mp3"
+        "meaning": "năng lượng năng động",
+        "pinyin": "daɪˈnæmɪk ˈɛnərʤi",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/dynamic%20energy.mp3"
     },
     {
         "id": "53",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/city.jpg",
         "character": "modern skyscrapers",
-        "meaning": "Tuesday",
-        "pinyin": "xīngqī’èr",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673302/%E6%98%9F%E6%9C%9F%E4%BA%8C_sc50y5.mp3"
+        "meaning": "tòa nhà chọc trời hiện đại",
+        "pinyin": "ˈmɑdərn ˈskaɪˌskreɪpərz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/modern%20skyscrapers.mp3"
     },
     {
         "id": "54",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/well-preserved-ancient-houses.jpg",
         "character": "well-preserved ancient houses",
-        "meaning": "Wednesday",
-        "pinyin": "xīngqīsān",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673301/%E6%98%9F%E6%9C%9F%E4%B8%89_jw2tzj.mp3"
+        "meaning": "những căn nhà cổ được bảo tồn tốt",
+        "pinyin": "wɛl-prəˈzɜrvd ˈeɪnʧənt ˈhaʊzɪz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/well-preserved%20ancient%20houses.mp3"
     },
     {
         "id": "55",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/rich-biodiversity.jpg",
         "character": "rich biodiversity",
-        "meaning": "Thursday",
-        "pinyin": "xīngqīsì",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673305/%E6%98%9F%E6%9C%9F%E5%9B%9B_xt3r4h.mp3"
+        "meaning": "đa dạng sinh học phong phú",
+        "pinyin": "rɪʧ ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/rich%20biodiversity.mp3"
     },
     {
         "id": "56",
-        "imageSrc": "",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/beautiful-beaches.jpg",
         "character": "beautiful beaches",
-        "meaning": "Friday",
-        "pinyin": "xīngqīwǔ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673303/%E6%98%9F%E6%9C%9F%E4%BA%94_kl2ml0.mp3"
+        "meaning": "những bãi biển xinh đẹp",
+        "pinyin": "ˈbjutəfəl ˈbiʧəz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/beautiful%20beaches.mp3"
     },
     {
         "id": "57",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672822/%E6%98%9F%E6%9C%9F%E5%85%AD_pnecg3.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/delicious-seafood.jpeg",
         "character": "delicious seafood",
-        "meaning": "Saturday",
-        "pinyin": "xīngqīliù",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673304/%E6%98%9F%E6%9C%9F%E5%85%AD_e03xsw.mp3"
+        "meaning": "hải sản ngon miệng",
+        "pinyin": "dɪˈlɪʃəs ˈsiˌfud",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/delicious%20seafood.mp3"
     },
     {
         "id": "58",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%9F%E6%9C%9F%E5%A4%A9_ryx2oq.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/beautiful-beaches.jpg",
         "character": "stunning coastlines",
-        "meaning": "Sunday",
-        "pinyin": "xīngqītiān",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673306/%E6%98%9F%E6%9C%9F%E5%A4%A9_w9np9o.mp3"
+        "meaning": "bờ biển tuyệt đẹp",
+        "pinyin": "ˈstʌnɪŋ ˈkoʊstˌlaɪnz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/stunning%20coastlines.mp3"
     },
     {
         "id": "59",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672812/%E5%87%A0_kmdsuv.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/historical-sites.jpg",
         "character": "historical sites",
-        "meaning": "How many; what; several",
-        "pinyin": "jǐ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673237/%E5%87%A0_pakgmj.mp3"
+        "meaning": "di tích lịch sử",
+        "pinyin": "hɪˈstɔrɪkəl saɪts",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/historical%20sites.mp3"
     },
     {
         "id": "60",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672809/%E4%BA%8C_zh0dlf.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/cool-climate.jpg",
         "character": "cool climate",
-        "meaning": "Two",
-        "pinyin": "èr",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673164/%E4%BA%8C_nvoe5j.mp3"
+        "meaning": "khí hậu mát mẻ",
+        "pinyin": "kul ˈklaɪmət",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/cool%20climate.mp3"
     },
     {
         "id": "61",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%89_gylkny.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/beautiful-flower-gardens.jpg",
         "character": "beautiful flower gardens",
-        "meaning": "Three",
-        "pinyin": "sān",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673154/%E4%B8%89_dx0o9r.mp3"
+        "meaning": "những vườn hoa xinh đẹp",
+        "pinyin": "ˈbjutəfəl ˈflaʊər ˈɡɑrdənz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/beautiful%20flower%20gardens.mp3"
     },
     {
         "id": "62",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%9B%9B_ahrcsk.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/breathtaking-mountain-landscapes.jpg",
         "character": "breathtaking mountain landscapes",
-        "meaning": "Four",
-        "pinyin": "sì",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673256/%E5%9B%9B_f14l1u.mp3"
+        "meaning": "phong cảnh núi non ngoạn mục",
+        "pinyin": "ˈbrɛθˌteɪkɪŋ ˈmaʊntən ˈlændˌskeɪps",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/breathtaking%20mountain%20landscapes.mp3"
     },
     {
         "id": "63",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%93%AA%E5%84%BF_vorrd2.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/ethnic-minority-culture.jpg",
         "character": "ethnic minority culture",
-        "meaning": "Where",
-        "pinyin": "nǎr",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673253/%E5%93%AA%E5%84%BF_peovii.mp3"
+        "meaning": "văn hóa dân tộc thiểu số",
+        "pinyin": "ˈɛθnɪk maɪˈnɔrəti ˈkʌlʧər",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/ethnic%20minority%20culture.mp3"
     },
     {
         "id": "64",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672831/%E9%82%A3%E5%84%BF_jiqua1.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/rich-culture.jpg",
         "character": "rich culture",
-        "meaning": "There",
-        "pinyin": "nàr",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673355/%E9%82%A3%E5%84%BF_tmvhxj.mp3"
+        "meaning": "văn hóa phong phú",
+        "pinyin": "rɪʧ ˈkʌlʧər",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/rich%20culture.mp3"
     },
     {
         "id": "65",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%88%91_zxd8tf.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/bustling-street-food-scene.jpg",
         "character": "The street food",
-        "meaning": "I; me",
-        "pinyin": "wǒ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673289/%E6%88%91_mcexui.mp3"
+        "meaning": "đồ ăn đường phố",
+        "pinyin": "ðə strit fud",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20street%20food.mp3"
     },
     {
         "id": "66",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672815/%E5%9B%9E_hwrdue.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/well-preserved-ancient-houses.jpg",
         "character": "The charm of the Old Quarter",
-        "meaning": "to go back to",
-        "pinyin": "huí",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673257/%E5%9B%9E_osv0va.mp3"
+        "meaning": "sự quyến rũ của Phố Cổ",
+        "pinyin": "ðə ʧɑrm ʌv ði oʊld ˈkwɔrtər",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20charm%20of%20the%20old%20quarter.mp3"
     },
     {
         "id": "67",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672817/%E5%AD%A6%E6%A0%A1_efvsfl.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/The-vibrant-nightlife.jpeg",
         "character": "The vibrant nightlife",
-        "meaning": "School",
-        "pinyin": "xuéxiào",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673273/%E5%AD%A6%E6%A0%A1_dynqtx.mp3"
+        "meaning": "cuộc sống về đêm sôi động",
+        "pinyin": "ðə ˈvaɪbrənt ˈnaɪtˌlaɪf",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20vibrant%20nightlife.mp3"
     },
     {
         "id": "68",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672811/%E5%86%8D%E8%A7%81_yf8qp5.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/The-charming-riverside-scenery.jpg",
         "character": "The charming riverside scenery",
-        "meaning": "Goodbye",
-        "pinyin": "zàijiàn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673236/%E5%86%8D%E8%A7%81_vmcsdu.mp3"
+        "meaning": "phong cảnh ven sông quyến rũ",
+        "pinyin": "ðə ˈʧɑrmɪŋ ˈrɪvərˌsaɪd ˈsinəri",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20charming%20riverside%20scenery.mp3"
     },
     {
         "id": "69",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672818/%E5%AF%B9%E4%B8%8D%E8%B5%B7-%E6%B2%A1%E5%85%B3%E7%B3%BB_xwqhtn.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/The%20incredible%20beauty%20of%20the%20national%20parks.jpg",
         "character": "The incredible beauty of the national parks",
-        "meaning": "I'm sorry; Excuse me",
-        "pinyin": "duì bu qǐ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673279/%E5%AF%B9%E4%B8%8D%E8%B5%B7_yemi5c.mp3"
+        "meaning": "vẻ đẹp đáng kinh ngạc của các công viên quốc gia",
+        "pinyin": "ði ɪnˈkrɛdəbəl ˈbjuti ʌv ðə ˈnæʃənəl pɑrks",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20incredible%20beauty%20of%20the%20national%20parks.mp3"
     },
     {
         "id": "70",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672818/%E5%AF%B9%E4%B8%8D%E8%B5%B7-%E6%B2%A1%E5%85%B3%E7%B3%BB_xwqhtn.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/The-vibrant-nightlife.jpeg",
         "character": "The youthful energy and continuous development",
-        "meaning": "Male",
-        "pinyin": "méi guānxi",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673316/%E6%B2%A1%E5%85%B3%E7%B3%BB_xnvmzt.mp3"
+        "meaning": "năng lượng trẻ trung và phát triển liên tục",
+        "pinyin": "ðə ˈjuθfəl ˈɛnərʤi ænd kənˈtɪnjuəs dɪˈvɛləpmənt",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20youthful%20energy%20and%20continuous%20development.mp3"
     },
     {
         "id": "71",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E8%BF%99_cwz8nm.png",
-        "character": "The fresh seafood and peaceful beaches",
-        "meaning": "This",
-        "pinyin": "zhè",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673349/%E8%BF%99_oz7twd.mp3"
+        "imageSrc": "",
+        "character": "something I really love",
+        "meaning": "something that I really love - lược bỏ that",
+        "pinyin": "ˈsʌmθɪŋ aɪ ˈrɪli lʌv",
+        "audioSrc": ""
     },
     {
         "id": "72",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%AF_x3pk8j.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/The%20fresh%20air%20and%20romantic%20scenery.jpg",
         "character": "The fresh air and romantic scenery",
-        "meaning": "to be - am, are, is...",
-        "pinyin": "shì",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673309/%E6%98%AF_nuysgd.mp3"
+        "meaning": "không khí trong lành và quang cảnh lãng mạn",
+        "pinyin": "ðə frɛʃ ɛr ænd roʊˈmæntɪk ˈsinəri",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20fresh%20air%20and%20romantic%20scenery.mp3"
     },
     {
         "id": "73",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%80%81%E5%B8%88_yp4q3u.png",
+        "imageSrc": "https://storage.googleapis.com/script60s/IMAGES/Cau%202/The%20terraced%20rice%20fields.jpg",
         "character": "The terraced rice fields",
-        "meaning": "Teacher",
-        "pinyin": "lǎoshī",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673331/%E8%80%81%E5%B8%88_uml35p.mp3"
+        "meaning": "những đồng ruộng bậc thang",
+        "pinyin": "ðə ˈtɛrəst raɪs fildz",
+        "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%202/the%20terraced%20rice%20fields.mp3"
     },
     {
         "id": "74",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%82%A8_ndcupj.png",
+        "imageSrc": "",
         "character": "known for",
-        "meaning": "You - honorific",
-        "pinyin": "nín",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673288/%E6%82%A8_p8k1sj.mp3"
+        "meaning": "which is known for - lược bỏ which is",
+        "pinyin": "noʊn fɔr",
+        "audioSrc": ""
     },
     {
         "id": "75",
