@@ -345,104 +345,104 @@
     },
     {
         "id": "44",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672831/%E9%92%B1_pvd2bg.png",
-        "character": "钱",
-        "meaning": "Money",
+        "imageSrc": "",
+        "character": "country",
+        "meaning": "đất nước",
         "pinyin": "qián",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673359/%E9%92%B1_fwinoj.mp3"
+        "audioSrc": ""
     },
     {
         "id": "45",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672811/%E5%85%AD_ofkopd.png",
-        "character": "六",
-        "meaning": "Six",
+        "imageSrc": "",
+        "character": "city",
+        "meaning": "thành phố",
         "pinyin": "liù",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673234/%E5%85%AD_hlbdqd.mp3"
+        "audioSrc": ""
     },
     {
         "id": "46",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672807/%E4%B8%83_nznfhk.png",
-        "character": "七",
-        "meaning": "Seven",
+        "imageSrc": "",
+        "character": "village",
+        "meaning": "làng quê",
         "pinyin": "qī",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673153/%E4%B8%83_msyi6a.mp3"
+        "audioSrc": ""
     },
     {
         "id": "47",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B9%9D_wol8fi.png",
-        "character": "九",
-        "meaning": "Nine",
+        "imageSrc": "",
+        "character": "town",
+        "meaning": "thị trấn",
         "pinyin": "jiǔ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673162/%E4%B9%9D_hvhtri.mp3"
+        "audioSrc": ""
     },
     {
         "id": "48",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672810/%E4%BB%8A%E5%A4%A9_tknqeo.png",
-        "character": "今天",
+        "imageSrc": "",
+        "character": "place",
         "meaning": "Today",
         "pinyin": "jīntiān",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673170/%E4%BB%8A%E5%A4%A9_zjnvdz.mp3"
+        "audioSrc": ""
     },
     {
         "id": "49",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672815/%E5%A4%A9_f0dh1g.png",
-        "character": "天",
+        "imageSrc": "",
+        "character": "island",
         "meaning": "Day",
         "pinyin": "tiān",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673262/%E5%A4%A9_yxd26w.mp3"
+        "audioSrc": ""
     },
     {
         "id": "50",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%A8%E5%A4%A9_btweuk.png",
-        "character": "昨天",
-        "meaning": "Yesterday",
+        "imageSrc": "",
+        "character": "ancient temples",
+        "meaning": "những ngôi chùa cổ",
         "pinyin": "zuótiān",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673308/%E6%98%A8%E5%A4%A9_r6p7h0.mp3"
     },
     {
         "id": "51",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672821/%E6%98%9F%E6%9C%9F_llj8un.png",
-        "character": "星期",
-        "meaning": "Week",
+        "imageSrc": "",
+        "character": "bustling street food scene",
+        "meaning": "canh",
         "pinyin": "xīngqī",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673298/%E6%98%9F%E6%9C%9F_nmkwcs.mp3"
+        "audioSrc": ""
     },
     {
         "id": "52",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672822/%E6%98%9F%E6%9C%9F%E4%B8%80_b9revh.png",
-        "character": "星期一",
+        "imageSrc": "",
+        "character": "dynamic energy",
         "meaning": "Monday",
         "pinyin": "xīngqīyī",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673300/%E6%98%9F%E6%9C%9F%E4%B8%80_hrtfkt.mp3"
     },
     {
         "id": "53",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%9F%E6%9C%9F%E5%9B%9B_ttpomq.png",
-        "character": "星期二",
+        "imageSrc": "",
+        "character": "modern skyscrapers",
         "meaning": "Tuesday",
         "pinyin": "xīngqī’èr",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673302/%E6%98%9F%E6%9C%9F%E4%BA%8C_sc50y5.mp3"
     },
     {
         "id": "54",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672822/%E6%98%9F%E6%9C%9F%E4%B8%89_cgstlz.png",
-        "character": "星期三",
+        "imageSrc": "",
+        "character": "well-preserved ancient houses",
         "meaning": "Wednesday",
         "pinyin": "xīngqīsān",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673301/%E6%98%9F%E6%9C%9F%E4%B8%89_jw2tzj.mp3"
     },
     {
         "id": "55",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%9F%E6%9C%9F%E5%9B%9B_ttpomq.png",
-        "character": "星期四",
+        "imageSrc": "",
+        "character": "rich biodiversity",
         "meaning": "Thursday",
         "pinyin": "xīngqīsì",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673305/%E6%98%9F%E6%9C%9F%E5%9B%9B_xt3r4h.mp3"
     },
     {
         "id": "56",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672822/%E6%98%9F%E6%9C%9F%E4%BA%94_qdqy6n.png",
-        "character": "星期五",
+        "imageSrc": "",
+        "character": "beautiful beaches",
         "meaning": "Friday",
         "pinyin": "xīngqīwǔ",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673303/%E6%98%9F%E6%9C%9F%E4%BA%94_kl2ml0.mp3"
@@ -450,7 +450,7 @@
     {
         "id": "57",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672822/%E6%98%9F%E6%9C%9F%E5%85%AD_pnecg3.png",
-        "character": "星期六",
+        "character": "delicious seafood",
         "meaning": "Saturday",
         "pinyin": "xīngqīliù",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673304/%E6%98%9F%E6%9C%9F%E5%85%AD_e03xsw.mp3"
@@ -458,7 +458,7 @@
     {
         "id": "58",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%9F%E6%9C%9F%E5%A4%A9_ryx2oq.png",
-        "character": "星期天",
+        "character": "stunning coastlines",
         "meaning": "Sunday",
         "pinyin": "xīngqītiān",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673306/%E6%98%9F%E6%9C%9F%E5%A4%A9_w9np9o.mp3"
@@ -466,7 +466,7 @@
     {
         "id": "59",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672812/%E5%87%A0_kmdsuv.png",
-        "character": "几",
+        "character": "historical sites",
         "meaning": "How many; what; several",
         "pinyin": "jǐ",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673237/%E5%87%A0_pakgmj.mp3"
@@ -474,7 +474,7 @@
     {
         "id": "60",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672809/%E4%BA%8C_zh0dlf.png",
-        "character": "二",
+        "character": "cool climate",
         "meaning": "Two",
         "pinyin": "èr",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673164/%E4%BA%8C_nvoe5j.mp3"
@@ -482,7 +482,7 @@
     {
         "id": "61",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%89_gylkny.png",
-        "character": "三",
+        "character": "beautiful flower gardens",
         "meaning": "Three",
         "pinyin": "sān",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673154/%E4%B8%89_dx0o9r.mp3"
@@ -490,7 +490,7 @@
     {
         "id": "62",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%9B%9B_ahrcsk.png",
-        "character": "四",
+        "character": "breathtaking mountain landscapes",
         "meaning": "Four",
         "pinyin": "sì",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673256/%E5%9B%9B_f14l1u.mp3"
@@ -498,7 +498,7 @@
     {
         "id": "63",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%93%AA%E5%84%BF_vorrd2.png",
-        "character": "哪儿",
+        "character": "ethnic minority culture",
         "meaning": "Where",
         "pinyin": "nǎr",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673253/%E5%93%AA%E5%84%BF_peovii.mp3"
@@ -506,7 +506,7 @@
     {
         "id": "64",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672831/%E9%82%A3%E5%84%BF_jiqua1.png",
-        "character": "那儿",
+        "character": "rich culture",
         "meaning": "There",
         "pinyin": "nàr",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673355/%E9%82%A3%E5%84%BF_tmvhxj.mp3"
@@ -514,7 +514,7 @@
     {
         "id": "65",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%88%91_zxd8tf.png",
-        "character": "我",
+        "character": "The street food",
         "meaning": "I; me",
         "pinyin": "wǒ",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673289/%E6%88%91_mcexui.mp3"
@@ -522,7 +522,7 @@
     {
         "id": "66",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672815/%E5%9B%9E_hwrdue.png",
-        "character": "回",
+        "character": "The charm of the Old Quarter",
         "meaning": "to go back to",
         "pinyin": "huí",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673257/%E5%9B%9E_osv0va.mp3"
@@ -530,7 +530,7 @@
     {
         "id": "67",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672817/%E5%AD%A6%E6%A0%A1_efvsfl.png",
-        "character": "学校",
+        "character": "The vibrant nightlight",
         "meaning": "School",
         "pinyin": "xuéxiào",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673273/%E5%AD%A6%E6%A0%A1_dynqtx.mp3"
@@ -538,7 +538,7 @@
     {
         "id": "68",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672811/%E5%86%8D%E8%A7%81_yf8qp5.png",
-        "character": "再见",
+        "character": "The charming riverside scenery",
         "meaning": "Goodbye",
         "pinyin": "zàijiàn",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673236/%E5%86%8D%E8%A7%81_vmcsdu.mp3"
@@ -546,7 +546,7 @@
     {
         "id": "69",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672818/%E5%AF%B9%E4%B8%8D%E8%B5%B7-%E6%B2%A1%E5%85%B3%E7%B3%BB_xwqhtn.png",
-        "character": "对不起",
+        "character": "The peaceful beauty of the national parks",
         "meaning": "I'm sorry; Excuse me",
         "pinyin": "duì bu qǐ",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673279/%E5%AF%B9%E4%B8%8D%E8%B5%B7_yemi5c.mp3"
@@ -554,7 +554,7 @@
     {
         "id": "70",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672818/%E5%AF%B9%E4%B8%8D%E8%B5%B7-%E6%B2%A1%E5%85%B3%E7%B3%BB_xwqhtn.png",
-        "character": "没关系",
+        "character": "The youthful energy and continuous development",
         "meaning": "Male",
         "pinyin": "méi guānxi",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673316/%E6%B2%A1%E5%85%B3%E7%B3%BB_xnvmzt.mp3"
@@ -562,7 +562,7 @@
     {
         "id": "71",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E8%BF%99_cwz8nm.png",
-        "character": "这",
+        "character": "The fresh seafood and peaceful beaches",
         "meaning": "This",
         "pinyin": "zhè",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673349/%E8%BF%99_oz7twd.mp3"
@@ -570,7 +570,7 @@
     {
         "id": "72",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%98%AF_x3pk8j.png",
-        "character": "是",
+        "character": "The fresh air and romantic scenery",
         "meaning": "to be - am, are, is...",
         "pinyin": "shì",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673309/%E6%98%AF_nuysgd.mp3"
@@ -578,7 +578,7 @@
     {
         "id": "73",
         "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%80%81%E5%B8%88_yp4q3u.png",
-        "character": "老师",
+        "character": "The terraced rice fields",
         "meaning": "Teacher",
         "pinyin": "lǎoshī",
         "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673331/%E8%80%81%E5%B8%88_uml35p.mp3"
