@@ -75,7 +75,7 @@
         "id": 9,
         "user": "Example 1",
         "title": "I love horses because they are strong yet graceful, and they have a deep connection with humans.",
-        "segments": ["I love", " ", "horse", "s", " because they are", "strong", " ", "yet", " ", "graceful", ", ", "and they have", " ", "a deep connection with humans", "."],
+        "segments": ["I love", " ", "horse", "s", " because they are ", "strong", " ", "yet", " ", "graceful", ", ", "and they have", " ", "a deep connection with humans", "."],
         "highlight": ["horse", "strong", "graceful", "a deep connection with humans"],
         "description": "aɪ lʌv ˈhɔrsəz bɪˈkɔz ðeɪ ɑr strɔŋ jɛt ˈɡreɪsfəl, ænd ðeɪ hæv ə dip kəˈnɛkʃən wɪð ˈhjumənz.", 
         "audioSrc": ""
