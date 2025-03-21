@@ -593,475 +593,475 @@
     },
     {
         "id": "75",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672829/%E8%AF%B7_ow5lc2.gif",
-        "character": "something I really love",
-        "meaning": "Please",
-        "pinyin": "qǐng",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673343/%E8%AF%B7_gfbu7q.mp3"
+        "imageSrc": "",
+        "character": "cat",
+        "meaning": "a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice<br>một động vật nhỏ có lông, bốn chân, đuôi và móng vuốt, thường được giữ như vật nuôi hoặc để bắt chuột",
+        "pinyin": " /kæt/",
+        "audioSrc": ""
     },
     {
         "id": "76",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672831/%E8%BF%9B_yvpsep.png",
-        "character": "进",
-        "meaning": "to enter; to come in",
-        "pinyin": "jìn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673352/%E8%BF%9B_ldhyvd.mp3"
+        "imageSrc": "",
+        "character": "dog",
+        "meaning": "a common animal with four legs, especially kept by people as a pet or to hunt or guard things<br>một loài động vật phổ biến có bốn chân, đặc biệt được mọi người nuôi làm thú cưng hoặc để săn bắt hoặc bảo vệ đồ vật",
+        "pinyin": " /dɑːɡ/",
+        "audioSrc": ""
     },
     {
         "id": "77",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672815/%E5%9D%90_v3qgxh.png",
-        "character": "坐",
-        "meaning": "to sit",
-        "pinyin": "zuò",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673260/%E5%9D%90_of9mvo.mp3"
+        "imageSrc": "",
+        "character": "dolphin",
+        "meaning": "a sea mammal that is large, smooth, and grey, with a long, pointed mouth<br>một loài động vật có vú biển lớn, nhẵn và có màu xám, với cái miệng dài và nhọn",
+        "pinyin": "/ˈdɑːl.fɪn/",
+        "audioSrc": ""
     },
     {
         "id": "78",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%96%9D_ohxgv5.png",
-        "character": "喝",
-        "meaning": "to drink",
-        "pinyin": "hē",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673255/%E5%96%9D_d7eazr.mp3"
+        "imageSrc": "",
+        "character": "rabbit",
+        "meaning": "a small animal with long ears and large front teeth that moves by jumping on its long back legs<br>một loài động vật nhỏ có tai dài và răng cửa lớn di chuyển bằng cách nhảy trên đôi chân sau dài của nó",
+        "pinyin": "/ˈræb.ɪt/",
+        "audioSrc": ""
     },
     {
         "id": "79",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%8C%B6_wqnz2r.png",
-        "character": "茶",
-        "meaning": "Tea",
-        "pinyin": "chá",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673336/%E8%8C%B6_qjl60i.mp3"
+        "imageSrc": "",
+        "character": "horse",
+        "meaning": "a large animal with four legs that people ride on or use for carrying things or pulling vehicles<br>một loài động vật lớn có bốn chân mà con người cưỡi hoặc sử dụng để mang vác đồ vật hoặc kéo xe",
+        "pinyin": "/hɔːrs/",
+        "audioSrc": ""
     },
     {
         "id": "80",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672829/%E8%B0%A2%E8%B0%A2-%E4%B8%8D%E5%AE%A2%E6%B0%94_tztr7m.png",
-        "character": "谢谢",
-        "meaning": "to thank",
-        "pinyin": "xièxie",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673346/%E8%B0%A2%E8%B0%A2_ktl3xf.mp3"
+        "imageSrc": "",
+        "character": "parrot",
+        "meaning": "a tropical bird with a curved beak, often kept as a pet and trained to copy the human voice<br>một loài chim nhiệt đới có mỏ cong, thường được nuôi làm thú cưng và được huấn luyện để bắt chước giọng nói của con người",
+        "pinyin": " /ˈper.ət/",
+        "audioSrc": ""
     },
     {
         "id": "81",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672818/%E5%AE%A2%E6%B0%94_bafdxn.png",
-        "character": "客气",
-        "meaning": "Polite; courteous",
-        "pinyin": "kèqi",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673274/%E5%AE%A2%E6%B0%94_n00npd.mp3"
+        "imageSrc": "",
+        "character": "hamster",
+        "meaning": "a small animal covered in fur with a short tail and large spaces in each side of its mouth for storing food<br>một loài động vật nhỏ được bao phủ bởi lông với đuôi ngắn và không gian lớn ở mỗi bên miệng để lưu trữ thức ăn",
+        "pinyin": " /ˈhæm.stɚ/",
+        "audioSrc": ""
     },
     {
         "id": "82",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672818/%E5%B7%A5%E4%BD%9C_vym8um.png",
-        "character": "工作",
-        "meaning": "Work; to work",
-        "pinyin": "gōngzuò",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673280/%E5%B7%A5%E4%BD%9C_dhayvb.mp3"
+        "imageSrc": "",
+        "character": "turtle",
+        "meaning": "a reptile that lives in the sea and has a thick shell covering its body<br>một loài bò sát sống dưới biển và có lớp vỏ dày bao phủ cơ thể",
+        "pinyin": "/ˈtɝː.t̬əl/",
+        "audioSrc": ""
     },
     {
         "id": "83",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E8%BA%AB%E4%BD%93_gyl84l.png",
-        "character": "身体",
-        "meaning": "Health; body",
-        "pinyin": "shēntǐ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673348/%E8%BA%AB%E4%BD%93_psl9ep.mp3"
+        "imageSrc": "",
+        "character": "fish",
+        "meaning": "an animal that lives in water, is covered with scales, and breathes by taking water in through its mouth<br>một loài động vật sống dưới nước, được bao phủ bởi vảy và thở bằng cách lấy nước qua miệng",
+        "pinyin": "/fɪʃ/",
+        "audioSrc": ""
     },
     {
         "id": "84",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672812/%E5%8D%81_esobvq.png",
-        "character": "十",
-        "meaning": "Ten",
-        "pinyin": "shí",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673240/%E5%8D%81_rc0f0d.mp3"
+        "imageSrc": "",
+        "character": "guinea pig",
+        "meaning": "a small animal covered in fur with rounded ears, short legs, and no tail<br>một con vật nhỏ được bao phủ bởi lông với đôi tai tròn, chân ngắn và không có đuôi",
+        "pinyin": " /ˈɡɪn.i ˌpɪɡ/",
+        "audioSrc": ""
     },
     {
         "id": "85",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%97%A5_azc7sw.png",
-        "character": "日",
-        "meaning": "Sun; day",
-        "pinyin": "rì",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673292/%E6%97%A5_hlr1cn.mp3"
+        "imageSrc": "",
+        "character": "loyal",
+        "meaning": "firm and not changing in your friendship with or support for a person or an organization, or in your belief in your principles<br>kiên định và không thay đổi trong tình bạn hoặc sự ủng hộ của bạn đối với một người hoặc một tổ chức, hoặc trong niềm tin của bạn vào các nguyên tắc của mình",
+        "pinyin": "/ˈlɔɪ.əl/",
+        "audioSrc": ""
     },
     {
         "id": "86",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672825/%E7%8E%8B_srbudo.png",
-        "character": "王",
-        "meaning": "Wang - a family name of Chinese",
-        "pinyin": "Wáng",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673321/%E7%8E%8B_q6phj3.mp3"
+        "imageSrc": "",
+        "character": "playful",
+        "meaning": "funny and not serious<br>buồn cười và không nghiêm túc",
+        "pinyin": " /ˈpleɪ.fəl/",
+        "audioSrc": ""
     },
     {
         "id": "87",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672829/%E8%AF%B7%E9%97%AE_o1exei.gif",
-        "character": "请问",
-        "meaning": "Excuse me",
-        "pinyin": "qǐngwèn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673344/%E8%AF%B7%E9%97%AE_xlo4e6.mp3"
+        "imageSrc": "",
+        "character": "independent",
+        "meaning": "not influenced or controlled in any way by other people, events, or things<br>không bị ảnh hưởng hoặc kiểm soát theo bất kỳ cách nào bởi người khác, sự kiện hoặc sự vật khác",
+        "pinyin": " /ˌɪn.dɪˈpen.dənt/",
+        "audioSrc": ""
     },
     {
         "id": "88",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672832/%E9%97%AE_dtqubo.png",
-        "character": "问",
-        "meaning": "to ask; to enquire",
-        "pinyin": "wèn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673361/%E9%97%AE_sq4hfp.mp3"
+        "imageSrc": "",
+        "character": "affectionate",
+        "meaning": "showing feelings of liking or love<br>thể hiện cảm xúc thích hoặc yêu",
+        "pinyin": "/əˈfek.ʃən.ət/",
+        "audioSrc": ""
     },
     {
         "id": "89",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E8%B4%B5%E5%A7%93_pve03x.png",
-        "character": "贵姓",
-        "meaning": "May I know your name?",
-        "pinyin": "guìxìng",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673347/%E8%B4%B5%E5%A7%93_z9hejd.mp3"
+        "imageSrc": "",
+        "character": "quiet",
+        "meaning": "making very little noise<br>tạo ra rất ít tiếng ồn",
+        "pinyin": " /ˈkwaɪ.ət/",
+        "audioSrc": ""
     },
     {
         "id": "90",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672817/%E5%A7%93_ekh31y.png",
-        "character": "姓",
-        "meaning": "Family name",
-        "pinyin": "xìng",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673270/%E5%A7%93_if5dig.mp3"
+        "imageSrc": "",
+        "character": "energetic",
+        "meaning": "having or involving a lot of energy<br>có hoặc liên quan đến nhiều năng lượng",
+        "pinyin": " /ˌen.ɚˈdʒet̬.ɪk/",
+        "audioSrc": ""
     },
     {
         "id": "91",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672813/%E5%8F%AB_bg2tz1.png",
-        "character": "叫",
-        "meaning": "to call; to name",
-        "pinyin": "jiào",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673246/%E5%8F%AB_oxmi4q.mp3"
+        "imageSrc": "",
+        "character": "tiny",
+        "meaning": "extremely small<br>cực kỳ nhỏ",
+        "pinyin": " /ˈtaɪ.ni/",
+        "audioSrc": ""
     },
     {
         "id": "92",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%90%8D%E5%AD%97_lij4yw.gif",
-        "character": "名字",
-        "meaning": "Name",
-        "pinyin": "míngzi",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673248/%E5%90%8D%E5%AD%97_nmd07q.mp3"
+        "imageSrc": "",
+        "character": "mesmerizing",
+        "meaning": "very attractive, in a mysterious way, making you want to keep looking<br>rất hấp dẫn, theo một cách bí ẩn, khiến bạn muốn tiếp tục nhìn",
+        "pinyin": "/ˈmez.mə.raɪ.zɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "93",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%93%AA_j3bq2j.png",
-        "character": "哪",
-        "meaning": "Which; where",
-        "pinyin": "nǎ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673252/%E5%93%AA_nab18b.mp3"
+        "imageSrc": "",
+        "character": "strong",
+        "meaning": "powerful; having or using great force or control<br>mạnh mẽ; có hoặc sử dụng sức mạnh hoặc khả năng kiểm soát lớn",
+        "pinyin": " /strɑːŋ/",
+        "audioSrc": ""
     },
     {
         "id": "94",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672815/%E5%9B%BD_fca15m.png",
-        "character": "国",
-        "meaning": "Country; Nationality",
-        "pinyin": "guó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673258/%E5%9B%BD_eqmzlt.mp3"
+        "imageSrc": "",
+        "character": "graceful",
+        "meaning": "behaving in a polite and pleasant way<br>cư xử một cách lịch sự và dễ chịu",
+        "pinyin": " /ˈɡreɪs.fəl/",
+        "audioSrc": ""
     },
     {
         "id": "95",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%AD%E5%9B%BD_epnq01.png",
-        "character": "中国",
-        "meaning": "China",
-        "pinyin": "zhōngguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673160/%E4%B8%AD%E5%9B%BD_ipqsgt.mp3"
+        "imageSrc": "",
+        "character": "intelligent",
+        "meaning": "showing intelligence, or able to learn and understand things easily<br>thể hiện sự thông minh, hoặc có khả năng học và hiểu mọi thứ một cách dễ dàng",
+        "pinyin": " /ɪnˈtel.ə.dʒənt/",
+        "audioSrc": ""
     },
     {
         "id": "96",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672819/%E5%BE%B7%E5%9B%BD_f2kloi.png",
-        "character": "德国",
-        "meaning": "Germany",
-        "pinyin": "déguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673283/%E5%BE%B7%E5%9B%BD_h3cg2y.mp3"
+        "imageSrc": "",
+        "character": "mischievous",
+        "meaning": "behaving in a way, or describing behaviour, that is slightly bad but is not intended to cause serious harm or damage<br>hành xử theo cách hoặc mô tả hành vi hơi tệ nhưng không nhằm mục đích gây ra tổn hại hoặc thiệt hại nghiêm trọng",
+        "pinyin": "/ˈmɪs.tʃə.vəs/",
+        "audioSrc": ""
     },
     {
         "id": "97",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672810/%E4%BF%84%E5%9B%BD_m560gt.png",
-        "character": "俄国",
-        "meaning": "Russia",
-        "pinyin": "éguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673175/%E4%BF%84%E5%9B%BD_nq1p9a.mp3"
+        "imageSrc": "",
+        "character": "small",
+        "meaning": "little in size or amount when compared with what is typical or average<br>nhỏ về kích thước hoặc số lượng khi so sánh với những gì điển hình hoặc trung bình nhỏ",
+        "pinyin": " /smɑːl/",
+        "audioSrc": ""
     },
     {
         "id": "98",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672824/%E6%B3%95%E5%9B%BD_wpez7g.png",
-        "character": "法国",
-        "meaning": "France",
-        "pinyin": "fǎguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673317/%E6%B3%95%E5%9B%BD_aka8fv.mp3"
+        "imageSrc": "",
+        "character": "social",
+        "meaning": "relating to activities in which you meet and spend time with other people and that happen during the time when you are not working<br>liên quan đến các hoạt động mà bạn gặp gỡ và dành thời gian với người khác và diễn ra trong thời gian bạn không làm việc",
+        "pinyin": " /ˈsoʊ.ʃəl/",
+        "audioSrc": ""
     },
     {
         "id": "99",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672833/%E9%9F%A9%E5%9B%BD_ravgae.png",
-        "character": "韩国",
-        "meaning": "The Republic of Korea",
-        "pinyin": "hánguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673367/%E9%9F%A9%E5%9B%BD_quq0m3.mp3"
+        "imageSrc": "",
+        "character": "talkative",
+        "meaning": "talking a lot<br>nói rất nhiều",
+        "pinyin": " /ˈtɑː.kə.t̬ɪv/",
+        "audioSrc": ""
     },
     {
         "id": "100",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672826/%E7%BE%8E%E5%9B%BD_peyubm.png",
-        "character": "美国",
-        "meaning": "The United States",
-        "pinyin": "měiguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673330/%E7%BE%8E%E5%9B%BD_mgdfdf.mp3"
+        "imageSrc": "",
+        "character": "curious",
+        "meaning": "interested in learning about people or things around you<br>thích tìm hiểu về mọi người hoặc mọi thứ xung quanh bạn",
+        "pinyin": " /ˈkjʊr.i.əs/",
+        "audioSrc": ""
     },
     {
         "id": "101",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672821/%E6%97%A5%E6%9C%AC%E5%9B%BD_crvnbx.png",
-        "character": "日本国",
-        "meaning": "Japan",
-        "pinyin": "rìběn guó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673295/%E6%97%A5%E6%9C%AC%E5%9B%BD_iqb7fq.mp3"
+        "imageSrc": "",
+        "character": "free-spitited",
+        "meaning": "doing what you want with enjoyment and pleasure, and not feeling limited by the usual rules of social behaviour<br>làm những gì bạn muốn với sự thích thú và vui vẻ, và không cảm thấy bị giới hạn bởi các quy tắc ứng xử xã hội thông thường",
+        "pinyin": " /ˌfriːˈspɪr.ɪ.t̬ɪd/",
+        "audioSrc": ""
     },
     {
         "id": "102",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%8B%B1%E5%9B%BD_kaenob.png",
-        "character": "英国",
-        "meaning": "Britain",
-        "pinyin": "yīngguó",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673332/%E8%8B%B1%E5%9B%BD_kqvgfq.mp3"
+        "imageSrc": "",
+        "character": "a strong bond with humans",
+        "meaning": "mối liên kết chặt chẽ với con người",
+        "pinyin": "ə strɔŋ bɑnd wɪð ˈhjumənz",
+        "audioSrc": ""
     },
     {
         "id": "103",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672809/%E4%BA%BA_kgwvki.png",
-        "character": "人",
-        "meaning": "Human being; man or women",
+        "imageSrc": "",
+        "character": "a mysterious charm",
+        "meaning": "ə mɪsˈtɪriəs ʧɑrm",
         "pinyin": "rén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673168/%E4%BA%BA_nfa4gl.mp3"
+        "audioSrc": ""
     },
     {
         "id": "104",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672817/%E5%AD%A6%E4%B9%A0_tvsnpv.png",
-        "character": "学习",
-        "meaning": "to study; to learn",
-        "pinyin": "xuéxí",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673272/%E5%AD%A6%E4%B9%A0_zn9smo.mp3"
+        "imageSrc": "",
+        "character": "a strong sense of teamwork",
+        "meaning": "một tinh thần đồng đội mạnh mẽ",
+        "pinyin": "ə strɔŋ sɛns ʌv ˈtimˌwɜrk",
+        "audioSrc": ""
     },
     {
         "id": "105",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672824/%E6%B1%89%E5%AD%97_zqikwg.png",
-        "character": "汉字",
-        "meaning": "Chinese characters",
-        "pinyin": "hànzì",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673312/%E6%B1%89%E5%AD%97_ix9xku.mp3"
+        "imageSrc": "",
+        "character": "deep family bonds",
+        "meaning": "mối liên kết gia đình sâu sắc",
+        "pinyin": "dip ˈfæməli bɑndz",
+        "audioSrc": ""
     },
     {
         "id": "106",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672812/%E5%8F%91%E9%9F%B3_ov2vxu.png",
-        "character": "发音",
-        "meaning": "Pronunciation; pronounce",
-        "pinyin": "fāyīn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673242/%E5%8F%91%E9%9F%B3_mvaakh.mp3"
+        "imageSrc": "",
+        "character": "soft, fluffy fur",
+        "meaning": "bộ lông mềm mại, mịn màng",
+        "pinyin": "sɑft, ˈflʌfi fɜr",
+        "audioSrc": ""
     },
     {
         "id": "107",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672810/%E4%BB%80%E4%B9%88_uvncji.png",
+        "imageSrc": "",
         "character": "什么",
         "meaning": "What",
         "pinyin": "shénme",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673169/%E4%BB%80%E4%B9%88_h6o9d2.mp3"
+        "audioSrc": ""
     },
     {
         "id": "108",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672809/%E4%B9%A6_f3edw3.png",
-        "character": "书",
-        "meaning": "Book",
-        "pinyin": "shū",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673163/%E4%B9%A6_jjihr5.mp3"
+        "imageSrc": "",
+        "character": "a deep connection with humans",
+        "meaning": "một mối liên kết sâu sắc với con người",
+        "pinyin": "ə dip kəˈnɛkʃən wɪð ˈhjumənz",
+        "audioSrc": ""
     },
     {
         "id": "109",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E8%B0%81_o4ejhr.gif",
-        "character": "谁",
-        "meaning": "Who",
-        "pinyin": "shéi/shuí",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673345/%E8%B0%81_ueab1g.mp3"
+        "imageSrc": "",
+        "character": "the ability to mimic sounds",
+        "meaning": "khả năng bắt chước âm thanh",
+        "pinyin": "ði əˈbɪləti tu ˈmɪmɪk saʊndz",
+        "audioSrc": ""
     },
     {
         "id": "110",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672826/%E7%9A%84_ngnlln.png",
-        "character": "的",
-        "meaning": "a particle used after an attribute to indicate possession",
-        "pinyin": "de",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673325/%E7%9A%84_ksdvbh.mp3"
+        "imageSrc": "",
+        "character": "adorable little paws",
+        "meaning": "bàn chân nhỏ đáng yêu",
+        "pinyin": "əˈdɔrəbəl ˈlɪtəl pɔz",
+        "audioSrc": ""
     },
     {
         "id": "111",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E9%82%A3_ffjyo1.png",
-        "character": "那",
-        "meaning": "that",
-        "pinyin": "nà",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673353/%E9%82%A3_x4avs7.mp3"
+        "imageSrc": "",
+        "character": "a long lifespan",
+        "meaning": "tuổi thọ cao",
+        "pinyin": "ə lɔŋ ˈlaɪfˌspæn",
+        "audioSrc": ""
     },
     {
         "id": "112",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672824/%E6%9D%82%E5%BF%97_adnplb.png",
-        "character": "杂志",
-        "meaning": "Magazine",
-        "pinyin": "zázhì",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673311/%E6%9D%82%E5%BF%97_axn4uh.mp3"
+        "imageSrc": "",
+        "character": "beautiful colors",
+        "meaning": "màu sắc đẹp",
+        "pinyin": "ˈbjutəfəl ˈkʌlərz",
+        "audioSrc": ""
     },
     {
         "id": "113",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672820/%E6%96%87_ajzklx.png",
-        "character": "文",
-        "meaning": "Language",
-        "pinyin": "wén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673290/%E6%96%87_hni4qd.mp3"
+        "imageSrc": "",
+        "character": "cute little squeaks",
+        "meaning": "tiếng kêu nhỏ dễ thương",
+        "pinyin": "kjut ˈlɪtəl skwiks",
+        "audioSrc": ""
     },
     {
         "id": "114",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%AD%E6%96%87_ceposq.png",
-        "character": "中文",
-        "meaning": "Chinese",
-        "pinyin": "zhōngwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673161/%E4%B8%AD%E6%96%87_vbkj3r.mp3"
+        "imageSrc": "",
+        "character": "especially",
+        "meaning": "very much; more than usual or more than other people or things<br>rất nhiều; nhiều hơn bình thường hoặc nhiều hơn những người hoặc vật khác",
+        "pinyin": " /ɪˈspeʃ.əl.i/",
+        "audioSrc": ""
     },
     {
         "id": "115",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672832/%E9%98%BF%E6%8B%89%E4%BC%AF%E6%96%87_zso60r.png",
-        "character": "阿拉伯文",
-        "meaning": "Arabic",
-        "pinyin": "ālābówén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673362/%E9%98%BF%E6%8B%89%E4%BC%AF%E6%96%87_fhvj7f.mp3"
+        "imageSrc": "",
+        "character": "really",
+        "meaning": "very or very much - rất hoặc rất nhiều<br>used to say that something is certain - được dùng để nói rằng cái gì đó là chắc chắn",
+        "pinyin": " /ˈriː.ə.li/",
+        "audioSrc": ""
     },
     {
         "id": "116",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672819/%E5%BE%B7%E6%96%87_raeko0.png",
-        "character": "德文",
-        "meaning": "German",
-        "pinyin": "déwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673285/%E5%BE%B7%E6%96%87_pwvu91.mp3"
+        "imageSrc": "",
+        "character": "comforting",
+        "meaning": "making you feel less sad or worried<br>làm cho bạn cảm thấy bớt buồn hoặc lo lắng hơn",
+        "pinyin": "/ˈkʌm.fɚ.t̬ɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "117",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672811/%E4%BF%84%E6%96%87_mkwnvb.png",
-        "character": "俄文",
-        "meaning": "Russian",
-        "pinyin": "éwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673176/%E4%BF%84%E6%96%87_ueoqts.mp3"
+        "imageSrc": "",
+        "character": "joyful",
+        "meaning": "very happy<br>vô cùng hạnh phúc",
+        "pinyin": "/ˈdʒɔɪ.fəl/",
+        "audioSrc": ""
     },
     {
         "id": "118",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672824/%E6%B3%95%E6%96%87_dlrex7.png",
-        "character": "法文",
-        "meaning": "French",
-        "pinyin": "fǎwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673318/%E6%B3%95%E6%96%87_xiu1qb.mp3"
+        "imageSrc": "",
+        "character": "fun",
+        "meaning": "(n) pleasure, enjoyment, or entertainment - niềm vui, sự thích thú hoặc giải trí<br>(adj) giving pleasure, especially because of being not at all serious - mang lại niềm vui, đặc biệt là vì không hề nghiêm túc",
+        "pinyin": "/fʌn/",
+        "audioSrc": ""
     },
     {
         "id": "119",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672833/%E9%9F%A9%E6%96%87_ipmlxt.png",
-        "character": "韩文",
-        "meaning": "Korean",
-        "pinyin": "hánwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673369/%E9%9F%A9%E6%96%87_txl2bn.mp3"
+        "imageSrc": "",
+        "character": "relaxing",
+        "meaning": "making you feel relaxed<br>khiến bạn cảm thấy thư giãn",
+        "pinyin": " /rɪˈlæk.sɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "120",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672821/%E6%97%A5%E6%96%87_lnpilr.png",
-        "character": "日文",
-        "meaning": "Japanese",
-        "pinyin": "rìwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673293/%E6%97%A5%E6%96%87_ohzinm.mp3"
+        "imageSrc": "",
+        "character": "exciting",
+        "meaning": "making you feel excited<br>khiến bạn cảm thấy hưng phấn",
+        "pinyin": "/ɪkˈsaɪ.t̬ɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "121",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672828/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87_oozqag.png",
-        "character": "西班牙文",
-        "meaning": "Spanish",
-        "pinyin": "xībānyáwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673338/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%87_v67ypk.mp3"
+        "imageSrc": "",
+        "character": "heartwarming",
+        "meaning": "seeming to be something positive and good and therefore causing feelings of pleasure and happiness<br>có vẻ như là điều gì đó tích cực và tốt đẹp và do đó gây ra cảm giác vui vẻ và hạnh phúc",
+        "pinyin": "/ˈhɑːrtˌwɔːr.mɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "122",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672827/%E8%8B%B1%E6%96%87_vr4hh3.png",
-        "character": "英文",
-        "meaning": "English",
-        "pinyin": "yīngwén",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673333/%E8%8B%B1%E6%96%87_kjsarw.mp3"
+        "imageSrc": "",
+        "character": "touching",
+        "meaning": "making you feel sadness, sympathy, etc.<br>khiến bạn cảm thấy buồn, thương cảm, v.v.",
+        "pinyin": " /ˈtʌtʃ.ɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "123",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672823/%E6%9C%8B%E5%8F%8B_pwkkse.png",
-        "character": "朋友",
-        "meaning": "Friend",
-        "pinyin": "péngyou",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673310/%E6%9C%8B%E5%8F%8B_r32byy.mp3"
+        "imageSrc": "",
+        "character": "inspiring",
+        "meaning": "encouraging, or making you feel you want to do something<br>khuyến khích hoặc khiến bạn cảm thấy muốn làm điều gì đó",
+        "pinyin": " /ɪnˈspaɪr.ɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "124",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%AD%E5%8D%88_x92kat.png",
-        "character": "中午",
-        "meaning": "Noon",
-        "pinyin": "zhōngwǔ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673159/%E4%B8%AD%E5%8D%88_vjz9te.mp3"
+        "imageSrc": "",
+        "character": "entertaining",
+        "meaning": "funny and enjoyable<br>vui nhộn và thú vị",
+        "pinyin": "/en.t̬ɚˈteɪ.nɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "125",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672813/%E5%90%83_vfypmt.gif",
-        "character": "吃",
-        "meaning": "to eat",
-        "pinyin": "chī",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673247/%E5%90%83_lqky04.mp3"
+        "imageSrc": "",
+        "character": "adorable",
+        "meaning": "used to describe someone or something that makes you love or like them, usually because they are attractive and often small<br>được dùng để mô tả ai đó hoặc vật gì đó khiến bạn yêu thích hoặc thích chúng, thường là vì chúng hấp dẫn và thường nhỏ",
+        "pinyin": " /əˈdɔːr.ə.bəl/",
+        "audioSrc": ""
     },
     {
         "id": "126",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672833/%E9%A5%AD_ynvdmn.png",
-        "character": "饭",
-        "meaning": "Meal",
-        "pinyin": "fàn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673371/%E9%A5%AD_vjqqou.mp3"
+        "imageSrc": "",
+        "character": "adventurous",
+        "meaning": "willing to try new or difficult things<br>sẵn sàng thử những điều mới mẻ hoặc khó khăn",
+        "pinyin": " /ədˈven.tʃɚ.əs/",
+        "audioSrc": ""
     },
     {
         "id": "127",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672833/%E9%A3%9F%E5%A0%82_tj4j26.png",
-        "character": "食堂",
-        "meaning": "Dining hall",
-        "pinyin": "shítáng",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673370/%E9%A3%9F%E5%A0%82_jbj2j2.mp3"
+        "imageSrc": "",
+        "character": "refreshing",
+        "meaning": "bringing new energy and strength in a pleasant and often unexpected way<br>mang lại năng lượng và sức mạnh mới theo cách dễ chịu và thường bất ngờ",
+        "pinyin": " /rɪˈfreʃ.ɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "128",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672834/%E9%A6%92%E5%A4%B4_k2pat0.png",
-        "character": "馒头",
-        "meaning": "Sweet steamed bun",
-        "pinyin": "mántou",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673373/%E9%A6%92%E5%A4%B4_dnbxzr.mp3"
+        "imageSrc": "",
+        "character": "amusing",
+        "meaning": "entertaining and funny<br>giải trí và hài hước",
+        "pinyin": " /əˈmjuː.zɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "129",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672826/%E7%B1%B3%E9%A5%AD_iujkxl.png",
-        "character": "米饭",
-        "meaning": "Steamed rice",
-        "pinyin": "mǐfàn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673329/%E7%B1%B3%E9%A5%AD_nkith6.mp3"
+        "imageSrc": "",
+        "character": "interactive",
+        "meaning": "involving communication between people or reactions between things that work together<br>bao gồm sự giao tiếp giữa mọi người hoặc phản ứng giữa những thứ hoạt động cùng nhau",
+        "pinyin": " /ˌɪn.t̬ɚˈræk.tɪv/",
+        "audioSrc": ""
     },
     {
         "id": "130",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672826/%E7%B1%B3_tltwva.png",
-        "character": "米",
-        "meaning": "Rice",
-        "pinyin": "mǐ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673327/%E7%B1%B3_lxyady.mp3"
+        "imageSrc": "",
+        "character": "soothing",
+        "meaning": "making you feel calm<br>làm cho bạn cảm thấy bình tĩnh",
+        "pinyin": "/ˈsuː.ðɪŋ/",
+        "audioSrc": ""
     },
     {
         "id": "131",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672828/%E8%A6%81_vrtzsu.png",
-        "character": "要",
-        "meaning": "to want; to desire",
-        "pinyin": "yào",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673340/%E8%A6%81_f8jhhk.mp3"
+        "imageSrc": "",
+        "character": "stress-relieving",
+        "meaning": "making stress less strong<br>giảm căng thẳng",
+        "pinyin": "strɛs-rɪˈlivɪŋ",
+        "audioSrc": ""
     },
     {
         "id": "132",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%AA_nr5pnu.png",
-        "character": "个",
-        "meaning": "a classifier basically used before nouns without a special classifier of their own",
-        "pinyin": "gè",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673157/%E4%B8%AA_fxjx7t.mp3"
+        "imageSrc": "",
+        "character": "enjoyable",
+        "meaning": "making you feel happy<br>làm cho bạn cảm thấy hạnh phúc",
+        "pinyin": " /ɪnˈdʒɔɪ.ə.bəl/",
+        "audioSrc": ""
     },
     {
         "id": "133",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672826/%E7%A2%97_fvrxoy.png",
-        "character": "碗",
-        "meaning": "Bowl",
-        "pinyin": "wǎn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673326/%E7%A2%97_mfsllx.mp3"
+        "imageSrc": "",
+        "character": "delightful",
+        "meaning": "very pleasant, attractive, or enjoyable<br>rất dễ chịu, hấp dẫn hoặc thú vị",
+        "pinyin": "/dɪˈlaɪt.fəl/",
+        "audioSrc": ""
     },
     {
         "id": "134",
