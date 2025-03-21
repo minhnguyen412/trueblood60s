@@ -1041,8 +1041,8 @@
     },
     {
         "id": "131",
-        "imageSrc": "",
-        "character": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/tranquility-min_svb6nd.png",
+        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1741331686/tranquility-min_svb6nd.png",
+        "character": "stress-relieving",
         "meaning": "making stress less strong<br>giảm căng thẳng",
         "pinyin": "strɛs-rɪˈlivɪŋ",
         "audioSrc": "https://storage.googleapis.com/script60s/SOUND/words-phrases-speak/Cau%203/131.mp3"
