@@ -88,5 +88,59 @@
         "highlight": ["free-spirited", "inspiring", "adventurous"],
         "description": "aɪ əˈspɛʃli ɛnˈʤɔɪ haʊ fri-ˈspɪrɪtəd ðeɪ ɑr, æz ɪt meɪks ˈspɛndɪŋ taɪm wɪð ðɛm ˈrɪli ɪnˈspaɪrɪŋ ænd ædˈvɛnʧərəs.", 
         "audioSrc": ""
+    },
+    {
+        "id": 11,
+        "user": "Example 1",
+        "title": "I prefer a busy cafe because complete silence makes me feel uneasy and distracted by my own thoughts.",
+        "segments": ["I prefer", " ", "a busy cafe", " because ", "complete silence makes me feel uneasy and distracted by my own thoughts", "."],
+        "highlight": ["a busy cafe", "complete silence makes me feel uneasy and distracted by my own thoughts"],
+        "description": "aɪ prəˈfɜr ə ˈbɪzi kəˈfeɪ bɪˈkɔz kəmˈplit ˈsaɪləns meɪks mi fil əˈnizi ænd dɪˈstræktɪd baɪ maɪ oʊn θɔts.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 12,
+        "user": "Example 2",
+        "title": "I prefer a silent environment because distractions make it hard for me to stay engaged.",
+        "segments": ["I prefer ", "a silent environment", " because ", "distractions make it hard for me to stay engaged", "."],
+        "highlight": ["a silent environment", "distractions make it hard for me to stay engaged"],
+        "description": "aɪ prəˈfɜr ə ˈsaɪlənt ɪnˈvaɪrənmənt bɪˈkɔz dɪˈstrækʃənz meɪk ɪt hɑrd fɔr mi tu steɪ ɛnˈɡeɪʤd.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 13,
+        "user": "Example 3",
+        "title": "I prefer reading on public transport because it allows me to visualize and understand the material better.",
+        "segments": ["I prefer ", "reading on public transport", " because it allows me to ", "visualize and understand the material better", "."],
+        "highlight": ["reading on public transport", "visualize and understand the material better"],
+        "description": "aɪ prəˈfɜr ˈridɪŋ ɑn ˈpʌblɪk ˈtrænspɔrt bɪˈkɔz ɪt əˈlaʊz mi tu ˈvɪʒwəˌlaɪz ænd ˌʌndərˈstænd ðə məˈtɪriəl ˈbɛtər.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 14,
+        "user": "Example 4",
+        "title": "I prefer reading in a peaceful space because it helps me to focus better and fully absorb the content.",
+        "segments": ["I prefer ", "reading in a peaceful space", " because it helps me to ", "focus better and fully absorb the content", "."],
+        "highlight": ["reading in a peaceful space", "focus better and fully absorb the content"],
+        "description": "aɪ prəˈfɜr ˈridɪŋ ɪn ə ˈpisfəl speɪs bɪˈkɔz ɪt hɛlps mi tu ˈfoʊkəs ˈbɛtər ænd ˈfʊli əbˈzɔrb ðə ˈkɑntɛnt.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 15,
+        "user": "Example 5",
+        "title": "However, if I have to read in a noisy environment, I can still focus by mentally blocking out the noise.",
+        "segments": ["However, if I have to read in ", "a noisy environment", ", I can still focus by ", "mentally blocking out the noise", "."],
+        "highlight": ["a noisy environment", "mentally blocking out the noise"],
+        "description": "ˌhaʊˈɛvər, ɪf aɪ hæv tu rid ɪn ə ˈnɔɪzi ɪnˈvaɪrənmənt, aɪ kæn stɪl ˈfoʊkəs baɪ ˈmɛntəli ˈblɑkɪŋ aʊt ðə nɔɪz.", 
+        "audioSrc": ""
+    },
+    {
+        "id": 16,
+        "user": "Example 6",
+        "title": "However, if I have to read in a peaceful surrounding, I can still concentrate by sipping coffee or taking notes as I read.",
+        "segments": ["However, if I have to read in ", "a peaceful surrounding", ", I can still concentrate by ", "sipping coffee or taking notes as I read", "."],
+        "highlight": ["a peaceful surrounding", "sipping coffee or taking notes as I read"],
+        "description": "haʊˈɛvər, ɪf aɪ hæv tu rid ɪn ə ˈpisfəl səˈraʊndɪŋ, aɪ kæn stɪl ˈkɑnsənˌtreɪt baɪ ˈsɪpɪŋ ˈkɑfi ɔr ˈteɪkɪŋ noʊts æz aɪ rid.", 
+        "audioSrc": ""
     }
 ]
