@@ -25,11 +25,11 @@
     },
       {
         "id": 4,
-        "title": "第四课：你去哪儿？",
-        "description": "Lesson 4: Where are you going?",
-        "thumbnail": "https://res.cloudinary.com/dndwvsqib/image/upload/f_auto,q_auto/v1734941430/hyjc-1-4_x0rj2g.png",
+        "title": "Do you need peace and quiet place to be able to read, or can you concentrate even in noisy situations?",
+        "description": "Part 1",
+        "thumbnail": "https://storage.googleapis.com/script60s/THUMBNAILS/speaking-p1.png",
         "videoLink": "https://www.youtube.com/embed/VIDEO_ID_1",
-        "htmlLink": "posts.html?postStartId=48&postEndId=57&quizStartId=1&quizEndId=16&id=4"
+        "htmlLink": "speaking.html?postStartId=9&postEndId=10&quizStartId=1&quizEndId=19&id=3&id2=4"
     },
       {
         "id": 5,
