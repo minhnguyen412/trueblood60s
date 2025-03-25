@@ -850,9 +850,9 @@
     {
         "id": "107",
         "imageSrc": "",
-        "character": "什么",
-        "meaning": "What",
-        "pinyin": "shénme",
+        "character": "prefer",
+        "meaning": "to like, choose, or want one thing rather than another<br>Prefer + noun (+ to + noun)<br>Prefer + V-ing (+ to + V-ing)<br>Prefer + to V + rather than + V<br>Prefer + that + S + (should) + V",
+        "pinyin": "/prɪˈfɝː/",
         "audioSrc": ""
     },
     {
@@ -1065,106 +1065,202 @@
     },
     {
         "id": "134",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672834/%E9%B8%A1%E8%9B%8B_x5fmqr.png",
-        "character": "鸡蛋",
-        "meaning": "Egg",
-        "pinyin": "jīdàn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673377/%E9%B8%A1%E8%9B%8B_siti7x.mp3"
+        "imageSrc": "",
+        "character": "help,
+        "meaning": "to make it possible or easier for someone to do something, by doing part of the work yourself or by providing advice, money, support, etc",
+        "pinyin": "/help/",
+        "audioSrc": ""
     },
     {
         "id": "135",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672834/%E9%B8%A1_nb4s3r.png",
-        "character": "鸡",
-        "meaning": "Chicken",
-        "pinyin": "jī",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673376/%E9%B8%A1_qom0a7.mp3"
+        "imageSrc": "",
+        "character": "allow",
+        "meaning": "to give permission for someone to do something, or to not prevent something from happening",
+        "pinyin": " /əˈlaʊ/",
+        "audioSrc": ""
     },
     {
         "id": "136",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672828/%E8%9B%8B_pjccha.png",
-        "character": "蛋",
-        "meaning": "Egg",
-        "pinyin": "dàn",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673337/%E8%9B%8B_szyns5.mp3"
+        "imageSrc": "",
+        "character": "a quiet place to read",
+        "meaning": "",
+        "pinyin": "ə ˈkwaɪət pleɪs tu rid",
+        "audioSrc": ""
     },
     {
         "id": "137",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672824/%E6%B1%A4_v2ici1.png",
-        "character": "汤",
-        "meaning": "Soup",
-        "pinyin": "tāng",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673315/%E6%B1%A4_l4hbsa.mp3"
+        "imageSrc": "",
+        "character": "reading in a peaceful space",
+        "meaning": "",
+        "pinyin": "ˈridɪŋ ɪn ə ˈpisfəl speɪs",
+        "audioSrc": ""
     },
     {
         "id": "138",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672814/%E5%95%A4%E9%85%92_su8nvb.png",
-        "character": "啤酒",
-        "meaning": "Beer",
-        "pinyin": "píjiǔ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673254/%E5%95%A4%E9%85%92_gwrn2k.mp3"
+        "imageSrc": "",
+        "character": "a silent environment",
+        "meaning": "",
+        "pinyin": "ə ˈsaɪlənt ɪnˈvaɪrənmənt",
+        "audioSrc": ""
     },
     {
         "id": "139",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672831/%E9%85%92_uxad5w.png",
-        "character": "酒",
-        "meaning": "Alcoholic drink",
-        "pinyin": "jiǔ",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673357/%E9%85%92_leyarj.mp3"
+        "imageSrc": "",
+        "character": "a quiet setting for reading",
+        "meaning": "",
+        "pinyin": "ə ˈkwaɪət ˈsɛtɪŋ fɔr ˈridɪŋ",
+        "audioSrc": ""
     },
     {
         "id": "140",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E8%BF%99%E4%BA%9B_snz8dq.png",
-        "character": "这些",
-        "meaning": "These",
-        "pinyin": "zhèxiē",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673351/%E8%BF%99%E4%BA%9B_u0mkct.mp3"
+        "imageSrc": "",
+        "character": "a peaceful surrounding",
+        "meaning": "",
+        "pinyin": "ə ˈpisfəl səˈraʊndɪŋ",
+        "audioSrc": ""
     },
     {
         "id": "141",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672809/%E4%BA%9B_vzw6vo.png",
-        "character": "些",
-        "meaning": "classifier - some",
-        "pinyin": "xiē",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673167/%E4%BA%9B_bueai8.mp3"
+        "imageSrc": "",
+        "character": "a noisy environment",
+        "meaning": "",
+        "pinyin": "ə ˈnɔɪzi ɪnˈvaɪrənmənt",
+        "audioSrc": ""
     },
     {
         "id": "142",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672808/%E4%B8%80%E4%BA%9B_mqsor0.png",
-        "character": "一些",
-        "meaning": "some; a few; a little",
-        "pinyin": "yìxiē",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673152/%E4%B8%80%E4%BA%9B_goqgmk.mp3"
+        "imageSrc": "",
+        "character": "a busy cafe",
+        "meaning": "",
+        "pinyin": "ə ˈbɪzi kæˈfeɪ",
+        "audioSrc": ""
     },
     {
         "id": "143",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672830/%E9%82%A3%E4%BA%9B_is9xsd.png",
-        "character": "那些",
-        "meaning": "Those",
-        "pinyin": "nàxiē",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673354/%E9%82%A3%E4%BA%9B_jg8gap.mp3"
+        "imageSrc": "",
+        "character": "reading on public transport",
+        "meaning": "",
+        "pinyin": "ˈridɪŋ ɑn ˈpʌblɪk ˈtrænspɔrt",
+        "audioSrc": ""
     },
     {
         "id": "144",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672834/%E9%A5%BA%E5%AD%90_rp2mwl.png",
-        "character": "饺子",
-        "meaning": "Dumpling",
-        "pinyin": "jiǎozi",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673372/%E9%A5%BA%E5%AD%90_lak83j.mp3"
+        "imageSrc": "",
+        "character": "focus better and fully absorb the content",
+        "meaning": "",
+        "pinyin": "ˈfoʊkəs ˈbɛtər ænd ˈfʊli əbˈzɔrb ðə ˈkɑntɛnt",
+        "audioSrc": ""
     },
     {
         "id": "145",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672812/%E5%8C%85%E5%AD%90_xmzahv.png",
-        "character": "包子",
-        "meaning": "Steamed bun",
-        "pinyin": "bāozi",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673238/%E5%8C%85%E5%AD%90_rlp4us.mp3"
+        "imageSrc": "",
+        "character": "enjoy the book without interruptions",
+        "meaning": "",
+        "pinyin": "ɪnˈʤɔɪ ðə bʊk wɪˈθaʊt ˌɪntəˈrʌpʃənz",
+        "audioSrc": ""
     },
     {
         "id": "146",
-        "imageSrc": "https://res.cloudinary.com/dndwvsqib/image/upload/v1734672832/%E9%9D%A2%E6%9D%A1_p9jkzq.png",
-        "character": "面条",
-        "meaning": "Noodle",
-        "pinyin": "miàntiáo",
-        "audioSrc": "https://res.cloudinary.com/dndwvsqib/video/upload/v1734673365/%E9%9D%A2%E6%9D%A1_qvegyw.mp3"
+        "imageSrc": "",
+        "character": "visualize and understand the material better",
+        "meaning": "",
+        "pinyin": "ˈvɪʒwəˌlaɪz ænd ˌʌndərˈstænd ðə məˈtɪriəl ˈbɛtər",
+        "audioSrc": ""
+    },
+    {
+        "id": "147",
+        "imageSrc": "",
+        "character": "sipping coffee or taking notes as I read",
+        "meaning": "",
+        "pinyin": "ˈsɪpɪŋ ˈkɑfi ɔr ˈteɪkɪŋ noʊts æz aɪ rid",
+        "audioSrc": ""
+    },
+    {
+        "id": "148",
+        "imageSrc": "",
+        "character": "distractions make it hard for me to stay engaged",
+        "meaning": "",
+        "pinyin": "dɪˈstrækʃənz meɪk ɪt hɑrd fɔr mi tu steɪ ɛnˈɡeɪʤd",
+        "audioSrc": ""
+    },
+    {
+        "id": "149",
+        "imageSrc": "",
+        "character": "distractions make me lose track of the storyline easily",
+        "meaning": "",
+        "pinyin": "dɪˈstrækʃənz meɪk mi luz træk ʌv ðə ˈstɔriˌlaɪn ˈizəli",
+        "audioSrc": ""
+    },
+    {
+        "id": "150",
+        "imageSrc": "",
+        "character": "complete silence makes me feel uneasy and distracted by my own thoughts",
+        "meaning": "",
+        "pinyin": "kəmˈplit ˈsaɪləns meɪks mi fil əˈnizi ænd dɪˈstræktɪd baɪ maɪ oʊn θɔts",
+        "audioSrc": ""
+    },
+    {
+        "id": "151",
+        "imageSrc": "",
+        "character": "a completely silent environment feels too isolating and makes it harder for me to focus",
+        "meaning": "",
+        "pinyin": "ə kəmˈplitli ˈsaɪlənt ɪnˈvaɪrənmənt filz tu ˈaɪsəˌleɪtɪŋ ænd meɪks ɪt ˈhɑrdər fɔr mi tu ˈfoʊkəs",
+        "audioSrc": ""
+    },
+    {
+        "id": "152",
+        "imageSrc": "",
+        "character": "concentrate",
+        "meaning": "to direct your attention or your efforts towards a particular activity, subject, or problem",
+        "pinyin": " /ˈkɑːn.sən.treɪt/",
+        "audioSrc": ""
+    },
+    {
+        "id": "153",
+        "imageSrc": "",
+        "character": "focus",
+        "meaning": "(v)to give your full attention to what you are doing or to what is happening",
+        "pinyin": "/ˈfoʊ.kəs/",
+        "audioSrc": ""
+    },
+    {
+        "id": "154",
+        "imageSrc": "",
+        "character": "using noise-canceling headphones",
+        "meaning": "",
+        "pinyin": "ˈjuzɪŋ nɔɪz-ˈkænsəlɪŋ ˈhɛdˌfoʊnz",
+        "audioSrc": ""
+    },
+    {
+        "id": "155",
+        "imageSrc": "",
+        "character": "mentally blocking out the noise",
+        "meaning": "",
+        "pinyin": "ˈmɛntəli ˈblɑkɪŋ aʊt ðə nɔɪz",
+        "audioSrc": ""
+    },
+    {
+        "id": "156",
+        "imageSrc": "",
+        "character": "immersing myself in the book",
+        "meaning": "",
+        "pinyin": "ɪˈmɜrsɪŋ ˌmaɪˈsɛlf ɪn ðə bʊk",
+        "audioSrc": ""
+    },
+    {
+        "id": "157",
+        "imageSrc": "",
+        "character": "playing some soft music or background noise",
+        "meaning": "",
+        "pinyin": "ˈpleɪɪŋ sʌm sɑft ˈmjuzɪk ɔr ˈbækˌɡraʊnd nɔɪz",
+        "audioSrc": ""
+    },
+    {
+        "id": "158",
+        "imageSrc": "",
+        "character": "chewing gum or taking short breaks to stay engaged",
+        "meaning": "",
+        "pinyin": "ˈʧuɪŋ ɡʌm ɔr ˈteɪkɪŋ ʃɔrt breɪks tu steɪ ɛnˈɡeɪʤd",
+        "audioSrc": ""
     }
 ]
